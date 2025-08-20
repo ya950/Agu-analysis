@@ -8,9 +8,13 @@ on:
 jobs:
   market-analysis:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Setup Python
         uses: actions/setup-python@v4
@@ -19,6 +23,7 @@ jobs:
 
       - name: Install dependencies
         run: |
+          pip install --upgrade pip
           pip install requests beautifulsoup4 pandas lxml feedparser snownlp
 
       - name: Run market analysis

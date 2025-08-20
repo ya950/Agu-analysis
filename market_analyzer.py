@@ -146,6 +146,10 @@ def get_hot_topics():
 
 def analyze_sentiment(topics):
     """分析市场情绪"""
+    if not topics:
+        print("⚠️ 没有话题数据，跳过情感分析")
+        return None
+    
     sentiment_scores = []
     
     for topic in topics:
@@ -385,6 +389,10 @@ def calculate_market_strength(hot_stocks, sentiment):
     if not hot_stocks:
         return {'level': '弱市', 'score': 3, 'features': '缺乏热点'}
     
+    # 添加空值检查
+    if sentiment is None:
+        sentiment = {'avg_sentiment': 0.5}  # 使用默认值
+    
     avg_change = sum(s['change_pct'] for s in hot_stocks[:5]) / len(hot_stocks[:5])
     sentiment_score = sentiment.get('avg_sentiment', 0.5)
     
@@ -446,6 +454,10 @@ def assess_risks(hot_stocks, sentiment, themes):
     """智能风险评估"""
     risks = []
     opportunities = []
+    
+    # 添加空值检查
+    if sentiment is None:
+        sentiment = {'avg_sentiment': 0.5}
     
     # 检查涨幅风险
     if hot_stocks:
@@ -544,6 +556,35 @@ def generate_strategy(market_strength, risk_assessment, themes):
     
     return strategy
 
+def generate_default_analysis():
+    """生成默认分析（当数据不足时）"""
+    return """# 🤖 智能市场分析报告
+
+## 📊 市场强度评估
+**强度等级**: 数据不足
+**综合评分**: 5.0/10
+**主要特征**: 数据获取不完整，建议谨慎操作
+
+## 🔥 热点题材分析
+当前无法获取完整的题材数据，建议等待更多数据。
+
+## ⚠️ 风险评估
+**风险等级**: 中
+**仓位建议**: 3-5成（轻仓观望）
+
+**主要风险**:
+- 数据获取不完整，分析准确性受限
+- 建议等待更完整的市场数据
+
+## 🎯 操作策略
+**观望策略**
+- 当前数据不完整，建议暂时观望
+- 等待系统恢复正常后再做决策
+- 保持轻仓，控制风险
+
+---
+*分析时间: {datetime.now(tz).strftime('%Y-%m-%d %H:%M:%S')} | 智能规则引擎生成*"""
+
 def enhanced_rule_based_analysis(data):
     """增强版智能规则分析"""
     hot_stocks = data.get('hot_stocks', [])
@@ -551,6 +592,11 @@ def enhanced_rule_based_analysis(data):
     themes = data.get('theme_analysis', [])
     
     print("🧠 开始智能规则分析...")
+    
+    # 添加数据有效性检查
+    if not hot_stocks:
+        print("⚠️ 热门股票数据为空，使用默认分析")
+        return generate_default_analysis()
     
     # 执行各项分析
     market_strength = calculate_market_strength(hot_stocks, sentiment)
@@ -677,7 +723,7 @@ def generate_enhanced_report(hot_stocks, sentiment_analysis, theme_analysis, ind
 """
     
     for i, theme in enumerate(theme_analysis, 1):
-        leading_stocks = ', '.join(str(stock) for stock in theme['leading_stocks'][:2]) if theme['leading_stocks'] else '-'
+        leading_stocks = ', '.join(str(stock) for stock in theme['leading_stocks'][:2]) if theme['leading_stocks'] else '无'
         md_content += f"| {i} | {theme['theme_name']} | {theme['popularity_score']} | {theme['count']} | {theme['avg_change']} | {theme['news_count']} | {leading_stocks} |\n"
     
     # 添加智能分析部分
@@ -723,6 +769,7 @@ def generate_enhanced_report(hot_stocks, sentiment_analysis, theme_analysis, ind
 """
     
     md_content += f"""
+
 ---
 
 ## 📈 分析说明
@@ -858,7 +905,7 @@ def generate_comprehensive_report(hot_stocks, sentiment_analysis, theme_analysis
 """
     
     for i, theme in enumerate(theme_analysis, 1):
-        leading_stocks = ', '.join(str(stock) for stock in theme['leading_stocks'][:2]) if theme['leading_stocks'] else '-'
+        leading_stocks = ', '.join(str(stock) for stock in theme['leading_stocks'][:2]) if theme['leading_stocks'] else '无'
         md_content += f"| {i} | {theme['theme_name']} | {theme['popularity_score']} | {theme['count']} | {theme['avg_change']} | {theme['news_count']} | {leading_stocks} |\n"
     
     md_content += f"""
@@ -902,6 +949,8 @@ def main():
     sentiment_analysis = analyze_sentiment(hot_topics)
     if sentiment_analysis:
         print(f"市场情绪分析完成: {sentiment_analysis['market_effect']}")
+    else:
+        print("市场情绪分析失败，将使用默认值")
     
     # 4. 获取热点题材
     hot_themes = get_hot_themes()

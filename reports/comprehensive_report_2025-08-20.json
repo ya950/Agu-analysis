@@ -1,0 +1,239 @@
+{
+  "date": "2025-08-20",
+  "hot_stocks": [
+    {
+      "code": "300701",
+      "name": "森霸传感",
+      "change_pct": 20.04,
+      "price": 79422645.0,
+      "volume": 22.2,
+      "amount": 131.06,
+      "pe": 11.47,
+      "market_cap": -40.584480394789,
+      "timestamp": "2025-08-20 19:09:15"
+    },
+    {
+      "code": "300686",
+      "name": "智动力",
+      "change_pct": 20.02,
+      "price": 113707238.0,
+      "volume": 24.39,
+      "amount": -36.57,
+      "pe": 10.99,
+      "market_cap": 33.568877664813,
+      "timestamp": "2025-08-20 19:09:15"
+    },
+    {
+      "code": "301008",
+      "name": "宏昌科技",
+      "change_pct": 20.02,
+      "price": 147152897.0,
+      "volume": 17.11,
+      "amount": 84.11,
+      "pe": 25.22,
+      "market_cap": -26.07492267743,
+      "timestamp": "2025-08-20 19:09:15"
+    },
+    {
+      "code": "688702",
+      "name": "盛科通信-U",
+      "change_pct": 20.0,
+      "price": -3261506.0,
+      "volume": 4.94,
+      "amount": -748.63,
+      "pe": 87.0,
+      "market_cap": -150.424089343384,
+      "timestamp": "2025-08-20 19:09:15"
+    },
+    {
+      "code": "300893",
+      "name": "松原安全",
+      "change_pct": 20.0,
+      "price": 28223043.0,
+      "volume": 6.77,
+      "amount": 31.4,
+      "pe": 28.01,
+      "market_cap": 30.854202828657,
+      "timestamp": "2025-08-20 19:09:15"
+    },
+    {
+      "code": "688657",
+      "name": "浩辰软件",
+      "change_pct": 20.0,
+      "price": 41015402.0,
+      "volume": 9.6,
+      "amount": 77.35,
+      "pe": 53.0,
+      "market_cap": 20.571166238167,
+      "timestamp": "2025-08-20 19:09:15"
+    },
+    {
+      "code": "301041",
+      "name": "金百泽",
+      "change_pct": 19.99,
+      "price": 72026704.0,
+      "volume": 22.21,
+      "amount": -373.85,
+      "pe": 29.99,
+      "market_cap": -141.661008109012,
+      "timestamp": "2025-08-20 19:09:15"
+    },
+    {
+      "code": "300029",
+      "name": "*ST天龙",
+      "change_pct": 16.47,
+      "price": 13774496.0,
+      "volume": 10.72,
+      "amount": -54.28,
+      "pe": 5.75,
+      "market_cap": -230.996209341186,
+      "timestamp": "2025-08-20 19:09:15"
+    },
+    {
+      "code": "688798",
+      "name": "艾为电子",
+      "change_pct": 15.85,
+      "price": 125574836.0,
+      "volume": 10.03,
+      "amount": 70.23,
+      "pe": 79.28,
+      "market_cap": 71.086769438441,
+      "timestamp": "2025-08-20 19:09:15"
+    },
+    {
+      "code": "688521",
+      "name": "芯原股份",
+      "change_pct": 15.52,
+      "price": 174224208.0,
+      "volume": 6.18,
+      "amount": -87.7,
+      "pe": 121.0,
+      "market_cap": -6.454389503308,
+      "timestamp": "2025-08-20 19:09:15"
+    }
+  ],
+  "sentiment_analysis": null,
+  "theme_analysis": [
+    {
+      "theme_name": "化纤行业",
+      "popularity_score": 0.6,
+      "count": 1,
+      "avg_change": 3.34,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "9.95"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "酿酒行业",
+      "popularity_score": 0.6,
+      "count": 1,
+      "avg_change": 3.22,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "10.0"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "半导体",
+      "popularity_score": 0.58,
+      "count": 1,
+      "avg_change": 2.74,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "20.0"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "小金属",
+      "popularity_score": 0.58,
+      "count": 1,
+      "avg_change": 2.53,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "9.99"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "光学光电子",
+      "popularity_score": 0.57,
+      "count": 1,
+      "avg_change": 2.32,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "10.08"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "汽车整车",
+      "popularity_score": 0.57,
+      "count": 1,
+      "avg_change": 2.3,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "10.0"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "消费电子",
+      "popularity_score": 0.56,
+      "count": 1,
+      "avg_change": 2.0,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "10.03"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "保险",
+      "popularity_score": 0.56,
+      "count": 1,
+      "avg_change": 1.95,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "3.28"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "航天航空",
+      "popularity_score": 0.55,
+      "count": 1,
+      "avg_change": 1.73,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "9.99"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "汽车服务",
+      "popularity_score": 0.55,
+      "count": 1,
+      "avg_change": 1.69,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "5.51"
+      ],
+      "related_news": []
+    }
+  ],
+  "generated_at": "2025-08-20 19:09:24"
+}

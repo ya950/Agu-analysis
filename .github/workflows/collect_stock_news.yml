@@ -1,0 +1,33 @@
+name: A-Stock Market Analysis
+
+on:
+  schedule:
+    - cron: '0 1,7 * * 1-5'  # 北京时间9点和15点运行（UTC时间1点和7点）
+  workflow_dispatch:       # 允许手动触发
+
+jobs:
+  market-analysis:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          pip install requests beautifulsoup4 pandas lxml feedparser snownlp
+
+      - name: Run market analysis
+        run: python market_analyzer.py
+
+      - name: Commit results
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "actions@github.com"
+          git add -A
+          git diff --staged --quiet || git commit -m "Update market analysis at $(date -u)"
+          git push

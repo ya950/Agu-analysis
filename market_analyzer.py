@@ -872,7 +872,7 @@ def generate_comprehensive_report(hot_stocks, sentiment_analysis, theme_analysis
 - **出现次数**: {theme['count']} 次
 - **平均涨幅**: {theme['avg_change']}%
 - **相关新闻**: {theme['news_count']} 条
-- **领涨股**: {', '。join(str(stock) for stock in theme['leading_stocks']) if theme['leading_stocks'] else '无'}
+- **领涨股**: {', '.join(str(stock) for stock in theme['leading_stocks']) if theme['leading_stocks'] else '无'}
 - **相关新闻**:
 """
         for news in theme['related_news'][:2]:

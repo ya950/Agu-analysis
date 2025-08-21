@@ -5,120 +5,180 @@
       "code": "688489",
       "name": "三未信安",
       "change_pct": 20.01,
-      "price": 41928508.0,
-      "volume": 8.65,
+      "price": 54641641.0,
+      "volume": 10.07,
       "amount": -43.61,
       "pe": 44.36,
       "market_cap": -241.271829182743,
-      "timestamp": "2025-08-21 10:40:25"
+      "timestamp": "2025-08-21 15:24:29"
     },
     {
       "code": "688309",
       "name": "恒誉环保",
       "change_pct": 19.98,
-      "price": 16964205.0,
-      "volume": 5.84,
+      "price": 22860057.0,
+      "volume": 7.67,
       "amount": 67.24,
       "pe": 25.01,
       "market_cap": 150.376042019572,
-      "timestamp": "2025-08-21 10:40:25"
-    },
-    {
-      "code": "300542",
-      "name": "新晨科技",
-      "change_pct": 19.98,
-      "price": 230667103.0,
-      "volume": 9.99,
-      "amount": -313.42,
-      "pe": 24.45,
-      "market_cap": 52.574698310074,
-      "timestamp": "2025-08-21 10:40:25"
+      "timestamp": "2025-08-21 15:24:29"
     },
     {
       "code": "300478",
       "name": "杭州高新",
       "change_pct": 19.98,
-      "price": 78893849.0,
-      "volume": 15.52,
+      "price": 88433187.0,
+      "volume": 16.21,
       "amount": -346.81,
       "pe": 16.48,
       "market_cap": 55.730716458994,
-      "timestamp": "2025-08-21 10:40:25"
+      "timestamp": "2025-08-21 15:24:29"
     },
     {
-      "code": "300730",
-      "name": "科创信息",
-      "change_pct": 17.3,
-      "price": 184194370.0,
-      "volume": 37.83,
-      "amount": -52.66,
-      "pe": 19.7,
-      "market_cap": -51.985394623205,
-      "timestamp": "2025-08-21 10:40:25"
+      "code": "300352",
+      "name": "北信源",
+      "change_pct": 19.97,
+      "price": 822912208.0,
+      "volume": 34.47,
+      "amount": -51.94,
+      "pe": 6.19,
+      "market_cap": -1901.06814415686,
+      "timestamp": "2025-08-21 15:24:29"
+    },
+    {
+      "code": "301363",
+      "name": "美好医疗",
+      "change_pct": 18.0,
+      "price": 90064438.0,
+      "volume": 33.93,
+      "amount": 58.23,
+      "pe": 19.89,
+      "market_cap": -32.435697197977,
+      "timestamp": "2025-08-21 15:24:29"
     },
     {
       "code": "300379",
       "name": "*ST东通",
       "change_pct": 15.74,
-      "price": 15726396.0,
-      "volume": 13.34,
+      "price": 15178950.0,
+      "volume": 19.87,
       "amount": -28.54,
       "pe": 5.49,
       "market_cap": 58.12460791101,
-      "timestamp": "2025-08-21 10:40:25"
+      "timestamp": "2025-08-21 15:24:29"
     },
     {
-      "code": "301363",
-      "name": "美好医疗",
-      "change_pct": 13.57,
-      "price": 75506280.0,
-      "volume": 23.99,
-      "amount": 56.04,
-      "pe": 19.89,
-      "market_cap": -32.435697197977,
-      "timestamp": "2025-08-21 10:40:25"
+      "code": "300991",
+      "name": "创益通",
+      "change_pct": 15.01,
+      "price": 53239543.0,
+      "volume": 19.77,
+      "amount": 218.21,
+      "pe": 32.88,
+      "market_cap": 200.060893898479,
+      "timestamp": "2025-08-21 15:24:29"
     },
     {
-      "code": "688201",
-      "name": "信安世纪",
-      "change_pct": 13.28,
-      "price": 20058406.0,
-      "volume": 7.56,
-      "amount": -106.18,
-      "pe": 12.58,
-      "market_cap": 65.129698233107,
-      "timestamp": "2025-08-21 10:40:25"
+      "code": "300345",
+      "name": "华民股份",
+      "change_pct": 13.65,
+      "price": 2981760.0,
+      "volume": 35.25,
+      "amount": -43.66,
+      "pe": 8.21,
+      "market_cap": 29.801151198671,
+      "timestamp": "2025-08-21 15:24:29"
     },
     {
-      "code": "300469",
-      "name": "信息发展",
-      "change_pct": 12.76,
-      "price": 42449386.0,
-      "volume": 7.27,
-      "amount": -156.78,
-      "pe": 44.4,
-      "market_cap": 16.236540869861,
-      "timestamp": "2025-08-21 10:40:25"
+      "code": "300766",
+      "name": "每日互动",
+      "change_pct": 13.62,
+      "price": 326611856.0,
+      "volume": 24.88,
+      "amount": -296.92,
+      "pe": 41.68,
+      "market_cap": -869.013749976473,
+      "timestamp": "2025-08-21 15:24:29"
     },
     {
-      "code": "688466",
-      "name": "金科环境",
-      "change_pct": 12.46,
-      "price": 8727601.0,
-      "volume": 2.56,
-      "amount": 68.25,
-      "pe": 22.79,
-      "market_cap": 33.135427540491,
-      "timestamp": "2025-08-21 10:40:25"
+      "code": "300730",
+      "name": "科创信息",
+      "change_pct": 13.17,
+      "price": 167006748.0,
+      "volume": 47.05,
+      "amount": -50.81,
+      "pe": 19.7,
+      "market_cap": -51.985394623205,
+      "timestamp": "2025-08-21 15:24:29"
     }
   ],
   "sentiment_analysis": null,
   "theme_analysis": [
     {
-      "theme_name": "多元金融",
-      "popularity_score": 0.56,
+      "theme_name": "采掘行业",
+      "popularity_score": 0.57,
       "count": 1,
-      "avg_change": 1.96,
+      "avg_change": 2.3,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "10.05"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "化肥行业",
+      "popularity_score": 0.55,
+      "count": 1,
+      "avg_change": 1.54,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "6.36"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "美容护理",
+      "popularity_score": 0.54,
+      "count": 1,
+      "avg_change": 1.23,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "10.23"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "电力行业",
+      "popularity_score": 0.53,
+      "count": 1,
+      "avg_change": 1.09,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "9.99"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "燃气",
+      "popularity_score": 0.53,
+      "count": 1,
+      "avg_change": 0.95,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "9.99"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "多元金融",
+      "popularity_score": 0.53,
+      "count": 1,
+      "avg_change": 0.87,
       "news_count": 0,
       "source_count": 1,
       "leading_stocks": [
@@ -128,9 +188,9 @@
     },
     {
       "theme_name": "软件开发",
-      "popularity_score": 0.55,
+      "popularity_score": 0.52,
       "count": 1,
-      "avg_change": 1.79,
+      "avg_change": 0.78,
       "news_count": 0,
       "source_count": 1,
       "leading_stocks": [
@@ -139,101 +199,41 @@
       "related_news": []
     },
     {
-      "theme_name": "美容护理",
-      "popularity_score": 0.55,
-      "count": 1,
-      "avg_change": 1.72,
-      "news_count": 0,
-      "source_count": 1,
-      "leading_stocks": [
-        "12.56"
-      ],
-      "related_news": []
-    },
-    {
-      "theme_name": "采掘行业",
-      "popularity_score": 0.54,
-      "count": 1,
-      "avg_change": 1.32,
-      "news_count": 0,
-      "source_count": 1,
-      "leading_stocks": [
-        "6.79"
-      ],
-      "related_news": []
-    },
-    {
-      "theme_name": "航空机场",
-      "popularity_score": 0.53,
-      "count": 1,
-      "avg_change": 1.03,
-      "news_count": 0,
-      "source_count": 1,
-      "leading_stocks": [
-        "2.61"
-      ],
-      "related_news": []
-    },
-    {
-      "theme_name": "电力行业",
-      "popularity_score": 0.53,
-      "count": 1,
-      "avg_change": 0.97,
-      "news_count": 0,
-      "source_count": 1,
-      "leading_stocks": [
-        "9.99"
-      ],
-      "related_news": []
-    },
-    {
-      "theme_name": "农牧饲渔",
-      "popularity_score": 0.53,
-      "count": 1,
-      "avg_change": 0.92,
-      "news_count": 0,
-      "source_count": 1,
-      "leading_stocks": [
-        "7.2"
-      ],
-      "related_news": []
-    },
-    {
-      "theme_name": "工程咨询服务",
-      "popularity_score": 0.53,
-      "count": 1,
-      "avg_change": 0.85,
-      "news_count": 0,
-      "source_count": 1,
-      "leading_stocks": [
-        "6.64"
-      ],
-      "related_news": []
-    },
-    {
-      "theme_name": "装修装饰",
+      "theme_name": "银行",
       "popularity_score": 0.52,
       "count": 1,
-      "avg_change": 0.82,
+      "avg_change": 0.77,
       "news_count": 0,
       "source_count": 1,
       "leading_stocks": [
-        "8.16"
+        "2.21"
       ],
       "related_news": []
     },
     {
-      "theme_name": "保险",
+      "theme_name": "游戏",
       "popularity_score": 0.52,
       "count": 1,
-      "avg_change": 0.8,
+      "avg_change": 0.71,
       "news_count": 0,
       "source_count": 1,
       "leading_stocks": [
-        "2.33"
+        "5.16"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "化学原料",
+      "popularity_score": 0.52,
+      "count": 1,
+      "avg_change": 0.7,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "10.11"
       ],
       "related_news": []
     }
   ],
-  "generated_at": "2025-08-21 10:40:35"
+  "generated_at": "2025-08-21 15:24:35"
 }

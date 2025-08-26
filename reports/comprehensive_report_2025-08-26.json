@@ -1,0 +1,239 @@
+{
+  "date": "2025-08-26",
+  "hot_stocks": [
+    {
+      "code": "300645",
+      "name": "正元智慧",
+      "change_pct": 20.02,
+      "price": 168038098.0,
+      "volume": 27.11,
+      "amount": -71.11,
+      "pe": 19.62,
+      "market_cap": -13.503580431939,
+      "timestamp": "2025-08-26 10:41:32"
+    },
+    {
+      "code": "300971",
+      "name": "博亚精工",
+      "change_pct": 20.02,
+      "price": 102377464.0,
+      "volume": 18.82,
+      "amount": 35.08,
+      "pe": 23.82,
+      "market_cap": 61.264520810378,
+      "timestamp": "2025-08-26 10:41:32"
+    },
+    {
+      "code": "301603",
+      "name": "乔锋智能",
+      "change_pct": 20.0,
+      "price": 44248940.0,
+      "volume": 17.97,
+      "amount": 26.15,
+      "pe": 68.5,
+      "market_cap": 56.429713448424,
+      "timestamp": "2025-08-26 10:41:32"
+    },
+    {
+      "code": "688228",
+      "name": "开普云",
+      "change_pct": 20.0,
+      "price": 7457583.0,
+      "volume": 0.58,
+      "amount": 846.81,
+      "pe": 94.75,
+      "market_cap": 123.053683475495,
+      "timestamp": "2025-08-26 10:41:32"
+    },
+    {
+      "code": "301172",
+      "name": "君逸数码",
+      "change_pct": 19.99,
+      "price": 122523911.0,
+      "volume": 21.25,
+      "amount": 107.17,
+      "pe": 23.66,
+      "market_cap": 3.499687063408,
+      "timestamp": "2025-08-26 10:41:32"
+    },
+    {
+      "code": "300955",
+      "name": "嘉亨家化",
+      "change_pct": 17.23,
+      "price": 20920894.0,
+      "volume": 16.86,
+      "amount": -30.29,
+      "pe": 20.98,
+      "market_cap": -584.236678389681,
+      "timestamp": "2025-08-26 10:41:32"
+    },
+    {
+      "code": "688772",
+      "name": "珠海冠宇",
+      "change_pct": 14.39,
+      "price": -49531400.0,
+      "volume": 4.48,
+      "amount": 104.75,
+      "pe": 19.25,
+      "market_cap": 14.772335637616,
+      "timestamp": "2025-08-26 10:41:32"
+    },
+    {
+      "code": "300394",
+      "name": "天孚通信",
+      "change_pct": 14.38,
+      "price": -26572000.0,
+      "volume": 6.26,
+      "amount": 63.95,
+      "pe": 140.99,
+      "market_cap": 37.457650534193,
+      "timestamp": "2025-08-26 10:41:32"
+    },
+    {
+      "code": "300889",
+      "name": "爱克股份",
+      "change_pct": 11.93,
+      "price": 19621973.0,
+      "volume": 5.04,
+      "amount": -64.56,
+      "pe": 16.25,
+      "market_cap": 55.469198643207,
+      "timestamp": "2025-08-26 10:41:32"
+    },
+    {
+      "code": "688610",
+      "name": "埃科光电",
+      "change_pct": 11.77,
+      "price": -9376051.0,
+      "volume": 6.57,
+      "amount": 66.49,
+      "pe": 67.33,
+      "market_cap": 127.399141878517,
+      "timestamp": "2025-08-26 10:41:32"
+    }
+  ],
+  "sentiment_analysis": null,
+  "theme_analysis": [
+    {
+      "theme_name": "游戏",
+      "popularity_score": 0.59,
+      "count": 1,
+      "avg_change": 3.07,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "10.01"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "美容护理",
+      "popularity_score": 0.56,
+      "count": 1,
+      "avg_change": 1.84,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "17.28"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "化纤行业",
+      "popularity_score": 0.55,
+      "count": 1,
+      "avg_change": 1.72,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "10.01"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "化肥行业",
+      "popularity_score": 0.55,
+      "count": 1,
+      "avg_change": 1.55,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "4.66"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "综合行业",
+      "popularity_score": 0.54,
+      "count": 1,
+      "avg_change": 1.29,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "10.0"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "农牧饲渔",
+      "popularity_score": 0.53,
+      "count": 1,
+      "avg_change": 1.11,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "10.08"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "互联网服务",
+      "popularity_score": 0.53,
+      "count": 1,
+      "avg_change": 0.88,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "20.0"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "物流行业",
+      "popularity_score": 0.53,
+      "count": 1,
+      "avg_change": 0.85,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "9.2"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "装修装饰",
+      "popularity_score": 0.53,
+      "count": 1,
+      "avg_change": 0.84,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "10.0"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "农药兽药",
+      "popularity_score": 0.52,
+      "count": 1,
+      "avg_change": 0.82,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "7.18"
+      ],
+      "related_news": []
+    }
+  ],
+  "generated_at": "2025-08-26 10:41:38"
+}

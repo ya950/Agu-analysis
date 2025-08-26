@@ -5,120 +5,120 @@
       "code": "300645",
       "name": "正元智慧",
       "change_pct": 20.02,
-      "price": 168038098.0,
-      "volume": 27.11,
+      "price": 195517664.0,
+      "volume": 28.93,
       "amount": -71.11,
       "pe": 19.62,
       "market_cap": -13.503580431939,
-      "timestamp": "2025-08-26 10:41:32"
+      "timestamp": "2025-08-26 15:22:38"
+    },
+    {
+      "code": "300955",
+      "name": "嘉亨家化",
+      "change_pct": 20.02,
+      "price": 49174875.0,
+      "volume": 23.75,
+      "amount": -31.01,
+      "pe": 20.98,
+      "market_cap": -584.236678389681,
+      "timestamp": "2025-08-26 15:22:38"
     },
     {
       "code": "300971",
       "name": "博亚精工",
       "change_pct": 20.02,
-      "price": 102377464.0,
-      "volume": 18.82,
+      "price": 118834329.0,
+      "volume": 20.08,
       "amount": 35.08,
       "pe": 23.82,
       "market_cap": 61.264520810378,
-      "timestamp": "2025-08-26 10:41:32"
+      "timestamp": "2025-08-26 15:22:38"
     },
     {
-      "code": "301603",
-      "name": "乔锋智能",
+      "code": "688660",
+      "name": "电气风电",
       "change_pct": 20.0,
-      "price": 44248940.0,
-      "volume": 17.97,
-      "amount": 26.15,
-      "pe": 68.5,
-      "market_cap": 56.429713448424,
-      "timestamp": "2025-08-26 10:41:32"
+      "price": 138159232.0,
+      "volume": 6.79,
+      "amount": -39.71,
+      "pe": 17.92,
+      "market_cap": 11.608787946191,
+      "timestamp": "2025-08-26 15:22:38"
     },
     {
       "code": "688228",
       "name": "开普云",
       "change_pct": 20.0,
-      "price": 7457583.0,
-      "volume": 0.58,
+      "price": 10831726.0,
+      "volume": 0.67,
       "amount": 846.81,
       "pe": 94.75,
       "market_cap": 123.053683475495,
-      "timestamp": "2025-08-26 10:41:32"
+      "timestamp": "2025-08-26 15:22:38"
     },
     {
       "code": "301172",
       "name": "君逸数码",
       "change_pct": 19.99,
-      "price": 122523911.0,
-      "volume": 21.25,
+      "price": 138718051.0,
+      "volume": 22.63,
       "amount": 107.17,
       "pe": 23.66,
       "market_cap": 3.499687063408,
-      "timestamp": "2025-08-26 10:41:32"
+      "timestamp": "2025-08-26 15:22:38"
     },
     {
-      "code": "300955",
-      "name": "嘉亨家化",
-      "change_pct": 17.23,
-      "price": 20920894.0,
-      "volume": 16.86,
-      "amount": -30.29,
-      "pe": 20.98,
-      "market_cap": -584.236678389681,
-      "timestamp": "2025-08-26 10:41:32"
+      "code": "300994",
+      "name": "久祺股份",
+      "change_pct": 19.99,
+      "price": 49079438.0,
+      "volume": 14.51,
+      "amount": 31.0,
+      "pe": 18.01,
+      "market_cap": 90.00986016636,
+      "timestamp": "2025-08-26 15:22:38"
     },
     {
-      "code": "688772",
-      "name": "珠海冠宇",
-      "change_pct": 14.39,
-      "price": -49531400.0,
-      "volume": 4.48,
-      "amount": 104.75,
-      "pe": 19.25,
-      "market_cap": 14.772335637616,
-      "timestamp": "2025-08-26 10:41:32"
+      "code": "300096",
+      "name": "ST易联众",
+      "change_pct": 19.92,
+      "price": -8720999.0,
+      "volume": 19.59,
+      "amount": 33.43,
+      "pe": 5.18,
+      "market_cap": 170.527727466987,
+      "timestamp": "2025-08-26 15:22:38"
     },
     {
-      "code": "300394",
-      "name": "天孚通信",
-      "change_pct": 14.38,
-      "price": -26572000.0,
-      "volume": 6.26,
-      "amount": 63.95,
-      "pe": 140.99,
-      "market_cap": 37.457650534193,
-      "timestamp": "2025-08-26 10:41:32"
+      "code": "688310",
+      "name": "迈得医疗",
+      "change_pct": 15.55,
+      "price": 48088372.0,
+      "volume": 13.49,
+      "amount": -78.94,
+      "pe": 17.52,
+      "market_cap": -202.703364236439,
+      "timestamp": "2025-08-26 15:22:38"
     },
     {
-      "code": "300889",
-      "name": "爱克股份",
-      "change_pct": 11.93,
-      "price": 19621973.0,
-      "volume": 5.04,
-      "amount": -64.56,
-      "pe": 16.25,
-      "market_cap": 55.469198643207,
-      "timestamp": "2025-08-26 10:41:32"
-    },
-    {
-      "code": "688610",
-      "name": "埃科光电",
-      "change_pct": 11.77,
-      "price": -9376051.0,
-      "volume": 6.57,
-      "amount": 66.49,
-      "pe": 67.33,
-      "market_cap": 127.399141878517,
-      "timestamp": "2025-08-26 10:41:32"
+      "code": "688787",
+      "name": "海天瑞声",
+      "change_pct": 14.54,
+      "price": 173832875.0,
+      "volume": 12.39,
+      "amount": 6168.45,
+      "pe": 129.86,
+      "market_cap": 158.60296280249,
+      "timestamp": "2025-08-26 15:22:38"
     }
   ],
   "sentiment_analysis": null,
   "theme_analysis": [
     {
       "theme_name": "游戏",
-      "popularity_score": 0.59,
+      "popularity_score": 0.57,
       "count": 1,
-      "avg_change": 3.07,
+      "avg_change": 2.36,
       "news_count": 0,
       "source_count": 1,
       "leading_stocks": [
@@ -127,22 +127,10 @@
       "related_news": []
     },
     {
-      "theme_name": "美容护理",
+      "theme_name": "化纤行业",
       "popularity_score": 0.56,
       "count": 1,
-      "avg_change": 1.84,
-      "news_count": 0,
-      "source_count": 1,
-      "leading_stocks": [
-        "17.28"
-      ],
-      "related_news": []
-    },
-    {
-      "theme_name": "化纤行业",
-      "popularity_score": 0.55,
-      "count": 1,
-      "avg_change": 1.72,
+      "avg_change": 2.1,
       "news_count": 0,
       "source_count": 1,
       "leading_stocks": [
@@ -152,33 +140,33 @@
     },
     {
       "theme_name": "化肥行业",
-      "popularity_score": 0.55,
+      "popularity_score": 0.56,
       "count": 1,
-      "avg_change": 1.55,
+      "avg_change": 2.06,
       "news_count": 0,
       "source_count": 1,
       "leading_stocks": [
-        "4.66"
+        "10.02"
       ],
       "related_news": []
     },
     {
-      "theme_name": "综合行业",
-      "popularity_score": 0.54,
+      "theme_name": "美容护理",
+      "popularity_score": 0.56,
       "count": 1,
-      "avg_change": 1.29,
+      "avg_change": 1.93,
       "news_count": 0,
       "source_count": 1,
       "leading_stocks": [
-        "10.0"
+        "20.02"
       ],
       "related_news": []
     },
     {
       "theme_name": "农牧饲渔",
-      "popularity_score": 0.53,
+      "popularity_score": 0.54,
       "count": 1,
-      "avg_change": 1.11,
+      "avg_change": 1.49,
       "news_count": 0,
       "source_count": 1,
       "leading_stocks": [
@@ -187,34 +175,10 @@
       "related_news": []
     },
     {
-      "theme_name": "互联网服务",
-      "popularity_score": 0.53,
-      "count": 1,
-      "avg_change": 0.88,
-      "news_count": 0,
-      "source_count": 1,
-      "leading_stocks": [
-        "20.0"
-      ],
-      "related_news": []
-    },
-    {
-      "theme_name": "物流行业",
-      "popularity_score": 0.53,
-      "count": 1,
-      "avg_change": 0.85,
-      "news_count": 0,
-      "source_count": 1,
-      "leading_stocks": [
-        "9.2"
-      ],
-      "related_news": []
-    },
-    {
       "theme_name": "装修装饰",
-      "popularity_score": 0.53,
+      "popularity_score": 0.54,
       "count": 1,
-      "avg_change": 0.84,
+      "avg_change": 1.49,
       "news_count": 0,
       "source_count": 1,
       "leading_stocks": [
@@ -223,17 +187,53 @@
       "related_news": []
     },
     {
-      "theme_name": "农药兽药",
-      "popularity_score": 0.52,
+      "theme_name": "综合行业",
+      "popularity_score": 0.53,
       "count": 1,
-      "avg_change": 0.82,
+      "avg_change": 1.13,
       "news_count": 0,
       "source_count": 1,
       "leading_stocks": [
-        "7.18"
+        "10.0"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "风电设备",
+      "popularity_score": 0.53,
+      "count": 1,
+      "avg_change": 1.12,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "20.0"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "光学光电子",
+      "popularity_score": 0.53,
+      "count": 1,
+      "avg_change": 1.11,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "10.06"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "消费电子",
+      "popularity_score": 0.53,
+      "count": 1,
+      "avg_change": 1.08,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "9.98"
       ],
       "related_news": []
     }
   ],
-  "generated_at": "2025-08-26 10:41:38"
+  "generated_at": "2025-08-26 15:22:44"
 }

@@ -1,0 +1,239 @@
+{
+  "date": "2025-08-27",
+  "hot_stocks": [
+    {
+      "code": "688228",
+      "name": "开普云",
+      "change_pct": 20.0,
+      "price": 894815.0,
+      "volume": 7.48,
+      "amount": 1016.17,
+      "pe": 112.1,
+      "market_cap": 123.053683475495,
+      "timestamp": "2025-08-27 10:26:59"
+    },
+    {
+      "code": "688189",
+      "name": "南新制药",
+      "change_pct": 20.0,
+      "price": 91562607.0,
+      "volume": 8.35,
+      "amount": -145.09,
+      "pe": 15.16,
+      "market_cap": -143.663786192231,
+      "timestamp": "2025-08-27 10:26:59"
+    },
+    {
+      "code": "300222",
+      "name": "科大智能",
+      "change_pct": 19.98,
+      "price": 383625920.0,
+      "volume": 22.62,
+      "amount": 76.35,
+      "pe": 12.68,
+      "market_cap": 214.849317125458,
+      "timestamp": "2025-08-27 10:26:59"
+    },
+    {
+      "code": "688578",
+      "name": "艾力斯",
+      "change_pct": 19.97,
+      "price": 65001664.0,
+      "volume": 3.22,
+      "amount": 24.43,
+      "pe": 99.99,
+      "market_cap": 60.21586690844,
+      "timestamp": "2025-08-27 10:26:59"
+    },
+    {
+      "code": "300125",
+      "name": "*ST聆达",
+      "change_pct": 19.94,
+      "price": 14285943.0,
+      "volume": 3.74,
+      "amount": -10.67,
+      "pe": 7.88,
+      "market_cap": 37.561795778086,
+      "timestamp": "2025-08-27 10:26:59"
+    },
+    {
+      "code": "688018",
+      "name": "乐鑫科技",
+      "change_pct": 17.98,
+      "price": 51089344.0,
+      "volume": 3.65,
+      "amount": 92.48,
+      "pe": 193.01,
+      "market_cap": 73.798601776286,
+      "timestamp": "2025-08-27 10:26:59"
+    },
+    {
+      "code": "300496",
+      "name": "中科创达",
+      "change_pct": 17.53,
+      "price": 146131280.0,
+      "volume": 11.82,
+      "amount": 117.07,
+      "pe": 72.2,
+      "market_cap": 51.84048383869,
+      "timestamp": "2025-08-27 10:26:59"
+    },
+    {
+      "code": "301389",
+      "name": "隆扬电子",
+      "change_pct": 16.31,
+      "price": 175549419.0,
+      "volume": 24.25,
+      "amount": 135.44,
+      "pe": 50.8,
+      "market_cap": 72.259059361676,
+      "timestamp": "2025-08-27 10:26:59"
+    },
+    {
+      "code": "300218",
+      "name": "安利股份",
+      "change_pct": 15.34,
+      "price": 19862356.0,
+      "volume": 11.76,
+      "amount": 30.44,
+      "pe": 23.03,
+      "market_cap": 0.913144827292,
+      "timestamp": "2025-08-27 10:26:59"
+    },
+    {
+      "code": "301488",
+      "name": "豪恩汽电",
+      "change_pct": 14.25,
+      "price": 24690286.0,
+      "volume": 21.23,
+      "amount": 89.82,
+      "pe": 81.82,
+      "market_cap": 2.539748957292,
+      "timestamp": "2025-08-27 10:26:59"
+    }
+  ],
+  "sentiment_analysis": null,
+  "theme_analysis": [
+    {
+      "theme_name": "电源设备",
+      "popularity_score": 0.59,
+      "count": 1,
+      "avg_change": 2.99,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "10.0"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "半导体",
+      "popularity_score": 0.56,
+      "count": 1,
+      "avg_change": 1.88,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "10.0"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "小金属",
+      "popularity_score": 0.55,
+      "count": 1,
+      "avg_change": 1.78,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "9.99"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "互联网服务",
+      "popularity_score": 0.54,
+      "count": 1,
+      "avg_change": 1.17,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "10.02"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "证券",
+      "popularity_score": 0.53,
+      "count": 1,
+      "avg_change": 0.93,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "8.01"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "通信设备",
+      "popularity_score": 0.53,
+      "count": 1,
+      "avg_change": 0.92,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "10.0"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "软件开发",
+      "popularity_score": 0.53,
+      "count": 1,
+      "avg_change": 0.85,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "10.0"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "电子元件",
+      "popularity_score": 0.52,
+      "count": 1,
+      "avg_change": 0.76,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "10.03"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "电机",
+      "popularity_score": 0.52,
+      "count": 1,
+      "avg_change": 0.76,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "3.6"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "消费电子",
+      "popularity_score": 0.52,
+      "count": 1,
+      "avg_change": 0.7,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "6.56"
+      ],
+      "related_news": []
+    }
+  ],
+  "generated_at": "2025-08-27 10:27:06"
+}

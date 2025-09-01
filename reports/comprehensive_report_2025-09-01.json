@@ -1,0 +1,239 @@
+{
+  "date": "2025-09-01",
+  "hot_stocks": [
+    {
+      "code": "300237",
+      "name": "美晨科技",
+      "change_pct": 20.14,
+      "price": 187202910.0,
+      "volume": 19.44,
+      "amount": -26.27,
+      "pe": 2.7,
+      "market_cap": 52.17841880646,
+      "timestamp": "2025-09-01 10:53:23"
+    },
+    {
+      "code": "300324",
+      "name": "旋极信息",
+      "change_pct": 20.06,
+      "price": 580945488.0,
+      "volume": 24.76,
+      "amount": -48.33,
+      "pe": 7.17,
+      "market_cap": -20.459767677808,
+      "timestamp": "2025-09-01 10:53:23"
+    },
+    {
+      "code": "688203",
+      "name": "海正生材",
+      "change_pct": 20.03,
+      "price": 30425107.0,
+      "volume": 7.48,
+      "amount": 530.66,
+      "pe": 14.42,
+      "market_cap": -87.324779503898,
+      "timestamp": "2025-09-01 10:53:23"
+    },
+    {
+      "code": "688006",
+      "name": "杭可科技",
+      "change_pct": 20.01,
+      "price": 74910338.0,
+      "volume": 5.84,
+      "amount": 32.39,
+      "pe": 27.02,
+      "market_cap": 6.916118567567,
+      "timestamp": "2025-09-01 10:53:23"
+    },
+    {
+      "code": "688135",
+      "name": "利扬芯片",
+      "change_pct": 20.0,
+      "price": 65411911.0,
+      "volume": 4.91,
+      "amount": -410.56,
+      "pe": 28.5,
+      "market_cap": 16.380292897818,
+      "timestamp": "2025-09-01 10:53:23"
+    },
+    {
+      "code": "301193",
+      "name": "家联科技",
+      "change_pct": 20.0,
+      "price": 30457997.0,
+      "volume": 8.35,
+      "amount": -36.6,
+      "pe": 20.95,
+      "market_cap": -204.810974788748,
+      "timestamp": "2025-09-01 10:53:23"
+    },
+    {
+      "code": "301031",
+      "name": "中熔电气",
+      "change_pct": 20.0,
+      "price": 51875336.0,
+      "volume": 7.91,
+      "amount": 39.94,
+      "pe": 104.22,
+      "market_cap": 110.249508616461,
+      "timestamp": "2025-09-01 10:53:23"
+    },
+    {
+      "code": "300950",
+      "name": "德固特",
+      "change_pct": 20.0,
+      "price": 152267083.0,
+      "volume": 20.44,
+      "amount": 55.88,
+      "pe": 33.57,
+      "market_cap": -28.225571087278,
+      "timestamp": "2025-09-01 10:53:23"
+    },
+    {
+      "code": "688062",
+      "name": "迈威生物-U",
+      "change_pct": 19.92,
+      "price": -18773296.0,
+      "volume": 10.92,
+      "amount": -20.86,
+      "pe": 51.01,
+      "market_cap": -23.896868810089,
+      "timestamp": "2025-09-01 10:53:23"
+    },
+    {
+      "code": "300465",
+      "name": "高伟达",
+      "change_pct": 17.76,
+      "price": 18437760.0,
+      "volume": 23.07,
+      "amount": 442.58,
+      "pe": 25.7,
+      "market_cap": 60.352902286789,
+      "timestamp": "2025-09-01 10:53:23"
+    }
+  ],
+  "sentiment_analysis": null,
+  "theme_analysis": [
+    {
+      "theme_name": "贵金属",
+      "popularity_score": 0.72,
+      "count": 1,
+      "avg_change": 7.48,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "9.99"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "珠宝首饰",
+      "popularity_score": 0.6,
+      "count": 1,
+      "avg_change": 3.39,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "8.74"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "生物制品",
+      "popularity_score": 0.58,
+      "count": 1,
+      "avg_change": 2.58,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "10.0"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "医疗服务",
+      "popularity_score": 0.56,
+      "count": 1,
+      "avg_change": 2.16,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "10.06"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "旅游酒店",
+      "popularity_score": 0.56,
+      "count": 1,
+      "avg_change": 2.07,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "8.79"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "采掘行业",
+      "popularity_score": 0.56,
+      "count": 1,
+      "avg_change": 2.01,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "10.07"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "有色金属",
+      "popularity_score": 0.56,
+      "count": 1,
+      "avg_change": 1.94,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "9.94"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "化学制药",
+      "popularity_score": 0.56,
+      "count": 1,
+      "avg_change": 1.93,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "9.98"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "农药兽药",
+      "popularity_score": 0.56,
+      "count": 1,
+      "avg_change": 1.91,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "10.0"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "装修装饰",
+      "popularity_score": 0.56,
+      "count": 1,
+      "avg_change": 1.91,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "10.0"
+      ],
+      "related_news": []
+    }
+  ],
+  "generated_at": "2025-09-01 10:53:28"
+}

@@ -1,0 +1,118 @@
+{
+  "date": "2025-09-08",
+  "hot_stocks": [
+    {
+      "code": "300539",
+      "name": "横河精密",
+      "change_pct": 19.99,
+      "price": 144374504.0,
+      "volume": 11.76,
+      "amount": 195.4,
+      "pe": 33.5,
+      "market_cap": 79.03839024416,
+      "timestamp": "2025-09-08 10:39:27"
+    },
+    {
+      "code": "688115",
+      "name": "思林杰",
+      "change_pct": 17.26,
+      "price": 28416455.0,
+      "volume": 6.08,
+      "amount": -140.35,
+      "pe": 53.42,
+      "market_cap": -286.348767936491,
+      "timestamp": "2025-09-08 10:39:27"
+    },
+    {
+      "code": "301538",
+      "name": "骏鼎达",
+      "change_pct": 16.59,
+      "price": 54348008.0,
+      "volume": 16.92,
+      "amount": 36.68,
+      "pe": 76.38,
+      "market_cap": 17.697728193312,
+      "timestamp": "2025-09-08 10:39:27"
+    },
+    {
+      "code": "688170",
+      "name": "德龙激光",
+      "change_pct": 16.53,
+      "price": 25540908.0,
+      "volume": 9.46,
+      "amount": -154.1,
+      "pe": 41.06,
+      "market_cap": -56.916810007655,
+      "timestamp": "2025-09-08 10:39:27"
+    },
+    {
+      "code": "301000",
+      "name": "肇民科技",
+      "change_pct": 14.72,
+      "price": 89873513.0,
+      "volume": 4.01,
+      "amount": 87.34,
+      "pe": 44.3,
+      "market_cap": -8.568068912802,
+      "timestamp": "2025-09-08 10:39:27"
+    },
+    {
+      "code": "688353",
+      "name": "华盛锂电",
+      "change_pct": 14.54,
+      "price": 73780963.0,
+      "volume": 13.42,
+      "amount": -53.45,
+      "pe": 44.16,
+      "market_cap": -0.297342104044,
+      "timestamp": "2025-09-08 10:39:27"
+    },
+    {
+      "code": "301381",
+      "name": "赛维时代",
+      "change_pct": 14.24,
+      "price": -8942905.0,
+      "volume": 11.02,
+      "amount": 30.32,
+      "pe": 23.97,
+      "market_cap": -28.182880227699,
+      "timestamp": "2025-09-08 10:39:27"
+    },
+    {
+      "code": "688613",
+      "name": "奥精医疗",
+      "change_pct": 14.23,
+      "price": 17476731.0,
+      "volume": 10.52,
+      "amount": 210.96,
+      "pe": 21.75,
+      "market_cap": -13.518824941866,
+      "timestamp": "2025-09-08 10:39:27"
+    },
+    {
+      "code": "688028",
+      "name": "沃尔德",
+      "change_pct": 14.16,
+      "price": 51274208.0,
+      "volume": 8.46,
+      "amount": 58.31,
+      "pe": 30.4,
+      "market_cap": -19.570731633959,
+      "timestamp": "2025-09-08 10:39:27"
+    },
+    {
+      "code": "301662",
+      "name": "宏工科技",
+      "change_pct": 13.49,
+      "price": -1518774.0,
+      "volume": 22.56,
+      "amount": 120.22,
+      "pe": 135.0,
+      "market_cap": -15.697826472191,
+      "timestamp": "2025-09-08 10:39:27"
+    }
+  ],
+  "sentiment_analysis": null,
+  "theme_analysis": [],
+  "generated_at": "2025-09-08 10:39:51"
+}

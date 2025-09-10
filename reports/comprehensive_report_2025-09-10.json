@@ -1,0 +1,239 @@
+{
+  "date": "2025-09-10",
+  "hot_stocks": [
+    {
+      "code": "301575",
+      "name": "N艾芬达",
+      "change_pct": 192.09,
+      "price": 181646564.0,
+      "volume": 47.69,
+      "amount": 58.63,
+      "pe": 80.0,
+      "market_cap": 35.529796528138,
+      "timestamp": "2025-09-10 10:20:42"
+    },
+    {
+      "code": "301139",
+      "name": "元道通信",
+      "change_pct": 20.01,
+      "price": 99852460.0,
+      "volume": 24.36,
+      "amount": 87.37,
+      "pe": 19.19,
+      "market_cap": -46.96239040952,
+      "timestamp": "2025-09-10 10:20:42"
+    },
+    {
+      "code": "300428",
+      "name": "立中集团",
+      "change_pct": 14.82,
+      "price": 52490753.0,
+      "volume": 7.26,
+      "amount": 19.57,
+      "pe": 21.21,
+      "market_cap": 4.970919931693,
+      "timestamp": "2025-09-10 10:20:42"
+    },
+    {
+      "code": "301398",
+      "name": "星源卓镁",
+      "change_pct": 14.5,
+      "price": 121995564.0,
+      "volume": 34.95,
+      "amount": 96.95,
+      "pe": 51.0,
+      "market_cap": -15.201580443958,
+      "timestamp": "2025-09-10 10:20:42"
+    },
+    {
+      "code": "688388",
+      "name": "嘉元科技",
+      "change_pct": 14.32,
+      "price": 116113472.0,
+      "volume": 14.75,
+      "amount": 188.92,
+      "pe": 30.61,
+      "market_cap": 134.937947904489,
+      "timestamp": "2025-09-10 10:20:42"
+    },
+    {
+      "code": "300164",
+      "name": "通源石油",
+      "change_pct": 13.37,
+      "price": 85098312.0,
+      "volume": 26.83,
+      "amount": 45.85,
+      "pe": 5.44,
+      "market_cap": 11.307308923474,
+      "timestamp": "2025-09-10 10:20:42"
+    },
+    {
+      "code": "301448",
+      "name": "开创电气",
+      "change_pct": 12.71,
+      "price": -2594004.0,
+      "volume": 8.1,
+      "amount": -218.84,
+      "pe": 56.1,
+      "market_cap": -143.836314707603,
+      "timestamp": "2025-09-10 10:20:42"
+    },
+    {
+      "code": "300956",
+      "name": "英力股份",
+      "change_pct": 12.69,
+      "price": 21095607.0,
+      "volume": 10.63,
+      "amount": 339.75,
+      "pe": 17.6,
+      "market_cap": 23.058981205305,
+      "timestamp": "2025-09-10 10:20:42"
+    },
+    {
+      "code": "300857",
+      "name": "协创数据",
+      "change_pct": 12.47,
+      "price": 61352016.0,
+      "volume": 5.48,
+      "amount": 51.81,
+      "pe": 116.0,
+      "market_cap": 20.759908807438,
+      "timestamp": "2025-09-10 10:20:42"
+    },
+    {
+      "code": "300651",
+      "name": "金陵体育",
+      "change_pct": 12.1,
+      "price": 20888034.0,
+      "volume": 25.63,
+      "amount": 108.84,
+      "pe": 23.8,
+      "market_cap": 29.442259185293,
+      "timestamp": "2025-09-10 10:20:42"
+    }
+  ],
+  "sentiment_analysis": null,
+  "theme_analysis": [
+    {
+      "theme_name": "采掘行业",
+      "popularity_score": 0.59,
+      "count": 1,
+      "avg_change": 2.89,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "10.01"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "通信服务",
+      "popularity_score": 0.58,
+      "count": 1,
+      "avg_change": 2.6,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "10.08"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "通信设备",
+      "popularity_score": 0.55,
+      "count": 1,
+      "avg_change": 1.71,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "9.98"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "旅游酒店",
+      "popularity_score": 0.54,
+      "count": 1,
+      "avg_change": 1.43,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "10.05"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "航天航空",
+      "popularity_score": 0.54,
+      "count": 1,
+      "avg_change": 1.23,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "5.78"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "文化传媒",
+      "popularity_score": 0.54,
+      "count": 1,
+      "avg_change": 1.2,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "9.99"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "互联网服务",
+      "popularity_score": 0.53,
+      "count": 1,
+      "avg_change": 1.16,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "10.0"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "医疗服务",
+      "popularity_score": 0.53,
+      "count": 1,
+      "avg_change": 0.95,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "7.83"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "商业百货",
+      "popularity_score": 0.53,
+      "count": 1,
+      "avg_change": 0.91,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "9.99"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "计算机设备",
+      "popularity_score": 0.53,
+      "count": 1,
+      "avg_change": 0.89,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "10.0"
+      ],
+      "related_news": []
+    }
+  ],
+  "generated_at": "2025-09-10 10:20:48"
+}

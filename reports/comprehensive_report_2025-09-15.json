@@ -1,0 +1,239 @@
+{
+  "date": "2025-09-15",
+  "hot_stocks": [
+    {
+      "code": "301150",
+      "name": "中一科技",
+      "change_pct": 20.0,
+      "price": 157415560.0,
+      "volume": 25.21,
+      "amount": 334.47,
+      "pe": 36.8,
+      "market_cap": 129.232526300124,
+      "timestamp": "2025-09-15 10:40:07"
+    },
+    {
+      "code": "300661",
+      "name": "圣邦股份",
+      "change_pct": 20.0,
+      "price": 461684624.0,
+      "volume": 14.63,
+      "amount": 134.5,
+      "pe": 84.45,
+      "market_cap": 12.420617380186,
+      "timestamp": "2025-09-15 10:40:07"
+    },
+    {
+      "code": "301488",
+      "name": "豪恩汽电",
+      "change_pct": 20.0,
+      "price": 118929330.0,
+      "volume": 30.23,
+      "amount": 187.43,
+      "pe": 160.5,
+      "market_cap": 2.539748957292,
+      "timestamp": "2025-09-15 10:40:07"
+    },
+    {
+      "code": "301125",
+      "name": "腾亚精工",
+      "change_pct": 19.98,
+      "price": 25646975.0,
+      "volume": 9.39,
+      "amount": 1710.92,
+      "pe": 20.01,
+      "market_cap": 110.303942050778,
+      "timestamp": "2025-09-15 10:40:07"
+    },
+    {
+      "code": "300043",
+      "name": "星辉娱乐",
+      "change_pct": 19.28,
+      "price": 166647460.0,
+      "volume": 12.82,
+      "amount": 26.56,
+      "pe": 5.55,
+      "market_cap": 186.776377550841,
+      "timestamp": "2025-09-15 10:40:07"
+    },
+    {
+      "code": "688536",
+      "name": "思瑞浦",
+      "change_pct": 16.47,
+      "price": -41519840.0,
+      "volume": 7.68,
+      "amount": 178.94,
+      "pe": 165.41,
+      "market_cap": 200.073538496312,
+      "timestamp": "2025-09-15 10:40:07"
+    },
+    {
+      "code": "300469",
+      "name": "信息发展",
+      "change_pct": 16.24,
+      "price": 13019575.0,
+      "volume": 6.19,
+      "amount": -198.98,
+      "pe": 71.2,
+      "market_cap": -29.836667271855,
+      "timestamp": "2025-09-15 10:40:07"
+    },
+    {
+      "code": "688329",
+      "name": "艾隆科技",
+      "change_pct": 16.18,
+      "price": 29658107.0,
+      "volume": 11.99,
+      "amount": -115.29,
+      "pe": 21.72,
+      "market_cap": 55.472750128427,
+      "timestamp": "2025-09-15 10:40:07"
+    },
+    {
+      "code": "301358",
+      "name": "湖南裕能",
+      "change_pct": 16.05,
+      "price": 99504928.0,
+      "volume": 10.36,
+      "amount": 57.76,
+      "pe": 40.99,
+      "market_cap": -21.590017609344,
+      "timestamp": "2025-09-15 10:40:07"
+    },
+    {
+      "code": "300478",
+      "name": "杭州高新",
+      "change_pct": 15.58,
+      "price": 16169320.0,
+      "volume": 13.57,
+      "amount": -235.81,
+      "pe": 21.61,
+      "market_cap": 21.54254664374,
+      "timestamp": "2025-09-15 10:40:07"
+    }
+  ],
+  "sentiment_analysis": null,
+  "theme_analysis": [
+    {
+      "theme_name": "游戏",
+      "popularity_score": 0.6,
+      "count": 1,
+      "avg_change": 3.49,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "10.01"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "电池",
+      "popularity_score": 0.59,
+      "count": 1,
+      "avg_change": 2.97,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "20.0"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "能源金属",
+      "popularity_score": 0.56,
+      "count": 1,
+      "avg_change": 2.04,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "6.94"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "半导体",
+      "popularity_score": 0.55,
+      "count": 1,
+      "avg_change": 1.72,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "10.0"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "汽车零部件",
+      "popularity_score": 0.55,
+      "count": 1,
+      "avg_change": 1.69,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "9.99"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "电机",
+      "popularity_score": 0.55,
+      "count": 1,
+      "avg_change": 1.64,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "10.01"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "汽车整车",
+      "popularity_score": 0.53,
+      "count": 1,
+      "avg_change": 1.15,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "9.98"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "农牧饲渔",
+      "popularity_score": 0.52,
+      "count": 1,
+      "avg_change": 0.81,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "10.02"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "医疗服务",
+      "popularity_score": 0.52,
+      "count": 1,
+      "avg_change": 0.74,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "8.08"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "光伏设备",
+      "popularity_score": 0.52,
+      "count": 1,
+      "avg_change": 0.69,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "12.05"
+      ],
+      "related_news": []
+    }
+  ],
+  "generated_at": "2025-09-15 10:40:15"
+}

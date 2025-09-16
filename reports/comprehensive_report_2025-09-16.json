@@ -1,0 +1,239 @@
+{
+  "date": "2025-09-16",
+  "hot_stocks": [
+    {
+      "code": "300959",
+      "name": "线上线下",
+      "change_pct": 20.01,
+      "price": 29385365.0,
+      "volume": 18.12,
+      "amount": 258.37,
+      "pe": 58.1,
+      "market_cap": 401.887979016149,
+      "timestamp": "2025-09-16 10:21:29"
+    },
+    {
+      "code": "688766",
+      "name": "普冉股份",
+      "change_pct": 19.99,
+      "price": 143910528.0,
+      "volume": 11.83,
+      "amount": 191.89,
+      "pe": 97.88,
+      "market_cap": -70.045311961068,
+      "timestamp": "2025-09-16 10:21:29"
+    },
+    {
+      "code": "300043",
+      "name": "星辉娱乐",
+      "change_pct": 19.97,
+      "price": 55439168.0,
+      "volume": 20.57,
+      "amount": 32.06,
+      "pe": 6.83,
+      "market_cap": 186.776377550841,
+      "timestamp": "2025-09-16 10:21:29"
+    },
+    {
+      "code": "300013",
+      "name": "新宁物流",
+      "change_pct": 19.95,
+      "price": 72015689.0,
+      "volume": 19.02,
+      "amount": -1471.97,
+      "pe": 4.09,
+      "market_cap": 94.685576027138,
+      "timestamp": "2025-09-16 10:21:29"
+    },
+    {
+      "code": "300007",
+      "name": "汉威科技",
+      "change_pct": 17.45,
+      "price": 222389344.0,
+      "volume": 18.44,
+      "amount": 176.1,
+      "pe": 55.19,
+      "market_cap": 14.466178358519,
+      "timestamp": "2025-09-16 10:21:29"
+    },
+    {
+      "code": "300684",
+      "name": "中石科技",
+      "change_pct": 14.73,
+      "price": 68107706.0,
+      "volume": 17.9,
+      "amount": 49.65,
+      "pe": 35.62,
+      "market_cap": 93.737682879747,
+      "timestamp": "2025-09-16 10:21:29"
+    },
+    {
+      "code": "300727",
+      "name": "润禾材料",
+      "change_pct": 14.22,
+      "price": 63061810.0,
+      "volume": 11.15,
+      "amount": 72.31,
+      "pe": 40.85,
+      "market_cap": 38.612445269886,
+      "timestamp": "2025-09-16 10:21:29"
+    },
+    {
+      "code": "688648",
+      "name": "中邮科技",
+      "change_pct": 13.83,
+      "price": 26474496.0,
+      "volume": 7.82,
+      "amount": 7.2,
+      "pe": 64.66,
+      "market_cap": 2187.41052554935,
+      "timestamp": "2025-09-16 10:21:29"
+    },
+    {
+      "code": "688047",
+      "name": "龙芯中科",
+      "change_pct": 13.7,
+      "price": 378230400.0,
+      "volume": 4.0,
+      "amount": -100.8,
+      "pe": 134.1,
+      "market_cap": -23.65863026445,
+      "timestamp": "2025-09-16 10:21:29"
+    },
+    {
+      "code": "301307",
+      "name": "美利信",
+      "change_pct": 13.34,
+      "price": -12423873.0,
+      "volume": 15.14,
+      "amount": -38.27,
+      "pe": 33.87,
+      "market_cap": -468.128757063508,
+      "timestamp": "2025-09-16 10:21:29"
+    }
+  ],
+  "sentiment_analysis": null,
+  "theme_analysis": [
+    {
+      "theme_name": "物流行业",
+      "popularity_score": 0.56,
+      "count": 1,
+      "avg_change": 1.96,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "19.95"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "多元金融",
+      "popularity_score": 0.55,
+      "count": 1,
+      "avg_change": 1.58,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "9.86"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "汽车零部件",
+      "popularity_score": 0.55,
+      "count": 1,
+      "avg_change": 1.51,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "10.0"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "房地产服务",
+      "popularity_score": 0.54,
+      "count": 1,
+      "avg_change": 1.46,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "10.03"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "纺织服装",
+      "popularity_score": 0.53,
+      "count": 1,
+      "avg_change": 1.08,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "9.99"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "计算机设备",
+      "popularity_score": 0.53,
+      "count": 1,
+      "avg_change": 0.95,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "10.0"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "游戏",
+      "popularity_score": 0.53,
+      "count": 1,
+      "avg_change": 0.86,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "19.97"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "消费电子",
+      "popularity_score": 0.52,
+      "count": 1,
+      "avg_change": 0.79,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "10.0"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "商业百货",
+      "popularity_score": 0.52,
+      "count": 1,
+      "avg_change": 0.77,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "10.15"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "房地产开发",
+      "popularity_score": 0.52,
+      "count": 1,
+      "avg_change": 0.71,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "10.19"
+      ],
+      "related_news": []
+    }
+  ],
+  "generated_at": "2025-09-16 10:21:35"
+}

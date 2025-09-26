@@ -1,0 +1,239 @@
+{
+  "date": "2025-09-26",
+  "hot_stocks": [
+    {
+      "code": "301668",
+      "name": "N昊创",
+      "change_pct": 257.05,
+      "price": 264073550.0,
+      "volume": 55.27,
+      "amount": 66.94,
+      "pe": 56.5,
+      "market_cap": 15.798046348666,
+      "timestamp": "2025-09-26 10:23:54"
+    },
+    {
+      "code": "300080",
+      "name": "易成新能",
+      "change_pct": 20.1,
+      "price": 44615239.0,
+      "volume": 1.55,
+      "amount": -27.0,
+      "pe": 4.8,
+      "market_cap": 61.653381946294,
+      "timestamp": "2025-09-26 10:23:54"
+    },
+    {
+      "code": "688148",
+      "name": "芳源股份",
+      "change_pct": 20.04,
+      "price": 42907488.0,
+      "volume": 5.39,
+      "amount": -11.5,
+      "pe": 6.11,
+      "market_cap": -124.845258137569,
+      "timestamp": "2025-09-26 10:23:54"
+    },
+    {
+      "code": "688109",
+      "name": "品茗科技",
+      "change_pct": 20.0,
+      "price": 10505098.0,
+      "volume": 1.11,
+      "amount": 89.21,
+      "pe": 70.68,
+      "market_cap": 270.106010044632,
+      "timestamp": "2025-09-26 10:23:54"
+    },
+    {
+      "code": "300904",
+      "name": "威力传动",
+      "change_pct": 20.0,
+      "price": 33263973.0,
+      "volume": 15.67,
+      "amount": -65.94,
+      "pe": 65.47,
+      "market_cap": -343.759604982527,
+      "timestamp": "2025-09-26 10:23:54"
+    },
+    {
+      "code": "300490",
+      "name": "华自科技",
+      "change_pct": 13.97,
+      "price": 69542406.0,
+      "volume": 16.82,
+      "amount": -17.82,
+      "pe": 10.71,
+      "market_cap": -282.944244266732,
+      "timestamp": "2025-09-26 10:23:54"
+    },
+    {
+      "code": "688325",
+      "name": "赛微微电",
+      "change_pct": 13.55,
+      "price": -7743397.0,
+      "volume": 5.85,
+      "amount": 117.11,
+      "pe": 92.81,
+      "market_cap": 29.914734242033,
+      "timestamp": "2025-09-26 10:23:54"
+    },
+    {
+      "code": "301191",
+      "name": "菲菱科思",
+      "change_pct": 12.76,
+      "price": 86822274.0,
+      "volume": 12.04,
+      "amount": 209.38,
+      "pe": 117.25,
+      "market_cap": -71.323561254773,
+      "timestamp": "2025-09-26 10:23:54"
+    },
+    {
+      "code": "301456",
+      "name": "盘古智能",
+      "change_pct": 12.07,
+      "price": 12160027.0,
+      "volume": 14.25,
+      "amount": 76.16,
+      "pe": 30.01,
+      "market_cap": 13.1184557952,
+      "timestamp": "2025-09-26 10:23:54"
+    },
+    {
+      "code": "300692",
+      "name": "中环环保",
+      "change_pct": 11.93,
+      "price": 12607028.0,
+      "volume": 6.84,
+      "amount": 42.89,
+      "pe": 7.91,
+      "market_cap": 9.691274701688,
+      "timestamp": "2025-09-26 10:23:54"
+    }
+  ],
+  "sentiment_analysis": null,
+  "theme_analysis": [
+    {
+      "theme_name": "风电设备",
+      "popularity_score": 0.67,
+      "count": 1,
+      "avg_change": 5.61,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "10.1"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "化纤行业",
+      "popularity_score": 0.59,
+      "count": 1,
+      "avg_change": 2.94,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "10.05"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "汽车整车",
+      "popularity_score": 0.55,
+      "count": 1,
+      "avg_change": 1.67,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "9.97"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "采掘行业",
+      "popularity_score": 0.54,
+      "count": 1,
+      "avg_change": 1.47,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "9.11"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "房地产服务",
+      "popularity_score": 0.54,
+      "count": 1,
+      "avg_change": 1.38,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "8.58"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "农牧饲渔",
+      "popularity_score": 0.54,
+      "count": 1,
+      "avg_change": 1.35,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "8.35"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "农药兽药",
+      "popularity_score": 0.54,
+      "count": 1,
+      "avg_change": 1.32,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "9.99"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "工程咨询服务",
+      "popularity_score": 0.54,
+      "count": 1,
+      "avg_change": 1.25,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "10.02"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "化肥行业",
+      "popularity_score": 0.54,
+      "count": 1,
+      "avg_change": 1.23,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "9.23"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "航天航空",
+      "popularity_score": 0.53,
+      "count": 1,
+      "avg_change": 1.1,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "6.18"
+      ],
+      "related_news": []
+    }
+  ],
+  "generated_at": "2025-09-26 10:24:09"
+}

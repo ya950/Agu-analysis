@@ -2,123 +2,123 @@
   "date": "2025-10-09",
   "hot_stocks": [
     {
+      "code": "301563",
+      "name": "C云汉",
+      "change_pct": 40.89,
+      "price": 41433743.0,
+      "volume": 83.79,
+      "amount": 99.36,
+      "pe": 119.33,
+      "market_cap": 40.653046644509,
+      "timestamp": "2025-10-09 15:21:29"
+    },
+    {
       "code": "300948",
       "name": "冠中生态",
       "change_pct": 20.02,
-      "price": 16009752.0,
-      "volume": 1.6,
+      "price": 25174776.0,
+      "volume": 2.49,
       "amount": -425.44,
       "pe": 19.36,
       "market_cap": -137.195892335504,
-      "timestamp": "2025-10-09 10:23:52"
+      "timestamp": "2025-10-09 15:21:29"
+    },
+    {
+      "code": "301292",
+      "name": "海科新源",
+      "change_pct": 20.02,
+      "price": 112717813.0,
+      "volume": 31.44,
+      "amount": -65.96,
+      "pe": 21.04,
+      "market_cap": 61.212694888781,
+      "timestamp": "2025-10-09 15:21:29"
+    },
+    {
+      "code": "300820",
+      "name": "英杰电气",
+      "change_pct": 20.01,
+      "price": 92979120.0,
+      "volume": 14.6,
+      "amount": 57.73,
+      "pe": 53.8,
+      "market_cap": -32.707761717443,
+      "timestamp": "2025-10-09 15:21:29"
     },
     {
       "code": "301617",
       "name": "博苑股份",
       "change_pct": 20.01,
-      "price": 41121448.0,
-      "volume": 6.21,
+      "price": 48279672.0,
+      "volume": 6.68,
       "amount": 57.39,
       "pe": 82.6,
       "market_cap": -18.973352319821,
-      "timestamp": "2025-10-09 10:23:52"
+      "timestamp": "2025-10-09 15:21:29"
     },
     {
       "code": "688691",
       "name": "灿芯股份",
       "change_pct": 20.0,
-      "price": -29746928.0,
-      "volume": 16.71,
+      "price": 10295136.0,
+      "volume": 23.69,
       "amount": -120.49,
       "pe": 110.0,
       "market_cap": -175.692750272345,
-      "timestamp": "2025-10-09 10:23:52"
+      "timestamp": "2025-10-09 15:21:29"
+    },
+    {
+      "code": "688122",
+      "name": "西部超导",
+      "change_pct": 20.0,
+      "price": -112742352.0,
+      "volume": 10.33,
+      "amount": 46.46,
+      "pe": 68.99,
+      "market_cap": 56.718934906391,
+      "timestamp": "2025-10-09 15:21:29"
+    },
+    {
+      "code": "688776",
+      "name": "国光电气",
+      "change_pct": 20.0,
+      "price": 15617178.0,
+      "volume": 6.71,
+      "amount": -443.1,
+      "pe": 88.8,
+      "market_cap": -124.060287605327,
+      "timestamp": "2025-10-09 15:21:29"
+    },
+    {
+      "code": "688083",
+      "name": "中望软件",
+      "change_pct": 20.0,
+      "price": 53236185.0,
+      "volume": 6.37,
+      "amount": -147.46,
+      "pe": 75.64,
+      "market_cap": -976.903215004768,
+      "timestamp": "2025-10-09 15:21:29"
     },
     {
       "code": "300955",
       "name": "嘉亨家化",
       "change_pct": 20.0,
-      "price": 33547510.0,
-      "volume": 3.26,
+      "price": 39669010.0,
+      "volume": 3.85,
       "amount": -54.86,
       "pe": 29.54,
       "market_cap": -489.779437508198,
-      "timestamp": "2025-10-09 10:23:52"
-    },
-    {
-      "code": "301137",
-      "name": "哈焊华通",
-      "change_pct": 19.99,
-      "price": 79408030.0,
-      "volume": 7.09,
-      "amount": 341.27,
-      "pe": 41.7,
-      "market_cap": -14.010852981278,
-      "timestamp": "2025-10-09 10:23:52"
-    },
-    {
-      "code": "300963",
-      "name": "中洲特材",
-      "change_pct": 19.99,
-      "price": 405622593.0,
-      "volume": 24.84,
-      "amount": 158.03,
-      "pe": 20.0,
-      "market_cap": -31.037259429584,
-      "timestamp": "2025-10-09 10:23:52"
-    },
-    {
-      "code": "688347",
-      "name": "华虹公司",
-      "change_pct": 19.06,
-      "price": -546704.0,
-      "volume": 5.74,
-      "amount": 1592.65,
-      "pe": 120.08,
-      "market_cap": -71.947604763059,
-      "timestamp": "2025-10-09 10:23:52"
-    },
-    {
-      "code": "688776",
-      "name": "国光电气",
-      "change_pct": 18.16,
-      "price": -37509975.0,
-      "volume": 4.8,
-      "amount": -436.29,
-      "pe": 88.8,
-      "market_cap": -124.060287605327,
-      "timestamp": "2025-10-09 10:23:52"
-    },
-    {
-      "code": "301563",
-      "name": "C云汉",
-      "change_pct": 17.29,
-      "price": 42296417.0,
-      "volume": 44.13,
-      "amount": 82.72,
-      "pe": 119.33,
-      "market_cap": 40.653046644509,
-      "timestamp": "2025-10-09 10:23:52"
-    },
-    {
-      "code": "688653",
-      "name": "康希通信",
-      "change_pct": 15.11,
-      "price": -12113579.0,
-      "volume": 9.1,
-      "amount": -134.64,
-      "pe": 13.83,
-      "market_cap": -38.095151101444,
-      "timestamp": "2025-10-09 10:23:52"
+      "timestamp": "2025-10-09 15:21:29"
     }
   ],
   "sentiment_analysis": null,
   "theme_analysis": [
     {
       "theme_name": "贵金属",
-      "popularity_score": 0.7,
+      "popularity_score": 0.75,
       "count": 1,
-      "avg_change": 6.79,
+      "avg_change": 8.34,
       "news_count": 0,
       "source_count": 1,
       "leading_stocks": [
@@ -128,21 +128,33 @@
     },
     {
       "theme_name": "能源金属",
-      "popularity_score": 0.63,
+      "popularity_score": 0.68,
       "count": 1,
-      "avg_change": 4.47,
+      "avg_change": 6.05,
       "news_count": 0,
       "source_count": 1,
       "leading_stocks": [
-        "8.77"
+        "10.0"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "小金属",
+      "popularity_score": 0.65,
+      "count": 1,
+      "avg_change": 4.96,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "10.0"
       ],
       "related_news": []
     },
     {
       "theme_name": "有色金属",
-      "popularity_score": 0.61,
+      "popularity_score": 0.64,
       "count": 1,
-      "avg_change": 3.76,
+      "avg_change": 4.76,
       "news_count": 0,
       "source_count": 1,
       "leading_stocks": [
@@ -151,46 +163,22 @@
       "related_news": []
     },
     {
-      "theme_name": "半导体",
-      "popularity_score": 0.59,
-      "count": 1,
-      "avg_change": 2.95,
-      "news_count": 0,
-      "source_count": 1,
-      "leading_stocks": [
-        "10.01"
-      ],
-      "related_news": []
-    },
-    {
-      "theme_name": "小金属",
-      "popularity_score": 0.58,
-      "count": 1,
-      "avg_change": 2.62,
-      "news_count": 0,
-      "source_count": 1,
-      "leading_stocks": [
-        "8.38"
-      ],
-      "related_news": []
-    },
-    {
       "theme_name": "风电设备",
-      "popularity_score": 0.56,
+      "popularity_score": 0.6,
       "count": 1,
-      "avg_change": 2.07,
+      "avg_change": 3.36,
       "news_count": 0,
       "source_count": 1,
       "leading_stocks": [
-        "8.56"
+        "9.3"
       ],
       "related_news": []
     },
     {
       "theme_name": "钢铁行业",
-      "popularity_score": 0.56,
+      "popularity_score": 0.59,
       "count": 1,
-      "avg_change": 1.89,
+      "avg_change": 2.94,
       "news_count": 0,
       "source_count": 1,
       "leading_stocks": [
@@ -199,41 +187,53 @@
       "related_news": []
     },
     {
-      "theme_name": "电力行业",
-      "popularity_score": 0.55,
+      "theme_name": "煤炭行业",
+      "popularity_score": 0.58,
       "count": 1,
-      "avg_change": 1.8,
+      "avg_change": 2.77,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "10.04"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "非金属材料",
+      "popularity_score": 0.58,
+      "count": 1,
+      "avg_change": 2.52,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "12.29"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "化肥行业",
+      "popularity_score": 0.58,
+      "count": 1,
+      "avg_change": 2.51,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "10.04"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "电力行业",
+      "popularity_score": 0.57,
+      "count": 1,
+      "avg_change": 2.49,
       "news_count": 0,
       "source_count": 1,
       "leading_stocks": [
         "10.08"
       ],
       "related_news": []
-    },
-    {
-      "theme_name": "电源设备",
-      "popularity_score": 0.55,
-      "count": 1,
-      "avg_change": 1.75,
-      "news_count": 0,
-      "source_count": 1,
-      "leading_stocks": [
-        "10.07"
-      ],
-      "related_news": []
-    },
-    {
-      "theme_name": "电子化学品",
-      "popularity_score": 0.55,
-      "count": 1,
-      "avg_change": 1.68,
-      "news_count": 0,
-      "source_count": 1,
-      "leading_stocks": [
-        "10.01"
-      ],
-      "related_news": []
     }
   ],
-  "generated_at": "2025-10-09 10:23:59"
+  "generated_at": "2025-10-09 15:21:37"
 }

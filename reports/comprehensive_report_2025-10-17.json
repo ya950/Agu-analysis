@@ -4,236 +4,236 @@
     {
       "code": "601026",
       "name": "N道生",
-      "change_pct": 372.41,
-      "price": 488319346.0,
-      "volume": 54.65,
-      "amount": 91.02,
+      "change_pct": 396.32,
+      "price": 701433282.0,
+      "volume": 79.61,
+      "amount": 95.63,
       "pe": 24.06,
       "market_cap": 56.894169366204,
-      "timestamp": "2025-10-17 10:25:30"
+      "timestamp": "2025-10-17 15:22:25"
+    },
+    {
+      "code": "300389",
+      "name": "艾比森",
+      "change_pct": 20.0,
+      "price": 59358529.0,
+      "volume": 11.5,
+      "amount": 31.94,
+      "pe": 16.8,
+      "market_cap": 30.837553677775,
+      "timestamp": "2025-10-17 15:22:25"
     },
     {
       "code": "300300",
       "name": "海峡创新",
       "change_pct": 19.96,
-      "price": 152812709.0,
-      "volume": 14.7,
+      "price": 186506424.0,
+      "volume": 18.39,
       "amount": 362.15,
       "pe": 4.81,
       "market_cap": 118.990587367173,
-      "timestamp": "2025-10-17 10:25:30"
+      "timestamp": "2025-10-17 15:22:25"
     },
     {
-      "code": "300389",
-      "name": "艾比森",
-      "change_pct": 18.81,
-      "price": 10980148.0,
-      "volume": 7.31,
-      "amount": 31.62,
-      "pe": 16.8,
-      "market_cap": 30.837553677775,
-      "timestamp": "2025-10-17 10:25:30"
+      "code": "301617",
+      "name": "博苑股份",
+      "change_pct": 13.07,
+      "price": 84209554.0,
+      "volume": 33.14,
+      "amount": 63.76,
+      "pe": 85.6,
+      "market_cap": -18.973352319821,
+      "timestamp": "2025-10-17 15:22:25"
+    },
+    {
+      "code": "301365",
+      "name": "矩阵股份",
+      "change_pct": 11.53,
+      "price": 35930408.0,
+      "volume": 49.92,
+      "amount": 57.85,
+      "pe": 23.22,
+      "market_cap": 73.72263141391,
+      "timestamp": "2025-10-17 15:22:25"
+    },
+    {
+      "code": "300539",
+      "name": "横河精密",
+      "change_pct": 11.05,
+      "price": 62028050.0,
+      "volume": 15.38,
+      "amount": 272.75,
+      "pe": 50.01,
+      "market_cap": 79.03839024416,
+      "timestamp": "2025-10-17 15:22:25"
     },
     {
       "code": "688098",
       "name": "申联生物",
-      "change_pct": 13.36,
-      "price": 39049530.0,
-      "volume": 5.18,
-      "amount": -186.82,
+      "change_pct": 10.65,
+      "price": 76519950.0,
+      "volume": 7.78,
+      "amount": -182.35,
       "pe": 10.55,
       "market_cap": 62.705138257015,
-      "timestamp": "2025-10-17 10:25:30"
-    },
-    {
-      "code": "300491",
-      "name": "通合科技",
-      "change_pct": 12.61,
-      "price": 28804552.0,
-      "volume": 19.79,
-      "amount": 194.31,
-      "pe": 30.46,
-      "market_cap": -23.389621883031,
-      "timestamp": "2025-10-17 10:25:30"
-    },
-    {
-      "code": "301563",
-      "name": "云汉芯城",
-      "change_pct": 12.52,
-      "price": -15226910.0,
-      "volume": 44.83,
-      "amount": 103.74,
-      "pe": 152.08,
-      "market_cap": 40.653046644509,
-      "timestamp": "2025-10-17 10:25:30"
-    },
-    {
-      "code": "688585",
-      "name": "上纬新材",
-      "change_pct": 11.05,
-      "price": 76249994.0,
-      "volume": 2.37,
-      "amount": 616.84,
-      "pe": 84.2,
-      "market_cap": -32.91232579891,
-      "timestamp": "2025-10-17 10:25:30"
-    },
-    {
-      "code": "300588",
-      "name": "熙菱信息",
-      "change_pct": 10.86,
-      "price": 47805117.0,
-      "volume": 14.67,
-      "amount": -89.2,
-      "pe": 26.5,
-      "market_cap": -43.651031304033,
-      "timestamp": "2025-10-17 10:25:30"
+      "timestamp": "2025-10-17 15:22:25"
     },
     {
       "code": "002004",
       "name": "华邦健康",
       "change_pct": 10.11,
-      "price": 80134037.0,
-      "volume": 2.64,
+      "price": 170809499.0,
+      "volume": 8.3,
       "amount": 12.77,
       "pe": 4.76,
       "market_cap": 23.900332594662,
-      "timestamp": "2025-10-17 10:25:30"
+      "timestamp": "2025-10-17 15:22:25"
     },
     {
       "code": "002678",
       "name": "珠江钢琴",
       "change_pct": 10.11,
-      "price": 19590442.0,
-      "volume": 1.23,
+      "price": 80462173.0,
+      "volume": 6.45,
       "amount": -25.25,
       "pe": 4.58,
       "market_cap": -87.995941869437,
-      "timestamp": "2025-10-17 10:25:30"
+      "timestamp": "2025-10-17 15:22:25"
+    },
+    {
+      "code": "000592",
+      "name": "平潭发展",
+      "change_pct": 10.09,
+      "price": 343701530.0,
+      "volume": 15.51,
+      "amount": 237.54,
+      "pe": 3.39,
+      "market_cap": -30.758208414468,
+      "timestamp": "2025-10-17 15:22:25"
     }
   ],
   "sentiment_analysis": null,
   "theme_analysis": [
     {
-      "theme_name": "珠宝首饰",
-      "popularity_score": 0.54,
-      "count": 1,
-      "avg_change": 1.29,
-      "news_count": 0,
-      "source_count": 1,
-      "leading_stocks": [
-        "6.66"
-      ],
-      "related_news": []
-    },
-    {
       "theme_name": "贵金属",
       "popularity_score": 0.54,
       "count": 1,
-      "avg_change": 1.17,
+      "avg_change": 1.33,
       "news_count": 0,
       "source_count": 1,
       "leading_stocks": [
-        "4.37"
+        "4.28"
       ],
       "related_news": []
     },
     {
-      "theme_name": "钢铁行业",
+      "theme_name": "燃气",
       "popularity_score": 0.53,
       "count": 1,
-      "avg_change": 1.06,
+      "avg_change": 1.04,
       "news_count": 0,
       "source_count": 1,
       "leading_stocks": [
-        "10.0"
-      ],
-      "related_news": []
-    },
-    {
-      "theme_name": "煤炭行业",
-      "popularity_score": 0.53,
-      "count": 1,
-      "avg_change": 0.85,
-      "news_count": 0,
-      "source_count": 1,
-      "leading_stocks": [
-        "10.0"
-      ],
-      "related_news": []
-    },
-    {
-      "theme_name": "航运港口",
-      "popularity_score": 0.52,
-      "count": 1,
-      "avg_change": 0.78,
-      "news_count": 0,
-      "source_count": 1,
-      "leading_stocks": [
-        "10.0"
+        "9.89"
       ],
       "related_news": []
     },
     {
       "theme_name": "航空机场",
-      "popularity_score": 0.52,
+      "popularity_score": 0.53,
       "count": 1,
-      "avg_change": 0.73,
+      "avg_change": 0.84,
       "news_count": 0,
       "source_count": 1,
       "leading_stocks": [
-        "3.59"
+        "6.13"
       ],
       "related_news": []
     },
     {
-      "theme_name": "石油行业",
-      "popularity_score": 0.52,
+      "theme_name": "航运港口",
+      "popularity_score": 0.5,
       "count": 1,
-      "avg_change": 0.7,
+      "avg_change": -0.07,
       "news_count": 0,
       "source_count": 1,
       "leading_stocks": [
-        "8.39"
+        "10.0"
       ],
       "related_news": []
     },
     {
-      "theme_name": "水泥建材",
-      "popularity_score": 0.51,
+      "theme_name": "银行",
+      "popularity_score": 0.5,
       "count": 1,
-      "avg_change": 0.29,
+      "avg_change": -0.08,
       "news_count": 0,
       "source_count": 1,
       "leading_stocks": [
-        "4.66"
+        "2.67"
       ],
       "related_news": []
     },
     {
       "theme_name": "铁路公路",
-      "popularity_score": 0.51,
+      "popularity_score": 0.5,
       "count": 1,
-      "avg_change": 0.26,
+      "avg_change": -0.11,
       "news_count": 0,
       "source_count": 1,
       "leading_stocks": [
-        "1.37"
+        "2.06"
       ],
       "related_news": []
     },
     {
-      "theme_name": "农药兽药",
-      "popularity_score": 0.51,
+      "theme_name": "煤炭行业",
+      "popularity_score": 0.49,
       "count": 1,
-      "avg_change": 0.19,
+      "avg_change": -0.22,
       "news_count": 0,
       "source_count": 1,
       "leading_stocks": [
-        "10.11"
+        "10.0"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "石油行业",
+      "popularity_score": 0.49,
+      "count": 1,
+      "avg_change": -0.23,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "4.99"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "钢铁行业",
+      "popularity_score": 0.49,
+      "count": 1,
+      "avg_change": -0.3,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "10.0"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "珠宝首饰",
+      "popularity_score": 0.49,
+      "count": 1,
+      "avg_change": -0.41,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "4.2"
       ],
       "related_news": []
     }
   ],
-  "generated_at": "2025-10-17 10:25:38"
+  "generated_at": "2025-10-17 15:22:34"
 }

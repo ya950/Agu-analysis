@@ -1,0 +1,239 @@
+{
+  "date": "2025-10-22",
+  "hot_stocks": [
+    {
+      "code": "001386",
+      "name": "N马可波",
+      "change_pct": 148.65,
+      "price": 419412865.0,
+      "volume": 52.62,
+      "amount": 31.2,
+      "pe": 33.1,
+      "market_cap": -7.895896358799,
+      "timestamp": "2025-10-22 10:42:19"
+    },
+    {
+      "code": "300374",
+      "name": "中铁装配",
+      "change_pct": 14.47,
+      "price": 196582703.0,
+      "volume": 26.12,
+      "amount": -64.46,
+      "pe": 17.6,
+      "market_cap": 24.353714999518,
+      "timestamp": "2025-10-22 10:42:19"
+    },
+    {
+      "code": "301158",
+      "name": "德石股份",
+      "change_pct": 14.26,
+      "price": -140423005.0,
+      "volume": 28.33,
+      "amount": 48.81,
+      "pe": 27.8,
+      "market_cap": 29.244732461387,
+      "timestamp": "2025-10-22 10:42:19"
+    },
+    {
+      "code": "688660",
+      "name": "电气风电",
+      "change_pct": 13.3,
+      "price": 72711193.0,
+      "volume": 2.87,
+      "amount": -52.75,
+      "pe": 20.45,
+      "market_cap": 27.891507356846,
+      "timestamp": "2025-10-22 10:42:19"
+    },
+    {
+      "code": "301389",
+      "name": "隆扬电子",
+      "change_pct": 13.13,
+      "price": 130612304.0,
+      "volume": 18.97,
+      "amount": 161.81,
+      "pe": 55.06,
+      "market_cap": 81.781487917478,
+      "timestamp": "2025-10-22 10:42:19"
+    },
+    {
+      "code": "688115",
+      "name": "思林杰",
+      "change_pct": 11.77,
+      "price": 15365669.0,
+      "volume": 2.44,
+      "amount": -130.37,
+      "pe": 52.18,
+      "market_cap": -286.348767936491,
+      "timestamp": "2025-10-22 10:42:19"
+    },
+    {
+      "code": "301446",
+      "name": "福事特",
+      "change_pct": 11.51,
+      "price": 14545656.0,
+      "volume": 20.37,
+      "amount": 37.32,
+      "pe": 31.18,
+      "market_cap": 25.834280221856,
+      "timestamp": "2025-10-22 10:42:19"
+    },
+    {
+      "code": "300388",
+      "name": "节能国祯",
+      "change_pct": 10.76,
+      "price": 16416025.0,
+      "volume": 4.6,
+      "amount": 18.4,
+      "pe": 8.98,
+      "market_cap": -6.161896374756,
+      "timestamp": "2025-10-22 10:42:19"
+    },
+    {
+      "code": "301377",
+      "name": "鼎泰高科",
+      "change_pct": 10.75,
+      "price": 117883633.0,
+      "volume": 15.55,
+      "amount": 111.71,
+      "pe": 78.6,
+      "market_cap": 79.782592198318,
+      "timestamp": "2025-10-22 10:42:19"
+    },
+    {
+      "code": "000509",
+      "name": "华塑控股",
+      "change_pct": 10.14,
+      "price": 8543563.0,
+      "volume": 8.27,
+      "amount": -752.62,
+      "pe": 3.48,
+      "market_cap": -296.565680116531,
+      "timestamp": "2025-10-22 10:42:19"
+    }
+  ],
+  "sentiment_analysis": null,
+  "theme_analysis": [
+    {
+      "theme_name": "工程机械",
+      "popularity_score": 0.6,
+      "count": 1,
+      "avg_change": 3.25,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "10.05"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "风电设备",
+      "popularity_score": 0.57,
+      "count": 1,
+      "avg_change": 2.21,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "13.3"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "房地产服务",
+      "popularity_score": 0.55,
+      "count": 1,
+      "avg_change": 1.79,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "5.67"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "房地产开发",
+      "popularity_score": 0.55,
+      "count": 1,
+      "avg_change": 1.69,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "10.1"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "电机",
+      "popularity_score": 0.55,
+      "count": 1,
+      "avg_change": 1.55,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "10.02"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "医药商业",
+      "popularity_score": 0.54,
+      "count": 1,
+      "avg_change": 1.2,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "8.85"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "采掘行业",
+      "popularity_score": 0.53,
+      "count": 1,
+      "avg_change": 1.1,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "10.0"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "游戏",
+      "popularity_score": 0.53,
+      "count": 1,
+      "avg_change": 1.02,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "4.63"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "教育",
+      "popularity_score": 0.53,
+      "count": 1,
+      "avg_change": 0.99,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "4.11"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "文化传媒",
+      "popularity_score": 0.53,
+      "count": 1,
+      "avg_change": 0.93,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "10.08"
+      ],
+      "related_news": []
+    }
+  ],
+  "generated_at": "2025-10-22 10:42:26"
+}

@@ -1,0 +1,239 @@
+{
+  "date": "2025-11-04",
+  "hot_stocks": [
+    {
+      "code": "301136",
+      "name": "招标股份",
+      "change_pct": 20.03,
+      "price": 115154970.0,
+      "volume": 15.96,
+      "amount": 440.81,
+      "pe": 12.56,
+      "market_cap": 476.014900646642,
+      "timestamp": "2025-11-04 10:42:44"
+    },
+    {
+      "code": "300062",
+      "name": "中能电气",
+      "change_pct": 20.03,
+      "price": 137345249.0,
+      "volume": 19.04,
+      "amount": 627.42,
+      "pe": 6.34,
+      "market_cap": 223.051067651807,
+      "timestamp": "2025-11-04 10:42:44"
+    },
+    {
+      "code": "300402",
+      "name": "宝色股份",
+      "change_pct": 20.0,
+      "price": 81782112.0,
+      "volume": 20.25,
+      "amount": 96.69,
+      "pe": 23.66,
+      "market_cap": -13.85618598508,
+      "timestamp": "2025-11-04 10:42:44"
+    },
+    {
+      "code": "300300",
+      "name": "海峡创新",
+      "change_pct": 14.89,
+      "price": -28145463.0,
+      "volume": 28.94,
+      "amount": -360.34,
+      "pe": 10.0,
+      "market_cap": 66.873551673525,
+      "timestamp": "2025-11-04 10:42:44"
+    },
+    {
+      "code": "300259",
+      "name": "新天科技",
+      "change_pct": 12.9,
+      "price": 4372973.0,
+      "volume": 7.82,
+      "amount": 25.52,
+      "pe": 4.08,
+      "market_cap": 38.071721824731,
+      "timestamp": "2025-11-04 10:42:44"
+    },
+    {
+      "code": "688733",
+      "name": "壹石通",
+      "change_pct": 11.65,
+      "price": 51419455.0,
+      "volume": 10.1,
+      "amount": -329.25,
+      "pe": 27.61,
+      "market_cap": -193.665840084099,
+      "timestamp": "2025-11-04 10:42:44"
+    },
+    {
+      "code": "600815",
+      "name": "厦工股份",
+      "change_pct": 10.13,
+      "price": 96765809.0,
+      "volume": 2.98,
+      "amount": -713.42,
+      "pe": 3.06,
+      "market_cap": -183.676681426971,
+      "timestamp": "2025-11-04 10:42:44"
+    },
+    {
+      "code": "603616",
+      "name": "韩建河山",
+      "change_pct": 10.09,
+      "price": 70703337.0,
+      "volume": 5.58,
+      "amount": 183.71,
+      "pe": 6.11,
+      "market_cap": 123.723926196681,
+      "timestamp": "2025-11-04 10:42:44"
+    },
+    {
+      "code": "000572",
+      "name": "海马汽车",
+      "change_pct": 10.06,
+      "price": 46411376.0,
+      "volume": 11.69,
+      "amount": -132.4,
+      "pe": 7.47,
+      "market_cap": -232.675763413917,
+      "timestamp": "2025-11-04 10:42:44"
+    },
+    {
+      "code": "000753",
+      "name": "漳州发展",
+      "change_pct": 10.05,
+      "price": 114211955.0,
+      "volume": 4.99,
+      "amount": 131.4,
+      "pe": 8.27,
+      "market_cap": 5.659323569282,
+      "timestamp": "2025-11-04 10:42:44"
+    }
+  ],
+  "sentiment_analysis": null,
+  "theme_analysis": [
+    {
+      "theme_name": "银行",
+      "popularity_score": 0.55,
+      "count": 1,
+      "avg_change": 1.81,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "6.76"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "煤炭行业",
+      "popularity_score": 0.54,
+      "count": 1,
+      "avg_change": 1.21,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "9.94"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "保险",
+      "popularity_score": 0.53,
+      "count": 1,
+      "avg_change": 1.16,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "1.61"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "铁路公路",
+      "popularity_score": 0.53,
+      "count": 1,
+      "avg_change": 1.12,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "5.03"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "电网设备",
+      "popularity_score": 0.53,
+      "count": 1,
+      "avg_change": 0.99,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "10.0"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "船舶制造",
+      "popularity_score": 0.52,
+      "count": 1,
+      "avg_change": 0.78,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "4.36"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "航运港口",
+      "popularity_score": 0.52,
+      "count": 1,
+      "avg_change": 0.77,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "9.99"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "电力行业",
+      "popularity_score": 0.52,
+      "count": 1,
+      "avg_change": 0.74,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "9.99"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "旅游酒店",
+      "popularity_score": 0.52,
+      "count": 1,
+      "avg_change": 0.67,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "6.99"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "水泥建材",
+      "popularity_score": 0.52,
+      "count": 1,
+      "avg_change": 0.66,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "10.09"
+      ],
+      "related_news": []
+    }
+  ],
+  "generated_at": "2025-11-04 10:42:52"
+}

@@ -4,145 +4,133 @@
     {
       "code": "603092",
       "name": "N德力佳",
-      "change_pct": 66.0,
-      "price": 310074644.0,
-      "volume": 39.71,
-      "amount": 36.91,
+      "change_pct": 51.07,
+      "price": 501800739.0,
+      "volume": 71.34,
+      "amount": 33.59,
       "pe": 68.0,
       "market_cap": 64.959440757248,
-      "timestamp": "2025-11-07 10:42:41"
+      "timestamp": "2025-11-07 15:22:32"
     },
     {
       "code": "300821",
       "name": "东岳硅材",
       "change_pct": 20.04,
-      "price": 344528155.0,
-      "volume": 7.58,
+      "price": 412268369.0,
+      "volume": 8.62,
       "amount": 3585.27,
       "pe": 9.4,
       "market_cap": -96.775392414804,
-      "timestamp": "2025-11-07 10:42:41"
+      "timestamp": "2025-11-07 15:22:32"
+    },
+    {
+      "code": "300102",
+      "name": "乾照光电",
+      "change_pct": 20.03,
+      "price": 432484992.0,
+      "volume": 13.46,
+      "amount": 114.27,
+      "pe": 12.0,
+      "market_cap": 80.16562419473,
+      "timestamp": "2025-11-07 15:22:32"
+    },
+    {
+      "code": "688196",
+      "name": "卓越新能",
+      "change_pct": 20.01,
+      "price": 61550821.0,
+      "volume": 4.67,
+      "amount": 35.93,
+      "pe": 52.3,
+      "market_cap": 81.235037437615,
+      "timestamp": "2025-11-07 15:22:32"
     },
     {
       "code": "300437",
       "name": "清水源",
       "change_pct": 19.97,
-      "price": 15436002.0,
-      "volume": 31.75,
+      "price": 26360634.0,
+      "volume": 32.37,
       "amount": -76.24,
       "pe": 11.99,
       "market_cap": 33.65638189889,
-      "timestamp": "2025-11-07 10:42:41"
+      "timestamp": "2025-11-07 15:22:32"
     },
     {
       "code": "300072",
       "name": "海新能科",
       "change_pct": 19.95,
-      "price": 168113404.0,
-      "volume": 7.96,
+      "price": 200861413.0,
+      "volume": 8.56,
       "amount": 153.57,
       "pe": 4.21,
       "market_cap": 109.150343680894,
-      "timestamp": "2025-11-07 10:42:41"
-    },
-    {
-      "code": "688196",
-      "name": "卓越新能",
-      "change_pct": 16.73,
-      "price": 26963481.0,
-      "volume": 2.67,
-      "amount": 34.95,
-      "pe": 52.3,
-      "market_cap": 81.235037437615,
-      "timestamp": "2025-11-07 10:42:41"
-    },
-    {
-      "code": "301238",
-      "name": "瑞泰新材",
-      "change_pct": 14.25,
-      "price": 132505465.0,
-      "volume": 5.21,
-      "amount": 118.66,
-      "pe": 22.81,
-      "market_cap": -21.181287470027,
-      "timestamp": "2025-11-07 10:42:41"
-    },
-    {
-      "code": "300062",
-      "name": "中能电气",
-      "change_pct": 13.39,
-      "price": 72175856.0,
-      "volume": 41.38,
-      "amount": 921.09,
-      "pe": 9.9,
-      "market_cap": 223.051067651807,
-      "timestamp": "2025-11-07 10:42:41"
-    },
-    {
-      "code": "300477",
-      "name": "ST合纵",
-      "change_pct": 12.39,
-      "price": 22528891.0,
-      "volume": 8.22,
-      "amount": -14.57,
-      "pe": 2.17,
-      "market_cap": 25.132973401896,
-      "timestamp": "2025-11-07 10:42:41"
-    },
-    {
-      "code": "688028",
-      "name": "沃尔德",
-      "change_pct": 10.84,
-      "price": 71707374.0,
-      "volume": 6.44,
-      "amount": 99.1,
-      "pe": 55.78,
-      "market_cap": -6.668496268167,
-      "timestamp": "2025-11-07 10:42:41"
+      "timestamp": "2025-11-07 15:22:32"
     },
     {
       "code": "688353",
       "name": "华盛锂电",
-      "change_pct": 10.67,
-      "price": 20585485.0,
-      "volume": 9.8,
-      "amount": -83.62,
+      "change_pct": 19.16,
+      "price": 93314512.0,
+      "volume": 17.88,
+      "amount": -90.03,
       "pe": 66.95,
       "market_cap": 21.809335698183,
-      "timestamp": "2025-11-07 10:42:41"
+      "timestamp": "2025-11-07 15:22:32"
+    },
+    {
+      "code": "300390",
+      "name": "天华新能",
+      "change_pct": 15.32,
+      "price": 280593440.0,
+      "volume": 14.51,
+      "amount": 753.39,
+      "pe": 34.1,
+      "market_cap": -96.440489357747,
+      "timestamp": "2025-11-07 15:22:32"
+    },
+    {
+      "code": "688275",
+      "name": "万润新能",
+      "change_pct": 15.28,
+      "price": 163594736.0,
+      "volume": 22.99,
+      "amount": -24.59,
+      "pe": 77.9,
+      "market_cap": 41.118525440865,
+      "timestamp": "2025-11-07 15:22:32"
+    },
+    {
+      "code": "688028",
+      "name": "沃尔德",
+      "change_pct": 14.88,
+      "price": 49961491.0,
+      "volume": 9.8,
+      "amount": 102.71,
+      "pe": 55.78,
+      "market_cap": -6.668496268167,
+      "timestamp": "2025-11-07 15:22:32"
     }
   ],
   "sentiment_analysis": null,
   "theme_analysis": [
     {
-      "theme_name": "化肥行业",
-      "popularity_score": 0.58,
+      "theme_name": "能源金属",
+      "popularity_score": 0.62,
       "count": 1,
-      "avg_change": 2.7,
+      "avg_change": 4.04,
       "news_count": 0,
       "source_count": 1,
       "leading_stocks": [
-        "10.05"
-      ],
-      "related_news": []
-    },
-    {
-      "theme_name": "光伏设备",
-      "popularity_score": 0.56,
-      "count": 1,
-      "avg_change": 2.13,
-      "news_count": 0,
-      "source_count": 1,
-      "leading_stocks": [
-        "10.0"
+        "15.32"
       ],
       "related_news": []
     },
     {
       "theme_name": "化学原料",
-      "popularity_score": 0.56,
+      "popularity_score": 0.58,
       "count": 1,
-      "avg_change": 2.09,
+      "avg_change": 2.75,
       "news_count": 0,
       "source_count": 1,
       "leading_stocks": [
@@ -151,38 +139,38 @@
       "related_news": []
     },
     {
-      "theme_name": "农药兽药",
-      "popularity_score": 0.56,
+      "theme_name": "化肥行业",
+      "popularity_score": 0.58,
       "count": 1,
-      "avg_change": 1.98,
+      "avg_change": 2.55,
       "news_count": 0,
       "source_count": 1,
       "leading_stocks": [
-        "10.01"
+        "10.05"
       ],
       "related_news": []
     },
     {
-      "theme_name": "能源金属",
-      "popularity_score": 0.56,
+      "theme_name": "电池",
+      "popularity_score": 0.57,
       "count": 1,
-      "avg_change": 1.86,
+      "avg_change": 2.37,
       "news_count": 0,
       "source_count": 1,
       "leading_stocks": [
-        "4.63"
+        "10.0"
       ],
       "related_news": []
     },
     {
-      "theme_name": "化纤行业",
+      "theme_name": "光伏设备",
       "popularity_score": 0.56,
       "count": 1,
-      "avg_change": 1.85,
+      "avg_change": 1.92,
       "news_count": 0,
       "source_count": 1,
       "leading_stocks": [
-        "7.31"
+        "10.0"
       ],
       "related_news": []
     },
@@ -190,7 +178,7 @@
       "theme_name": "化学制品",
       "popularity_score": 0.55,
       "count": 1,
-      "avg_change": 1.74,
+      "avg_change": 1.83,
       "news_count": 0,
       "source_count": 1,
       "leading_stocks": [
@@ -199,41 +187,53 @@
       "related_news": []
     },
     {
-      "theme_name": "旅游酒店",
-      "popularity_score": 0.54,
+      "theme_name": "化纤行业",
+      "popularity_score": 0.55,
       "count": 1,
-      "avg_change": 1.42,
+      "avg_change": 1.67,
       "news_count": 0,
       "source_count": 1,
       "leading_stocks": [
-        "9.01"
+        "7.68"
       ],
       "related_news": []
     },
     {
-      "theme_name": "石油行业",
-      "popularity_score": 0.54,
+      "theme_name": "农药兽药",
+      "popularity_score": 0.55,
       "count": 1,
-      "avg_change": 1.24,
+      "avg_change": 1.54,
       "news_count": 0,
       "source_count": 1,
       "leading_stocks": [
-        "8.89"
+        "10.01"
       ],
       "related_news": []
     },
     {
-      "theme_name": "船舶制造",
+      "theme_name": "水泥建材",
       "popularity_score": 0.54,
       "count": 1,
-      "avg_change": 1.22,
+      "avg_change": 1.4,
       "news_count": 0,
       "source_count": 1,
       "leading_stocks": [
-        "6.59"
+        "9.98"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "中药",
+      "popularity_score": 0.53,
+      "count": 1,
+      "avg_change": 0.95,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "6.85"
       ],
       "related_news": []
     }
   ],
-  "generated_at": "2025-11-07 10:42:57"
+  "generated_at": "2025-11-07 15:22:37"
 }

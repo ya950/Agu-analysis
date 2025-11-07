@@ -1,0 +1,239 @@
+{
+  "date": "2025-11-07",
+  "hot_stocks": [
+    {
+      "code": "603092",
+      "name": "N德力佳",
+      "change_pct": 66.0,
+      "price": 310074644.0,
+      "volume": 39.71,
+      "amount": 36.91,
+      "pe": 68.0,
+      "market_cap": 64.959440757248,
+      "timestamp": "2025-11-07 10:42:41"
+    },
+    {
+      "code": "300821",
+      "name": "东岳硅材",
+      "change_pct": 20.04,
+      "price": 344528155.0,
+      "volume": 7.58,
+      "amount": 3585.27,
+      "pe": 9.4,
+      "market_cap": -96.775392414804,
+      "timestamp": "2025-11-07 10:42:41"
+    },
+    {
+      "code": "300437",
+      "name": "清水源",
+      "change_pct": 19.97,
+      "price": 15436002.0,
+      "volume": 31.75,
+      "amount": -76.24,
+      "pe": 11.99,
+      "market_cap": 33.65638189889,
+      "timestamp": "2025-11-07 10:42:41"
+    },
+    {
+      "code": "300072",
+      "name": "海新能科",
+      "change_pct": 19.95,
+      "price": 168113404.0,
+      "volume": 7.96,
+      "amount": 153.57,
+      "pe": 4.21,
+      "market_cap": 109.150343680894,
+      "timestamp": "2025-11-07 10:42:41"
+    },
+    {
+      "code": "688196",
+      "name": "卓越新能",
+      "change_pct": 16.73,
+      "price": 26963481.0,
+      "volume": 2.67,
+      "amount": 34.95,
+      "pe": 52.3,
+      "market_cap": 81.235037437615,
+      "timestamp": "2025-11-07 10:42:41"
+    },
+    {
+      "code": "301238",
+      "name": "瑞泰新材",
+      "change_pct": 14.25,
+      "price": 132505465.0,
+      "volume": 5.21,
+      "amount": 118.66,
+      "pe": 22.81,
+      "market_cap": -21.181287470027,
+      "timestamp": "2025-11-07 10:42:41"
+    },
+    {
+      "code": "300062",
+      "name": "中能电气",
+      "change_pct": 13.39,
+      "price": 72175856.0,
+      "volume": 41.38,
+      "amount": 921.09,
+      "pe": 9.9,
+      "market_cap": 223.051067651807,
+      "timestamp": "2025-11-07 10:42:41"
+    },
+    {
+      "code": "300477",
+      "name": "ST合纵",
+      "change_pct": 12.39,
+      "price": 22528891.0,
+      "volume": 8.22,
+      "amount": -14.57,
+      "pe": 2.17,
+      "market_cap": 25.132973401896,
+      "timestamp": "2025-11-07 10:42:41"
+    },
+    {
+      "code": "688028",
+      "name": "沃尔德",
+      "change_pct": 10.84,
+      "price": 71707374.0,
+      "volume": 6.44,
+      "amount": 99.1,
+      "pe": 55.78,
+      "market_cap": -6.668496268167,
+      "timestamp": "2025-11-07 10:42:41"
+    },
+    {
+      "code": "688353",
+      "name": "华盛锂电",
+      "change_pct": 10.67,
+      "price": 20585485.0,
+      "volume": 9.8,
+      "amount": -83.62,
+      "pe": 66.95,
+      "market_cap": 21.809335698183,
+      "timestamp": "2025-11-07 10:42:41"
+    }
+  ],
+  "sentiment_analysis": null,
+  "theme_analysis": [
+    {
+      "theme_name": "化肥行业",
+      "popularity_score": 0.58,
+      "count": 1,
+      "avg_change": 2.7,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "10.05"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "光伏设备",
+      "popularity_score": 0.56,
+      "count": 1,
+      "avg_change": 2.13,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "10.0"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "化学原料",
+      "popularity_score": 0.56,
+      "count": 1,
+      "avg_change": 2.09,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "10.04"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "农药兽药",
+      "popularity_score": 0.56,
+      "count": 1,
+      "avg_change": 1.98,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "10.01"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "能源金属",
+      "popularity_score": 0.56,
+      "count": 1,
+      "avg_change": 1.86,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "4.63"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "化纤行业",
+      "popularity_score": 0.56,
+      "count": 1,
+      "avg_change": 1.85,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "7.31"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "化学制品",
+      "popularity_score": 0.55,
+      "count": 1,
+      "avg_change": 1.74,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "20.04"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "旅游酒店",
+      "popularity_score": 0.54,
+      "count": 1,
+      "avg_change": 1.42,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "9.01"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "石油行业",
+      "popularity_score": 0.54,
+      "count": 1,
+      "avg_change": 1.24,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "8.89"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "船舶制造",
+      "popularity_score": 0.54,
+      "count": 1,
+      "avg_change": 1.22,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "6.59"
+      ],
+      "related_news": []
+    }
+  ],
+  "generated_at": "2025-11-07 10:42:57"
+}

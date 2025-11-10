@@ -1,0 +1,239 @@
+{
+  "date": "2025-11-10",
+  "hot_stocks": [
+    {
+      "code": "688148",
+      "name": "芳源股份",
+      "change_pct": 20.02,
+      "price": 68097641.0,
+      "volume": 7.24,
+      "amount": -34.18,
+      "pe": 9.37,
+      "market_cap": -1.761037742269,
+      "timestamp": "2025-11-10 10:49:19"
+    },
+    {
+      "code": "688670",
+      "name": "金迪克",
+      "change_pct": 20.01,
+      "price": 14067659.0,
+      "volume": 4.54,
+      "amount": -22.24,
+      "pe": 17.35,
+      "market_cap": -61.743902911284,
+      "timestamp": "2025-11-10 10:49:19"
+    },
+    {
+      "code": "688233",
+      "name": "神工股份",
+      "change_pct": 20.0,
+      "price": 118853499.0,
+      "volume": 4.31,
+      "amount": 109.82,
+      "pe": 59.0,
+      "market_cap": 158.930644151675,
+      "timestamp": "2025-11-10 10:49:19"
+    },
+    {
+      "code": "300997",
+      "name": "欢乐家",
+      "change_pct": 19.98,
+      "price": 139810125.0,
+      "volume": 6.46,
+      "amount": 681.34,
+      "pe": 18.33,
+      "market_cap": -87.43242233613,
+      "timestamp": "2025-11-10 10:49:19"
+    },
+    {
+      "code": "300131",
+      "name": "英唐智控",
+      "change_pct": 19.96,
+      "price": 5177901.0,
+      "volume": 2.18,
+      "amount": 447.35,
+      "pe": 13.7,
+      "market_cap": -43.665830855334,
+      "timestamp": "2025-11-10 10:49:19"
+    },
+    {
+      "code": "688353",
+      "name": "华盛锂电",
+      "change_pct": 17.56,
+      "price": 58820880.0,
+      "volume": 11.36,
+      "amount": -105.84,
+      "pe": 82.18,
+      "market_cap": 21.809335698183,
+      "timestamp": "2025-11-10 10:49:19"
+    },
+    {
+      "code": "300071",
+      "name": "福石控股",
+      "change_pct": 16.52,
+      "price": 491805435.0,
+      "volume": 31.1,
+      "amount": -86.45,
+      "pe": 5.65,
+      "market_cap": -79.603109650552,
+      "timestamp": "2025-11-10 10:49:19"
+    },
+    {
+      "code": "300080",
+      "name": "易成新能",
+      "change_pct": 14.96,
+      "price": 184598910.0,
+      "volume": 8.92,
+      "amount": -33.4,
+      "pe": 5.46,
+      "market_cap": 55.209547926328,
+      "timestamp": "2025-11-10 10:49:19"
+    },
+    {
+      "code": "300560",
+      "name": "中富通",
+      "change_pct": 14.2,
+      "price": 131524717.0,
+      "volume": 26.17,
+      "amount": 175.61,
+      "pe": 14.25,
+      "market_cap": 22.204229356297,
+      "timestamp": "2025-11-10 10:49:19"
+    },
+    {
+      "code": "688028",
+      "name": "沃尔德",
+      "change_pct": 12.66,
+      "price": 43182829.0,
+      "volume": 7.06,
+      "amount": 115.71,
+      "pe": 64.9,
+      "market_cap": -6.668496268167,
+      "timestamp": "2025-11-10 10:49:19"
+    }
+  ],
+  "sentiment_analysis": null,
+  "theme_analysis": [
+    {
+      "theme_name": "旅游酒店",
+      "popularity_score": 0.58,
+      "count": 1,
+      "avg_change": 2.69,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "9.58"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "航空机场",
+      "popularity_score": 0.57,
+      "count": 1,
+      "avg_change": 2.25,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "4.49"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "商业百货",
+      "popularity_score": 0.57,
+      "count": 1,
+      "avg_change": 2.18,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "9.96"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "美容护理",
+      "popularity_score": 0.56,
+      "count": 1,
+      "avg_change": 2.14,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "10.0"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "能源金属",
+      "popularity_score": 0.56,
+      "count": 1,
+      "avg_change": 2.12,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "10.02"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "化肥行业",
+      "popularity_score": 0.56,
+      "count": 1,
+      "avg_change": 2.08,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "9.97"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "食品饮料",
+      "popularity_score": 0.56,
+      "count": 1,
+      "avg_change": 2.04,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "19.98"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "医药商业",
+      "popularity_score": 0.56,
+      "count": 1,
+      "avg_change": 1.85,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "10.01"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "酿酒行业",
+      "popularity_score": 0.55,
+      "count": 1,
+      "avg_change": 1.81,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "9.99"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "贵金属",
+      "popularity_score": 0.55,
+      "count": 1,
+      "avg_change": 1.77,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "5.02"
+      ],
+      "related_news": []
+    }
+  ],
+  "generated_at": "2025-11-10 10:49:23"
+}

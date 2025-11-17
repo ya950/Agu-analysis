@@ -1,0 +1,239 @@
+{
+  "date": "2025-11-17",
+  "hot_stocks": [
+    {
+      "code": "300427",
+      "name": "红相股份",
+      "change_pct": 20.03,
+      "price": 116830616.0,
+      "volume": 18.12,
+      "amount": 53.21,
+      "pe": 7.81,
+      "market_cap": 219.555846103663,
+      "timestamp": "2025-11-17 10:46:22"
+    },
+    {
+      "code": "300560",
+      "name": "中富通",
+      "change_pct": 20.02,
+      "price": 83292276.0,
+      "volume": 26.42,
+      "amount": 241.21,
+      "pe": 21.55,
+      "market_cap": 22.204229356297,
+      "timestamp": "2025-11-17 10:46:22"
+    },
+    {
+      "code": "300589",
+      "name": "江龙船艇",
+      "change_pct": 20.01,
+      "price": 296171600.0,
+      "volume": 39.29,
+      "amount": -125.34,
+      "pe": 14.69,
+      "market_cap": -252.174988851336,
+      "timestamp": "2025-11-17 10:46:22"
+    },
+    {
+      "code": "688005",
+      "name": "容百科技",
+      "change_pct": 20.0,
+      "price": 321340608.0,
+      "volume": 10.95,
+      "amount": -93.18,
+      "pe": 33.0,
+      "market_cap": -274.95734260598,
+      "timestamp": "2025-11-17 10:46:22"
+    },
+    {
+      "code": "688229",
+      "name": "博睿数据",
+      "change_pct": 20.0,
+      "price": 41046656.0,
+      "volume": 8.3,
+      "amount": -56.14,
+      "pe": 59.0,
+      "market_cap": 33.895525248237,
+      "timestamp": "2025-11-17 10:46:22"
+    },
+    {
+      "code": "300612",
+      "name": "宣亚国际",
+      "change_pct": 19.99,
+      "price": 178595089.0,
+      "volume": 27.4,
+      "amount": -128.41,
+      "pe": 15.24,
+      "market_cap": 14.551110185189,
+      "timestamp": "2025-11-17 10:46:22"
+    },
+    {
+      "code": "301150",
+      "name": "中一科技",
+      "change_pct": 15.57,
+      "price": 27048250.0,
+      "volume": 10.73,
+      "amount": 273.12,
+      "pe": 52.8,
+      "market_cap": 156.514655424786,
+      "timestamp": "2025-11-17 10:46:22"
+    },
+    {
+      "code": "300058",
+      "name": "蓝色光标",
+      "change_pct": 15.52,
+      "price": 765093120.0,
+      "volume": 17.15,
+      "amount": 122.88,
+      "pe": 7.85,
+      "market_cap": 58.89884761652,
+      "timestamp": "2025-11-17 10:46:22"
+    },
+    {
+      "code": "300300",
+      "name": "海峡创新",
+      "change_pct": 14.87,
+      "price": -43879913.0,
+      "volume": 18.93,
+      "amount": -506.57,
+      "pe": 16.1,
+      "market_cap": 66.873551673525,
+      "timestamp": "2025-11-17 10:46:22"
+    },
+    {
+      "code": "300166",
+      "name": "东方国信",
+      "change_pct": 13.19,
+      "price": 156731141.0,
+      "volume": 8.94,
+      "amount": -98.25,
+      "pe": 10.19,
+      "market_cap": -568.456144808211,
+      "timestamp": "2025-11-17 10:46:22"
+    }
+  ],
+  "sentiment_analysis": null,
+  "theme_analysis": [
+    {
+      "theme_name": "能源金属",
+      "popularity_score": 0.65,
+      "count": 1,
+      "avg_change": 4.97,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "11.12"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "船舶制造",
+      "popularity_score": 0.65,
+      "count": 1,
+      "avg_change": 4.97,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "20.01"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "互联网服务",
+      "popularity_score": 0.56,
+      "count": 1,
+      "avg_change": 2.07,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "10.03"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "航天航空",
+      "popularity_score": 0.56,
+      "count": 1,
+      "avg_change": 2.0,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "12.67"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "软件开发",
+      "popularity_score": 0.55,
+      "count": 1,
+      "avg_change": 1.79,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "10.01"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "石油行业",
+      "popularity_score": 0.55,
+      "count": 1,
+      "avg_change": 1.6,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "9.99"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "文化传媒",
+      "popularity_score": 0.54,
+      "count": 1,
+      "avg_change": 1.44,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "10.08"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "电子化学品",
+      "popularity_score": 0.54,
+      "count": 1,
+      "avg_change": 1.32,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "4.97"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "通信服务",
+      "popularity_score": 0.54,
+      "count": 1,
+      "avg_change": 1.31,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "20.02"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "橡胶制品",
+      "popularity_score": 0.54,
+      "count": 1,
+      "avg_change": 1.19,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "7.94"
+      ],
+      "related_news": []
+    }
+  ],
+  "generated_at": "2025-11-17 10:46:27"
+}

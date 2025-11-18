@@ -4,133 +4,121 @@
     {
       "code": "688727",
       "name": "N恒坤",
-      "change_pct": 318.95,
-      "price": 693320798.0,
-      "volume": 57.98,
-      "amount": 286.35,
+      "change_pct": 310.61,
+      "price": 919500272.0,
+      "volume": 81.36,
+      "amount": 280.65,
       "pe": 50.5,
       "market_cap": 5.501306012894,
-      "timestamp": "2025-11-18 10:43:40"
+      "timestamp": "2025-11-18 15:23:34"
     },
     {
       "code": "301638",
       "name": "N南网数",
-      "change_pct": 234.27,
-      "price": 331110555.0,
-      "volume": 49.53,
-      "amount": 286.83,
-      "pe": 18.51,
+      "change_pct": 224.78,
+      "price": 488558277.0,
+      "volume": 75.35,
+      "amount": 278.69,
+      "pe": 17.58,
       "market_cap": 464.761277114936,
-      "timestamp": "2025-11-18 10:43:40"
+      "timestamp": "2025-11-18 15:23:34"
+    },
+    {
+      "code": "300071",
+      "name": "福石控股",
+      "change_pct": 20.07,
+      "price": 317866789.0,
+      "volume": 29.52,
+      "amount": -95.06,
+      "pe": 5.7,
+      "market_cap": -79.603109650552,
+      "timestamp": "2025-11-18 15:23:34"
     },
     {
       "code": "300612",
       "name": "宣亚国际",
       "change_pct": 20.01,
-      "price": 44602464.0,
-      "volume": 43.78,
+      "price": 60238960.0,
+      "volume": 44.73,
       "amount": -154.11,
       "pe": 18.38,
       "market_cap": 14.551110185189,
-      "timestamp": "2025-11-18 10:43:40"
+      "timestamp": "2025-11-18 15:23:34"
+    },
+    {
+      "code": "301201",
+      "name": "诚达药业",
+      "change_pct": 20.01,
+      "price": 93101056.0,
+      "volume": 23.07,
+      "amount": 411.61,
+      "pe": 52.6,
+      "market_cap": -58.474449450206,
+      "timestamp": "2025-11-18 15:23:34"
     },
     {
       "code": "688486",
       "name": "龙迅股份",
       "change_pct": 20.0,
-      "price": 92436221.0,
-      "volume": 14.7,
+      "price": 137882401.0,
+      "volume": 19.74,
       "amount": 64.14,
       "pe": 70.0,
       "market_cap": 32.474021061832,
-      "timestamp": "2025-11-18 10:43:40"
+      "timestamp": "2025-11-18 15:23:34"
     },
     {
       "code": "300078",
       "name": "思创医惠",
       "change_pct": 20.0,
-      "price": 161166606.0,
-      "volume": 16.43,
+      "price": 215668123.0,
+      "volume": 18.39,
       "amount": -792.25,
       "pe": 3.78,
       "market_cap": 98.321053452824,
-      "timestamp": "2025-11-18 10:43:40"
+      "timestamp": "2025-11-18 15:23:34"
     },
     {
-      "code": "300538",
-      "name": "同益股份",
+      "code": "688365",
+      "name": "光云科技",
       "change_pct": 19.99,
-      "price": 120489181.0,
-      "volume": 24.45,
-      "amount": 385.54,
-      "pe": 17.15,
-      "market_cap": 17.17003748054,
-      "timestamp": "2025-11-18 10:43:40"
+      "price": 114703282.0,
+      "volume": 9.16,
+      "amount": -349.5,
+      "pe": 13.65,
+      "market_cap": 73.032314899852,
+      "timestamp": "2025-11-18 15:23:34"
     },
     {
-      "code": "301201",
-      "name": "诚达药业",
-      "change_pct": 14.95,
-      "price": 54174442.0,
-      "volume": 16.04,
-      "amount": 394.25,
-      "pe": 52.6,
-      "market_cap": -58.474449450206,
-      "timestamp": "2025-11-18 10:43:40"
+      "code": "300785",
+      "name": "值得买",
+      "change_pct": 14.4,
+      "price": 247871680.0,
+      "volume": 51.26,
+      "amount": 513.68,
+      "pe": 39.63,
+      "market_cap": 253.485192817775,
+      "timestamp": "2025-11-18 15:23:34"
     },
     {
       "code": "688110",
       "name": "东芯股份",
-      "change_pct": 14.17,
-      "price": 342926960.0,
-      "volume": 8.53,
-      "amount": -249.9,
+      "change_pct": 12.75,
+      "price": 418056512.0,
+      "volume": 10.91,
+      "amount": -246.8,
       "pe": 96.82,
       "market_cap": -12.1552908974,
-      "timestamp": "2025-11-18 10:43:40"
-    },
-    {
-      "code": "300250",
-      "name": "初灵信息",
-      "change_pct": 12.44,
-      "price": 3943585.0,
-      "volume": 26.34,
-      "amount": 811.68,
-      "pe": 26.0,
-      "market_cap": 119.640652399165,
-      "timestamp": "2025-11-18 10:43:40"
-    },
-    {
-      "code": "301371",
-      "name": "敷尔佳",
-      "change_pct": 10.81,
-      "price": 23091783.0,
-      "volume": 10.75,
-      "amount": 33.34,
-      "pe": 25.09,
-      "market_cap": -36.727630987503,
-      "timestamp": "2025-11-18 10:43:40"
+      "timestamp": "2025-11-18 15:23:34"
     }
   ],
   "sentiment_analysis": null,
   "theme_analysis": [
     {
-      "theme_name": "半导体",
-      "popularity_score": 0.54,
-      "count": 1,
-      "avg_change": 1.28,
-      "news_count": 0,
-      "source_count": 1,
-      "leading_stocks": [
-        "9.99"
-      ],
-      "related_news": []
-    },
-    {
       "theme_name": "互联网服务",
-      "popularity_score": 0.53,
+      "popularity_score": 0.55,
       "count": 1,
-      "avg_change": 1.06,
+      "avg_change": 1.74,
       "news_count": 0,
       "source_count": 1,
       "leading_stocks": [
@@ -139,46 +127,10 @@
       "related_news": []
     },
     {
-      "theme_name": "美容护理",
-      "popularity_score": 0.52,
-      "count": 1,
-      "avg_change": 0.74,
-      "news_count": 0,
-      "source_count": 1,
-      "leading_stocks": [
-        "10.81"
-      ],
-      "related_news": []
-    },
-    {
-      "theme_name": "证券",
-      "popularity_score": 0.52,
-      "count": 1,
-      "avg_change": 0.65,
-      "news_count": 0,
-      "source_count": 1,
-      "leading_stocks": [
-        "5.31"
-      ],
-      "related_news": []
-    },
-    {
-      "theme_name": "游戏",
-      "popularity_score": 0.52,
-      "count": 1,
-      "avg_change": 0.59,
-      "news_count": 0,
-      "source_count": 1,
-      "leading_stocks": [
-        "2.85"
-      ],
-      "related_news": []
-    },
-    {
       "theme_name": "文化传媒",
-      "popularity_score": 0.51,
+      "popularity_score": 0.54,
       "count": 1,
-      "avg_change": 0.38,
+      "avg_change": 1.44,
       "news_count": 0,
       "source_count": 1,
       "leading_stocks": [
@@ -187,10 +139,34 @@
       "related_news": []
     },
     {
-      "theme_name": "软件开发",
-      "popularity_score": 0.51,
+      "theme_name": "教育",
+      "popularity_score": 0.52,
       "count": 1,
-      "avg_change": 0.32,
+      "avg_change": 0.82,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "10.61"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "游戏",
+      "popularity_score": 0.52,
+      "count": 1,
+      "avg_change": 0.7,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "3.32"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "软件开发",
+      "popularity_score": 0.52,
+      "count": 1,
+      "avg_change": 0.5,
       "news_count": 0,
       "source_count": 1,
       "leading_stocks": [
@@ -199,10 +175,22 @@
       "related_news": []
     },
     {
-      "theme_name": "电子元件",
+      "theme_name": "美容护理",
       "popularity_score": 0.51,
       "count": 1,
-      "avg_change": 0.22,
+      "avg_change": 0.45,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "9.61"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "装修装饰",
+      "popularity_score": 0.51,
+      "count": 1,
+      "avg_change": 0.38,
       "news_count": 0,
       "source_count": 1,
       "leading_stocks": [
@@ -211,29 +199,41 @@
       "related_news": []
     },
     {
-      "theme_name": "电子化学品",
+      "theme_name": "半导体",
       "popularity_score": 0.51,
       "count": 1,
-      "avg_change": 0.19,
+      "avg_change": 0.37,
       "news_count": 0,
       "source_count": 1,
       "leading_stocks": [
-        "2.43"
+        "9.99"
       ],
       "related_news": []
     },
     {
-      "theme_name": "教育",
+      "theme_name": "证券",
       "popularity_score": 0.5,
       "count": 1,
-      "avg_change": 0.1,
+      "avg_change": 0.16,
       "news_count": 0,
       "source_count": 1,
       "leading_stocks": [
-        "3.54"
+        "4.8"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "纺织服装",
+      "popularity_score": 0.5,
+      "count": 1,
+      "avg_change": 0.07,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "9.97"
       ],
       "related_news": []
     }
   ],
-  "generated_at": "2025-11-18 10:43:48"
+  "generated_at": "2025-11-18 15:23:40"
 }

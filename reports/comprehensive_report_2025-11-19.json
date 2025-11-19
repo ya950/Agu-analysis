@@ -1,7 +1,239 @@
 {
   "date": "2025-11-19",
-  "hot_stocks": [],
+  "hot_stocks": [
+    {
+      "code": "301638",
+      "name": "C南网数",
+      "change_pct": 29.27,
+      "price": 535388256.0,
+      "volume": 74.65,
+      "amount": 360.27,
+      "pe": 17.5,
+      "market_cap": 464.761277114936,
+      "timestamp": "2025-11-19 15:23:59"
+    },
+    {
+      "code": "300094",
+      "name": "国联水产",
+      "change_pct": 20.09,
+      "price": 220982520.0,
+      "volume": 37.53,
+      "amount": -5.69,
+      "pe": 4.52,
+      "market_cap": -905.301524607109,
+      "timestamp": "2025-11-19 15:23:59"
+    },
+    {
+      "code": "300589",
+      "name": "江龙船艇",
+      "change_pct": 20.03,
+      "price": 194197536.0,
+      "volume": 48.67,
+      "amount": -147.4,
+      "pe": 16.05,
+      "market_cap": -252.174988851336,
+      "timestamp": "2025-11-19 15:23:59"
+    },
+    {
+      "code": "301256",
+      "name": "华融化学",
+      "change_pct": 20.0,
+      "price": 146547341.0,
+      "volume": 11.41,
+      "amount": 93.14,
+      "pe": 11.34,
+      "market_cap": -17.008393659606,
+      "timestamp": "2025-11-19 15:23:59"
+    },
+    {
+      "code": "301118",
+      "name": "恒光股份",
+      "change_pct": 19.98,
+      "price": 99508341.0,
+      "volume": 9.97,
+      "amount": -1577.04,
+      "pe": 26.4,
+      "market_cap": 96.920747965295,
+      "timestamp": "2025-11-19 15:23:59"
+    },
+    {
+      "code": "301116",
+      "name": "益客食品",
+      "change_pct": 19.98,
+      "price": 79294098.0,
+      "volume": 6.92,
+      "amount": -16.41,
+      "pe": 11.67,
+      "market_cap": -304.433906791403,
+      "timestamp": "2025-11-19 15:23:59"
+    },
+    {
+      "code": "300123",
+      "name": "亚光科技",
+      "change_pct": 19.93,
+      "price": 587190031.0,
+      "volume": 24.95,
+      "amount": -56.42,
+      "pe": 6.04,
+      "market_cap": -20.419595806467,
+      "timestamp": "2025-11-19 15:23:59"
+    },
+    {
+      "code": "300379",
+      "name": "*ST东通",
+      "change_pct": 19.9,
+      "price": 4011886.0,
+      "volume": 28.71,
+      "amount": -12.01,
+      "pe": 2.02,
+      "market_cap": 54.179782911267,
+      "timestamp": "2025-11-19 15:23:59"
+    },
+    {
+      "code": "301205",
+      "name": "联特科技",
+      "change_pct": 14.48,
+      "price": 237615631.0,
+      "volume": 25.64,
+      "amount": 139.19,
+      "pe": 104.2,
+      "market_cap": 31.38557377893,
+      "timestamp": "2025-11-19 15:23:59"
+    },
+    {
+      "code": "300008",
+      "name": "天海防务",
+      "change_pct": 14.16,
+      "price": 508446976.0,
+      "volume": 31.63,
+      "amount": 43.76,
+      "pe": 6.85,
+      "market_cap": 202.123880236342,
+      "timestamp": "2025-11-19 15:23:59"
+    }
+  ],
   "sentiment_analysis": null,
-  "theme_analysis": [],
-  "generated_at": "2025-11-19 10:43:59"
+  "theme_analysis": [
+    {
+      "theme_name": "船舶制造",
+      "popularity_score": 0.79,
+      "count": 1,
+      "avg_change": 9.71,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "19.93"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "贵金属",
+      "popularity_score": 0.66,
+      "count": 1,
+      "avg_change": 5.38,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "8.76"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "能源金属",
+      "popularity_score": 0.58,
+      "count": 1,
+      "avg_change": 2.6,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "10.0"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "保险",
+      "popularity_score": 0.57,
+      "count": 1,
+      "avg_change": 2.42,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "3.29"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "美容护理",
+      "popularity_score": 0.53,
+      "count": 1,
+      "avg_change": 1.1,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "7.98"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "采掘行业",
+      "popularity_score": 0.53,
+      "count": 1,
+      "avg_change": 0.98,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "6.09"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "珠宝首饰",
+      "popularity_score": 0.53,
+      "count": 1,
+      "avg_change": 0.93,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "9.94"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "化学原料",
+      "popularity_score": 0.52,
+      "count": 1,
+      "avg_change": 0.66,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "10.01"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "农牧饲渔",
+      "popularity_score": 0.52,
+      "count": 1,
+      "avg_change": 0.64,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "9.96"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "银行",
+      "popularity_score": 0.52,
+      "count": 1,
+      "avg_change": 0.63,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "3.81"
+      ],
+      "related_news": []
+    }
+  ],
+  "generated_at": "2025-11-19 15:24:06"
 }

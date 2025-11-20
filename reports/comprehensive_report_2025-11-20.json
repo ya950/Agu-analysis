@@ -5,156 +5,132 @@
       "code": "300774",
       "name": "倍杰特",
       "change_pct": 20.02,
-      "price": 58762810.0,
-      "volume": 14.09,
+      "price": 75073092.0,
+      "volume": 15.55,
       "amount": 60.21,
       "pe": 18.2,
       "market_cap": -31.400014451908,
-      "timestamp": "2025-11-20 10:42:21"
+      "timestamp": "2025-11-20 15:23:18"
     },
     {
       "code": "301092",
       "name": "争光股份",
       "change_pct": 20.01,
-      "price": 85315900.0,
-      "volume": 17.88,
+      "price": 102838823.0,
+      "volume": 19.17,
       "amount": 52.35,
       "pe": 34.02,
       "market_cap": 2.232679088866,
-      "timestamp": "2025-11-20 10:42:21"
+      "timestamp": "2025-11-20 15:23:18"
+    },
+    {
+      "code": "300814",
+      "name": "中富电路",
+      "change_pct": 20.0,
+      "price": 113933337.0,
+      "volume": 10.7,
+      "amount": 390.61,
+      "pe": 66.01,
+      "market_cap": -10.63885489577,
+      "timestamp": "2025-11-20 15:23:18"
     },
     {
       "code": "300379",
       "name": "*ST东通",
       "change_pct": 19.92,
-      "price": -29943403.0,
-      "volume": 31.12,
+      "price": -26401700.0,
+      "volume": 31.75,
       "amount": -14.4,
       "pe": 2.49,
       "market_cap": 54.179782911267,
-      "timestamp": "2025-11-20 10:42:21"
+      "timestamp": "2025-11-20 15:23:18"
+    },
+    {
+      "code": "300391",
+      "name": "*ST长药",
+      "change_pct": 19.92,
+      "price": 3133691.0,
+      "volume": 21.8,
+      "amount": -3.55,
+      "pe": 2.28,
+      "market_cap": -15.892862955449,
+      "timestamp": "2025-11-20 15:23:18"
     },
     {
       "code": "300093",
       "name": "*ST金刚",
-      "change_pct": 17.99,
-      "price": 17530415.0,
-      "volume": 4.88,
-      "amount": -15.57,
+      "change_pct": 18.07,
+      "price": 10777001.0,
+      "volume": 6.71,
+      "amount": -15.58,
       "pe": 14.26,
       "market_cap": -14.292351499814,
-      "timestamp": "2025-11-20 10:42:21"
+      "timestamp": "2025-11-20 15:23:18"
     },
     {
-      "code": "300814",
-      "name": "中富电路",
-      "change_pct": 14.7,
-      "price": 24236572.0,
-      "volume": 7.08,
-      "amount": 373.34,
-      "pe": 66.01,
-      "market_cap": -10.63885489577,
-      "timestamp": "2025-11-20 10:42:21"
+      "code": "301172",
+      "name": "君逸数码",
+      "change_pct": 14.27,
+      "price": 197582432.0,
+      "volume": 35.78,
+      "amount": 195.74,
+      "pe": 22.95,
+      "market_cap": -43.340144149638,
+      "timestamp": "2025-11-20 15:23:18"
     },
     {
-      "code": "300460",
-      "name": "惠伦晶体",
-      "change_pct": 11.67,
-      "price": 19134537.0,
-      "volume": 8.84,
-      "amount": -29.91,
-      "pe": 9.76,
-      "market_cap": -4566.63549484756,
-      "timestamp": "2025-11-20 10:42:21"
+      "code": "688101",
+      "name": "三达膜",
+      "change_pct": 13.74,
+      "price": 52490985.0,
+      "volume": 6.72,
+      "amount": 16.47,
+      "pe": 17.2,
+      "market_cap": 40.20317339337,
+      "timestamp": "2025-11-20 15:23:18"
     },
     {
       "code": "688367",
       "name": "工大高科",
-      "change_pct": 10.42,
-      "price": -260247.0,
-      "volume": 5.09,
-      "amount": 369.4,
+      "change_pct": 10.8,
+      "price": -6667326.0,
+      "volume": 8.33,
+      "amount": 370.65,
       "pe": 24.29,
       "market_cap": -74.705814671096,
-      "timestamp": "2025-11-20 10:42:21"
+      "timestamp": "2025-11-20 15:23:18"
     },
     {
-      "code": "301631",
-      "name": "壹连科技",
-      "change_pct": 10.3,
-      "price": 31099479.0,
-      "volume": 19.36,
-      "amount": 32.73,
-      "pe": 96.54,
-      "market_cap": 20.423277650383,
-      "timestamp": "2025-11-20 10:42:21"
-    },
-    {
-      "code": "600881",
-      "name": "亚泰集团",
-      "change_pct": 10.1,
-      "price": 137242723.0,
-      "volume": 6.09,
-      "amount": -5.55,
-      "pe": 2.02,
-      "market_cap": 26.274782468348,
-      "timestamp": "2025-11-20 10:42:21"
-    },
-    {
-      "code": "601279",
-      "name": "英利汽车",
-      "change_pct": 10.1,
-      "price": 43055828.0,
-      "volume": 2.37,
-      "amount": -128.32,
-      "pe": 5.68,
-      "market_cap": -220.537677524267,
-      "timestamp": "2025-11-20 10:42:21"
+      "code": "688316",
+      "name": "青云科技-U",
+      "change_pct": 10.76,
+      "price": 51346824.0,
+      "volume": 13.12,
+      "amount": -48.62,
+      "pe": 60.0,
+      "market_cap": 20.348444321425,
+      "timestamp": "2025-11-20 15:23:18"
     }
   ],
   "sentiment_analysis": null,
   "theme_analysis": [
     {
       "theme_name": "能源金属",
-      "popularity_score": 0.61,
+      "popularity_score": 0.55,
       "count": 1,
-      "avg_change": 3.79,
+      "avg_change": 1.57,
       "news_count": 0,
       "source_count": 1,
       "leading_stocks": [
-        "9.99"
-      ],
-      "related_news": []
-    },
-    {
-      "theme_name": "电子化学品",
-      "popularity_score": 0.54,
-      "count": 1,
-      "avg_change": 1.37,
-      "news_count": 0,
-      "source_count": 1,
-      "leading_stocks": [
-        "10.01"
-      ],
-      "related_news": []
-    },
-    {
-      "theme_name": "银行",
-      "popularity_score": 0.54,
-      "count": 1,
-      "avg_change": 1.17,
-      "news_count": 0,
-      "source_count": 1,
-      "leading_stocks": [
-        "4.0"
+        "6.94"
       ],
       "related_news": []
     },
     {
       "theme_name": "水泥建材",
-      "popularity_score": 0.52,
+      "popularity_score": 0.54,
       "count": 1,
-      "avg_change": 0.67,
+      "avg_change": 1.3,
       "news_count": 0,
       "source_count": 1,
       "leading_stocks": [
@@ -163,14 +139,14 @@
       "related_news": []
     },
     {
-      "theme_name": "工程机械",
-      "popularity_score": 0.52,
+      "theme_name": "银行",
+      "popularity_score": 0.53,
       "count": 1,
-      "avg_change": 0.63,
+      "avg_change": 1.15,
       "news_count": 0,
       "source_count": 1,
       "leading_stocks": [
-        "5.63"
+        "4.0"
       ],
       "related_news": []
     },
@@ -178,62 +154,86 @@
       "theme_name": "公用事业",
       "popularity_score": 0.52,
       "count": 1,
-      "avg_change": 0.54,
+      "avg_change": 0.74,
       "news_count": 0,
       "source_count": 1,
       "leading_stocks": [
-        "7.7"
+        "5.51"
       ],
       "related_news": []
     },
     {
-      "theme_name": "保险",
+      "theme_name": "房地产服务",
+      "popularity_score": 0.52,
+      "count": 1,
+      "avg_change": 0.68,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "6.23"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "工程机械",
       "popularity_score": 0.52,
       "count": 1,
       "avg_change": 0.51,
       "news_count": 0,
       "source_count": 1,
       "leading_stocks": [
-        "1.71"
+        "7.79"
       ],
       "related_news": []
     },
     {
-      "theme_name": "化肥行业",
+      "theme_name": "装修建材",
       "popularity_score": 0.51,
       "count": 1,
-      "avg_change": 0.44,
+      "avg_change": 0.27,
       "news_count": 0,
       "source_count": 1,
       "leading_stocks": [
-        "4.18"
+        "10.0"
       ],
       "related_news": []
     },
     {
-      "theme_name": "证券",
+      "theme_name": "通信服务",
       "popularity_score": 0.51,
       "count": 1,
-      "avg_change": 0.43,
+      "avg_change": 0.21,
       "news_count": 0,
       "source_count": 1,
       "leading_stocks": [
-        "4.61"
+        "5.99"
       ],
       "related_news": []
     },
     {
-      "theme_name": "有色金属",
+      "theme_name": "玻璃玻纤",
       "popularity_score": 0.51,
       "count": 1,
-      "avg_change": 0.32,
+      "avg_change": 0.17,
       "news_count": 0,
       "source_count": 1,
       "leading_stocks": [
-        "9.99"
+        "6.49"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "造纸印刷",
+      "popularity_score": 0.5,
+      "count": 1,
+      "avg_change": 0.14,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "9.95"
       ],
       "related_news": []
     }
   ],
-  "generated_at": "2025-11-20 10:42:26"
+  "generated_at": "2025-11-20 15:23:24"
 }

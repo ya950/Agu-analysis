@@ -1,0 +1,239 @@
+{
+  "date": "2025-11-21",
+  "hot_stocks": [
+    {
+      "code": "300516",
+      "name": "久之洋",
+      "change_pct": 20.01,
+      "price": 76414276.0,
+      "volume": 7.32,
+      "amount": 313.13,
+      "pe": 41.45,
+      "market_cap": 7.931856859444,
+      "timestamp": "2025-11-21 10:42:25"
+    },
+    {
+      "code": "688227",
+      "name": "品高股份",
+      "change_pct": 20.0,
+      "price": 20262859.0,
+      "volume": 2.29,
+      "amount": -126.58,
+      "pe": 49.02,
+      "market_cap": 29.632436484604,
+      "timestamp": "2025-11-21 10:42:25"
+    },
+    {
+      "code": "300087",
+      "name": "荃银高科",
+      "change_pct": 19.98,
+      "price": 135925216.0,
+      "volume": 11.79,
+      "amount": -48.11,
+      "pe": 11.65,
+      "market_cap": -113.452348649303,
+      "timestamp": "2025-11-21 10:42:25"
+    },
+    {
+      "code": "300456",
+      "name": "赛微电子",
+      "change_pct": 13.12,
+      "price": 452539248.0,
+      "volume": 19.42,
+      "amount": 11.81,
+      "pe": 29.01,
+      "market_cap": 1438.04849338958,
+      "timestamp": "2025-11-21 10:42:25"
+    },
+    {
+      "code": "300379",
+      "name": "*ST东通",
+      "change_pct": 12.8,
+      "price": -40004249.0,
+      "volume": 28.0,
+      "amount": -16.24,
+      "pe": 2.89,
+      "market_cap": 54.179782911267,
+      "timestamp": "2025-11-21 10:42:25"
+    },
+    {
+      "code": "301171",
+      "name": "易点天下",
+      "change_pct": 11.41,
+      "price": 323516832.0,
+      "volume": 22.29,
+      "amount": 64.51,
+      "pe": 35.2,
+      "market_cap": 4.409496361435,
+      "timestamp": "2025-11-21 10:42:25"
+    },
+    {
+      "code": "300391",
+      "name": "*ST长药",
+      "change_pct": 10.25,
+      "price": -13218045.0,
+      "volume": 20.92,
+      "amount": -3.91,
+      "pe": 2.52,
+      "market_cap": -15.892862955449,
+      "timestamp": "2025-11-21 10:42:25"
+    },
+    {
+      "code": "000892",
+      "name": "欢瑞世纪",
+      "change_pct": 10.08,
+      "price": 120283383.0,
+      "volume": 3.9,
+      "amount": -153.73,
+      "pe": 7.15,
+      "market_cap": 35.057796956426,
+      "timestamp": "2025-11-21 10:42:25"
+    },
+    {
+      "code": "002264",
+      "name": "新 华 都",
+      "change_pct": 10.04,
+      "price": 161017818.0,
+      "volume": 6.85,
+      "amount": 24.61,
+      "pe": 7.32,
+      "market_cap": -6.513456953645,
+      "timestamp": "2025-11-21 10:42:25"
+    },
+    {
+      "code": "605339",
+      "name": "南侨食品",
+      "change_pct": 10.03,
+      "price": 61073113.0,
+      "volume": 1.66,
+      "amount": 231.42,
+      "pe": 18.78,
+      "market_cap": -80.822449790221,
+      "timestamp": "2025-11-21 10:42:25"
+    }
+  ],
+  "sentiment_analysis": null,
+  "theme_analysis": [
+    {
+      "theme_name": "船舶制造",
+      "popularity_score": 0.56,
+      "count": 1,
+      "avg_change": 2.09,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "10.06"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "农牧饲渔",
+      "popularity_score": 0.48,
+      "count": 1,
+      "avg_change": -0.78,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "9.99"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "银行",
+      "popularity_score": 0.48,
+      "count": 1,
+      "avg_change": -0.81,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "1.12"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "文化传媒",
+      "popularity_score": 0.47,
+      "count": 1,
+      "avg_change": -1.16,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "10.08"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "游戏",
+      "popularity_score": 0.46,
+      "count": 1,
+      "avg_change": -1.35,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "8.68"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "航空机场",
+      "popularity_score": 0.45,
+      "count": 1,
+      "avg_change": -1.53,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "0.04"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "航天航空",
+      "popularity_score": 0.45,
+      "count": 1,
+      "avg_change": -1.72,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "4.02"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "珠宝首饰",
+      "popularity_score": 0.44,
+      "count": 1,
+      "avg_change": -1.89,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "10.01"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "水泥建材",
+      "popularity_score": 0.44,
+      "count": 1,
+      "avg_change": -1.89,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "7.14"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "酿酒行业",
+      "popularity_score": 0.44,
+      "count": 1,
+      "avg_change": -1.91,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "0.58"
+      ],
+      "related_news": []
+    }
+  ],
+  "generated_at": "2025-11-21 10:42:31"
+}

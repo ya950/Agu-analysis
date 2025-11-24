@@ -1,0 +1,239 @@
+{
+  "date": "2025-11-24",
+  "hot_stocks": [
+    {
+      "code": "300814",
+      "name": "中富电路",
+      "change_pct": 20.01,
+      "price": 199389200.0,
+      "volume": 12.52,
+      "amount": 460.71,
+      "pe": 76.01,
+      "market_cap": -10.63885489577,
+      "timestamp": "2025-11-24 10:54:08"
+    },
+    {
+      "code": "688365",
+      "name": "光云科技",
+      "change_pct": 20.0,
+      "price": 150006288.0,
+      "volume": 11.16,
+      "amount": -421.95,
+      "pe": 16.17,
+      "market_cap": 73.032314899852,
+      "timestamp": "2025-11-24 10:54:08"
+    },
+    {
+      "code": "301136",
+      "name": "招标股份",
+      "change_pct": 20.0,
+      "price": 119704524.0,
+      "volume": 6.69,
+      "amount": 468.97,
+      "pe": 13.87,
+      "market_cap": 476.014900646642,
+      "timestamp": "2025-11-24 10:54:08"
+    },
+    {
+      "code": "688523",
+      "name": "航天环宇",
+      "change_pct": 19.99,
+      "price": 66835862.0,
+      "volume": 16.68,
+      "amount": 176.47,
+      "pe": 25.01,
+      "market_cap": 0.560796337301,
+      "timestamp": "2025-11-24 10:54:08"
+    },
+    {
+      "code": "688227",
+      "name": "品高股份",
+      "change_pct": 19.99,
+      "price": 15802641.0,
+      "volume": 1.26,
+      "amount": -151.88,
+      "pe": 58.82,
+      "market_cap": 29.632436484604,
+      "timestamp": "2025-11-24 10:54:08"
+    },
+    {
+      "code": "300516",
+      "name": "久之洋",
+      "change_pct": 15.23,
+      "price": -3650442.0,
+      "volume": 12.45,
+      "amount": 347.65,
+      "pe": 47.01,
+      "market_cap": 7.931856859444,
+      "timestamp": "2025-11-24 10:54:08"
+    },
+    {
+      "code": "300844",
+      "name": "山水比德",
+      "change_pct": 15.02,
+      "price": -2873572.0,
+      "volume": 4.35,
+      "amount": -78.72,
+      "pe": 38.85,
+      "market_cap": -281.433057576435,
+      "timestamp": "2025-11-24 10:54:08"
+    },
+    {
+      "code": "688291",
+      "name": "金橙子",
+      "change_pct": 12.47,
+      "price": 18521907.0,
+      "volume": 4.18,
+      "amount": 68.85,
+      "pe": 29.11,
+      "market_cap": 32.862973825875,
+      "timestamp": "2025-11-24 10:54:08"
+    },
+    {
+      "code": "300620",
+      "name": "光库科技",
+      "change_pct": 12.35,
+      "price": 189033392.0,
+      "volume": 10.23,
+      "amount": 201.21,
+      "pe": 114.0,
+      "market_cap": 106.613955278714,
+      "timestamp": "2025-11-24 10:54:08"
+    },
+    {
+      "code": "688195",
+      "name": "腾景科技",
+      "change_pct": 12.11,
+      "price": 9323728.0,
+      "volume": 10.87,
+      "amount": 259.1,
+      "pe": 154.0,
+      "market_cap": 14.998040756054,
+      "timestamp": "2025-11-24 10:54:08"
+    }
+  ],
+  "sentiment_analysis": null,
+  "theme_analysis": [
+    {
+      "theme_name": "船舶制造",
+      "popularity_score": 0.6,
+      "count": 1,
+      "avg_change": 3.27,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "9.99"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "航天航空",
+      "popularity_score": 0.59,
+      "count": 1,
+      "avg_change": 3.16,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "19.99"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "工程咨询服务",
+      "popularity_score": 0.58,
+      "count": 1,
+      "avg_change": 2.81,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "20.0"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "电源设备",
+      "popularity_score": 0.56,
+      "count": 1,
+      "avg_change": 2.15,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "11.05"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "通信设备",
+      "popularity_score": 0.56,
+      "count": 1,
+      "avg_change": 2.04,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "10.02"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "风电设备",
+      "popularity_score": 0.56,
+      "count": 1,
+      "avg_change": 1.94,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "10.79"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "房地产服务",
+      "popularity_score": 0.56,
+      "count": 1,
+      "avg_change": 1.94,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "10.1"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "互联网服务",
+      "popularity_score": 0.55,
+      "count": 1,
+      "avg_change": 1.62,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "9.99"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "教育",
+      "popularity_score": 0.54,
+      "count": 1,
+      "avg_change": 1.34,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "4.04"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "旅游酒店",
+      "popularity_score": 0.54,
+      "count": 1,
+      "avg_change": 1.34,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "11.31"
+      ],
+      "related_news": []
+    }
+  ],
+  "generated_at": "2025-11-24 10:54:16"
+}

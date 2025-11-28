@@ -1,0 +1,239 @@
+{
+  "date": "2025-11-28",
+  "hot_stocks": [
+    {
+      "code": "300471",
+      "name": "厚普股份",
+      "change_pct": 20.03,
+      "price": 142439991.0,
+      "volume": 13.27,
+      "amount": -2079.09,
+      "pe": 12.48,
+      "market_cap": 90.800329258477,
+      "timestamp": "2025-11-28 10:42:33"
+    },
+    {
+      "code": "300102",
+      "name": "乾照光电",
+      "change_pct": 20.01,
+      "price": 464336176.0,
+      "volume": 14.68,
+      "amount": 149.67,
+      "pe": 17.35,
+      "market_cap": 80.16562419473,
+      "timestamp": "2025-11-28 10:42:33"
+    },
+    {
+      "code": "301183",
+      "name": "东田微",
+      "change_pct": 20.0,
+      "price": 281496864.0,
+      "volume": 26.62,
+      "amount": 91.63,
+      "pe": 106.71,
+      "market_cap": 99.201918279204,
+      "timestamp": "2025-11-28 10:42:33"
+    },
+    {
+      "code": "300421",
+      "name": "力星股份",
+      "change_pct": 16.55,
+      "price": 16499324.0,
+      "volume": 22.91,
+      "amount": 111.27,
+      "pe": 22.5,
+      "market_cap": 1.830548608898,
+      "timestamp": "2025-11-28 10:42:33"
+    },
+    {
+      "code": "301025",
+      "name": "读客文化",
+      "change_pct": 13.68,
+      "price": 131044750.0,
+      "volume": 21.44,
+      "amount": 551.1,
+      "pe": 10.35,
+      "market_cap": -56.71828801489,
+      "timestamp": "2025-11-28 10:42:33"
+    },
+    {
+      "code": "688173",
+      "name": "希荻微",
+      "change_pct": 13.18,
+      "price": 44844528.0,
+      "volume": 9.35,
+      "amount": -69.86,
+      "pe": 15.3,
+      "market_cap": 60.935685957552,
+      "timestamp": "2025-11-28 10:42:33"
+    },
+    {
+      "code": "688275",
+      "name": "万润新能",
+      "change_pct": 13.01,
+      "price": 86105441.0,
+      "volume": 10.8,
+      "amount": -23.79,
+      "pe": 77.3,
+      "market_cap": 41.118525440865,
+      "timestamp": "2025-11-28 10:42:33"
+    },
+    {
+      "code": "688260",
+      "name": "昀冢科技",
+      "change_pct": 12.87,
+      "price": 68870581.0,
+      "volume": 11.34,
+      "amount": -26.64,
+      "pe": 39.3,
+      "market_cap": -82.943170914789,
+      "timestamp": "2025-11-28 10:42:33"
+    },
+    {
+      "code": "301488",
+      "name": "豪恩汽电",
+      "change_pct": 11.97,
+      "price": 84304639.0,
+      "volume": 25.23,
+      "amount": 160.07,
+      "pe": 136.35,
+      "market_cap": -7.17556822497,
+      "timestamp": "2025-11-28 10:42:33"
+    },
+    {
+      "code": "300115",
+      "name": "长盈精密",
+      "change_pct": 12.07,
+      "price": 469991104.0,
+      "volume": 9.93,
+      "amount": 94.36,
+      "pe": 38.93,
+      "market_cap": -21.247292540818,
+      "timestamp": "2025-11-28 10:42:33"
+    }
+  ],
+  "sentiment_analysis": null,
+  "theme_analysis": [
+    {
+      "theme_name": "能源金属",
+      "popularity_score": 0.6,
+      "count": 1,
+      "avg_change": 3.3,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "7.69"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "船舶制造",
+      "popularity_score": 0.56,
+      "count": 1,
+      "avg_change": 1.93,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "11.82"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "化肥行业",
+      "popularity_score": 0.55,
+      "count": 1,
+      "avg_change": 1.83,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "9.92"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "采掘行业",
+      "popularity_score": 0.55,
+      "count": 1,
+      "avg_change": 1.71,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "9.81"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "石油行业",
+      "popularity_score": 0.54,
+      "count": 1,
+      "avg_change": 1.33,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "9.99"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "光伏设备",
+      "popularity_score": 0.54,
+      "count": 1,
+      "avg_change": 1.3,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "10.06"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "光学光电子",
+      "popularity_score": 0.54,
+      "count": 1,
+      "avg_change": 1.29,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "20.01"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "水泥建材",
+      "popularity_score": 0.54,
+      "count": 1,
+      "avg_change": 1.18,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "10.01"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "电池",
+      "popularity_score": 0.53,
+      "count": 1,
+      "avg_change": 1.16,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "12.92"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "汽车整车",
+      "popularity_score": 0.53,
+      "count": 1,
+      "avg_change": 1.13,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "9.99"
+      ],
+      "related_news": []
+    }
+  ],
+  "generated_at": "2025-11-28 10:42:40"
+}

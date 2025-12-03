@@ -4,133 +4,121 @@
     {
       "code": "001280",
       "name": "N中国铀",
-      "change_pct": 286.42,
-      "price": 2488140672.0,
-      "volume": 58.27,
-      "amount": 89.39,
+      "change_pct": 280.04,
+      "price": 3224821856.0,
+      "volume": 77.55,
+      "amount": 87.91,
       "pe": 58.88,
       "market_cap": 26.025765948059,
-      "timestamp": "2025-12-03 10:48:14"
+      "timestamp": "2025-12-03 15:25:45"
+    },
+    {
+      "code": "300391",
+      "name": "*ST长药",
+      "change_pct": 20.09,
+      "price": 14170746.0,
+      "volume": 19.64,
+      "amount": -3.22,
+      "pe": 2.14,
+      "market_cap": -15.892862955449,
+      "timestamp": "2025-12-03 15:25:45"
+    },
+    {
+      "code": "688670",
+      "name": "金迪克",
+      "change_pct": 15.93,
+      "price": 86393624.0,
+      "volume": 14.07,
+      "amount": -32.59,
+      "pe": 26.01,
+      "market_cap": -61.743902911284,
+      "timestamp": "2025-12-03 15:25:45"
     },
     {
       "code": "300179",
       "name": "四方达",
-      "change_pct": 13.68,
-      "price": 146228946.0,
-      "volume": 20.43,
-      "amount": 107.21,
+      "change_pct": 15.37,
+      "price": 106453405.0,
+      "volume": 30.53,
+      "amount": 108.8,
       "pe": 15.62,
       "market_cap": -36.615828647672,
-      "timestamp": "2025-12-03 10:48:14"
-    },
-    {
-      "code": "300889",
-      "name": "爱克股份",
-      "change_pct": 13.6,
-      "price": -58560713.0,
-      "volume": 17.11,
-      "amount": -155.75,
-      "pe": 27.0,
-      "market_cap": 56.035166871168,
-      "timestamp": "2025-12-03 10:48:14"
-    },
-    {
-      "code": "300996",
-      "name": "普联软件",
-      "change_pct": 13.33,
-      "price": 69099809.0,
-      "volume": 20.05,
-      "amount": 2907.21,
-      "pe": 18.73,
-      "market_cap": -90.070078473393,
-      "timestamp": "2025-12-03 10:48:14"
-    },
-    {
-      "code": "301126",
-      "name": "达嘉维康",
-      "change_pct": 12.09,
-      "price": 36107381.0,
-      "volume": 19.58,
-      "amount": 442.75,
-      "pe": 12.91,
-      "market_cap": -86.01560574722,
-      "timestamp": "2025-12-03 10:48:14"
-    },
-    {
-      "code": "300819",
-      "name": "聚杰微纤",
-      "change_pct": 11.64,
-      "price": 28701060.0,
-      "volume": 9.03,
-      "amount": 60.55,
-      "pe": 25.74,
-      "market_cap": -9.304254904122,
-      "timestamp": "2025-12-03 10:48:14"
+      "timestamp": "2025-12-03 15:25:45"
     },
     {
       "code": "301111",
       "name": "粤万年青",
-      "change_pct": 10.38,
-      "price": 30511021.0,
-      "volume": 17.14,
-      "amount": -395.6,
+      "change_pct": 15.32,
+      "price": 52561568.0,
+      "volume": 24.46,
+      "amount": -413.31,
       "pe": 23.5,
       "market_cap": -157.654624877551,
-      "timestamp": "2025-12-03 10:48:14"
+      "timestamp": "2025-12-03 15:25:45"
     },
     {
-      "code": "000692",
-      "name": "惠天热电",
-      "change_pct": 10.11,
-      "price": 29632609.0,
-      "volume": 3.56,
-      "amount": -5.23,
-      "pe": 4.05,
-      "market_cap": 30.366263176688,
-      "timestamp": "2025-12-03 10:48:14"
+      "code": "301043",
+      "name": "绿岛风",
+      "change_pct": 12.7,
+      "price": 21172961.0,
+      "volume": 12.33,
+      "amount": 52.06,
+      "pe": 54.0,
+      "market_cap": -23.49384893854,
+      "timestamp": "2025-12-03 15:25:45"
     },
     {
-      "code": "600281",
-      "name": "华阳新材",
-      "change_pct": 10.07,
-      "price": 145706004.0,
-      "volume": 10.33,
-      "amount": 36.74,
-      "pe": 5.98,
-      "market_cap": 178.581630475821,
-      "timestamp": "2025-12-03 10:48:14"
+      "code": "301040",
+      "name": "中环海陆",
+      "change_pct": 11.39,
+      "price": 35570033.0,
+      "volume": 19.64,
+      "amount": -33.05,
+      "pe": 26.0,
+      "market_cap": 1.645195259571,
+      "timestamp": "2025-12-03 15:25:45"
     },
     {
-      "code": "600403",
-      "name": "大有能源",
-      "change_pct": 10.05,
-      "price": 168563929.0,
-      "volume": 4.51,
-      "amount": -14.7,
-      "pe": 8.1,
-      "market_cap": -42.7658867996,
-      "timestamp": "2025-12-03 10:48:14"
+      "code": "300996",
+      "name": "普联软件",
+      "change_pct": 11.38,
+      "price": 55642815.0,
+      "volume": 25.16,
+      "amount": 2857.13,
+      "pe": 18.73,
+      "market_cap": -90.070078473393,
+      "timestamp": "2025-12-03 15:25:45"
+    },
+    {
+      "code": "301136",
+      "name": "招标股份",
+      "change_pct": 10.54,
+      "price": 7498122.0,
+      "volume": 30.95,
+      "amount": 632.77,
+      "pe": 19.54,
+      "market_cap": 476.014900646642,
+      "timestamp": "2025-12-03 15:25:45"
+    },
+    {
+      "code": "600467",
+      "name": "好当家",
+      "change_pct": 10.19,
+      "price": 134911276.0,
+      "volume": 17.98,
+      "amount": 118.36,
+      "pe": 2.64,
+      "market_cap": -8.449850941862,
+      "timestamp": "2025-12-03 15:25:45"
     }
   ],
   "sentiment_analysis": null,
   "theme_analysis": [
     {
-      "theme_name": "医药商业",
-      "popularity_score": 0.56,
-      "count": 1,
-      "avg_change": 2.03,
-      "news_count": 0,
-      "source_count": 1,
-      "leading_stocks": [
-        "9.98"
-      ],
-      "related_news": []
-    },
-    {
       "theme_name": "煤炭行业",
-      "popularity_score": 0.56,
+      "popularity_score": 0.55,
       "count": 1,
-      "avg_change": 1.95,
+      "avg_change": 1.79,
       "news_count": 0,
       "source_count": 1,
       "leading_stocks": [
@@ -139,34 +127,22 @@
       "related_news": []
     },
     {
-      "theme_name": "航空机场",
-      "popularity_score": 0.54,
+      "theme_name": "风电设备",
+      "popularity_score": 0.55,
       "count": 1,
-      "avg_change": 1.24,
+      "avg_change": 1.59,
       "news_count": 0,
       "source_count": 1,
       "leading_stocks": [
-        "3.73"
-      ],
-      "related_news": []
-    },
-    {
-      "theme_name": "多元金融",
-      "popularity_score": 0.53,
-      "count": 1,
-      "avg_change": 1.13,
-      "news_count": 0,
-      "source_count": 1,
-      "leading_stocks": [
-        "5.44"
+        "10.0"
       ],
       "related_news": []
     },
     {
       "theme_name": "中药",
-      "popularity_score": 0.53,
+      "popularity_score": 0.54,
       "count": 1,
-      "avg_change": 0.93,
+      "avg_change": 1.4,
       "news_count": 0,
       "source_count": 1,
       "leading_stocks": [
@@ -175,22 +151,46 @@
       "related_news": []
     },
     {
-      "theme_name": "工程机械",
+      "theme_name": "航空机场",
       "popularity_score": 0.53,
       "count": 1,
-      "avg_change": 0.93,
+      "avg_change": 0.95,
       "news_count": 0,
       "source_count": 1,
       "leading_stocks": [
-        "11.6"
+        "3.12"
       ],
       "related_news": []
     },
     {
-      "theme_name": "风电设备",
+      "theme_name": "医药商业",
+      "popularity_score": 0.53,
+      "count": 1,
+      "avg_change": 0.94,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "9.98"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "有色金属",
       "popularity_score": 0.52,
       "count": 1,
-      "avg_change": 0.83,
+      "avg_change": 0.81,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "10.03"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "工程机械",
+      "popularity_score": 0.52,
+      "count": 1,
+      "avg_change": 0.67,
       "news_count": 0,
       "source_count": 1,
       "leading_stocks": [
@@ -199,14 +199,14 @@
       "related_news": []
     },
     {
-      "theme_name": "有色金属",
+      "theme_name": "多元金融",
       "popularity_score": 0.52,
       "count": 1,
-      "avg_change": 0.75,
+      "avg_change": 0.66,
       "news_count": 0,
       "source_count": 1,
       "leading_stocks": [
-        "7.8"
+        "5.59"
       ],
       "related_news": []
     },
@@ -214,7 +214,7 @@
       "theme_name": "公用事业",
       "popularity_score": 0.52,
       "count": 1,
-      "avg_change": 0.56,
+      "avg_change": 0.5,
       "news_count": 0,
       "source_count": 1,
       "leading_stocks": [
@@ -223,17 +223,17 @@
       "related_news": []
     },
     {
-      "theme_name": "银行",
-      "popularity_score": 0.52,
+      "theme_name": "物流行业",
+      "popularity_score": 0.51,
       "count": 1,
-      "avg_change": 0.55,
+      "avg_change": 0.46,
       "news_count": 0,
       "source_count": 1,
       "leading_stocks": [
-        "2.29"
+        "10.03"
       ],
       "related_news": []
     }
   ],
-  "generated_at": "2025-12-03 10:48:20"
+  "generated_at": "2025-12-03 15:25:52"
 }

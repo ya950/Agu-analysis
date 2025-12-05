@@ -1,0 +1,239 @@
+{
+  "date": "2025-12-05",
+  "hot_stocks": [
+    {
+      "code": "688795",
+      "name": "N摩尔-U",
+      "change_pct": 397.02,
+      "price": 1572697376.0,
+      "volume": 65.25,
+      "amount": -276.74,
+      "pe": 556.0,
+      "market_cap": 18.708230412985,
+      "timestamp": "2025-12-05 10:49:48"
+    },
+    {
+      "code": "301486",
+      "name": "致尚科技",
+      "change_pct": 20.0,
+      "price": 166496637.0,
+      "volume": 16.47,
+      "amount": 54.31,
+      "pe": 79.38,
+      "market_cap": 173.364681383015,
+      "timestamp": "2025-12-05 10:49:48"
+    },
+    {
+      "code": "688048",
+      "name": "长光华芯",
+      "change_pct": 20.0,
+      "price": 301621616.0,
+      "volume": 11.49,
+      "amount": 813.24,
+      "pe": 107.35,
+      "market_cap": 133.039485662638,
+      "timestamp": "2025-12-05 10:49:48"
+    },
+    {
+      "code": "300427",
+      "name": "红相股份",
+      "change_pct": 20.0,
+      "price": 261663804.0,
+      "volume": 25.63,
+      "amount": 64.66,
+      "pe": 8.69,
+      "market_cap": 219.555846103663,
+      "timestamp": "2025-12-05 10:49:48"
+    },
+    {
+      "code": "301005",
+      "name": "超捷股份",
+      "change_pct": 20.0,
+      "price": 290003116.0,
+      "volume": 14.5,
+      "amount": 246.58,
+      "pe": 59.01,
+      "market_cap": 11.519009998706,
+      "timestamp": "2025-12-05 10:49:48"
+    },
+    {
+      "code": "300139",
+      "name": "晓程科技",
+      "change_pct": 15.5,
+      "price": 222115920.0,
+      "volume": 30.83,
+      "amount": 73.56,
+      "pe": 24.35,
+      "market_cap": 88.942623844709,
+      "timestamp": "2025-12-05 10:49:48"
+    },
+    {
+      "code": "300062",
+      "name": "中能电气",
+      "change_pct": 14.82,
+      "price": 134867269.0,
+      "volume": 26.73,
+      "amount": 828.67,
+      "pe": 8.25,
+      "market_cap": 223.051067651807,
+      "timestamp": "2025-12-05 10:49:48"
+    },
+    {
+      "code": "300749",
+      "name": "顶固集创",
+      "change_pct": 14.39,
+      "price": 23333052.0,
+      "volume": 7.28,
+      "amount": 159.66,
+      "pe": 10.48,
+      "market_cap": 222.315950041339,
+      "timestamp": "2025-12-05 10:49:48"
+    },
+    {
+      "code": "301526",
+      "name": "国际复材",
+      "change_pct": 14.24,
+      "price": 154546297.0,
+      "volume": 15.22,
+      "amount": 71.5,
+      "pe": 6.27,
+      "market_cap": 273.526007987319,
+      "timestamp": "2025-12-05 10:49:48"
+    },
+    {
+      "code": "300884",
+      "name": "狄耐克",
+      "change_pct": 13.53,
+      "price": 57676438.0,
+      "volume": 16.97,
+      "amount": -1989.85,
+      "pe": 14.66,
+      "market_cap": -109.100227587176,
+      "timestamp": "2025-12-05 10:49:48"
+    }
+  ],
+  "sentiment_analysis": null,
+  "theme_analysis": [
+    {
+      "theme_name": "贵金属",
+      "popularity_score": 0.58,
+      "count": 1,
+      "avg_change": 2.54,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "15.5"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "有色金属",
+      "popularity_score": 0.57,
+      "count": 1,
+      "avg_change": 2.22,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "10.04"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "电网设备",
+      "popularity_score": 0.55,
+      "count": 1,
+      "avg_change": 1.78,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "10.09"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "包装材料",
+      "popularity_score": 0.55,
+      "count": 1,
+      "avg_change": 1.78,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "9.98"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "通信设备",
+      "popularity_score": 0.55,
+      "count": 1,
+      "avg_change": 1.77,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "10.0"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "船舶制造",
+      "popularity_score": 0.55,
+      "count": 1,
+      "avg_change": 1.52,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "4.31"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "玻璃玻纤",
+      "popularity_score": 0.54,
+      "count": 1,
+      "avg_change": 1.41,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "14.24"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "小金属",
+      "popularity_score": 0.54,
+      "count": 1,
+      "avg_change": 1.21,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "5.25"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "光伏设备",
+      "popularity_score": 0.54,
+      "count": 1,
+      "avg_change": 1.2,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "9.9"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "航天航空",
+      "popularity_score": 0.54,
+      "count": 1,
+      "avg_change": 1.2,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "10.08"
+      ],
+      "related_news": []
+    }
+  ],
+  "generated_at": "2025-12-05 10:49:54"
+}

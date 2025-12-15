@@ -5,148 +5,136 @@
       "code": "300118",
       "name": "东方日升",
       "change_pct": 20.02,
-      "price": 402779344.0,
-      "volume": 17.99,
+      "price": 500653488.0,
+      "volume": 19.26,
       "amount": -12.25,
       "pe": 12.18,
       "market_cap": 40.164201289116,
-      "timestamp": "2025-12-15 10:59:38"
+      "timestamp": "2025-12-15 15:28:34"
     },
     {
       "code": "688720",
       "name": "艾森股份",
       "change_pct": 20.0,
-      "price": 83933874.0,
-      "volume": 22.51,
+      "price": 111350435.0,
+      "volume": 25.53,
       "amount": 129.28,
       "pe": 57.95,
       "market_cap": 44.673724679028,
-      "timestamp": "2025-12-15 10:59:38"
+      "timestamp": "2025-12-15 15:28:34"
     },
     {
-      "code": "301306",
-      "name": "西测测试",
+      "code": "300423",
+      "name": "昇辉科技",
       "change_pct": 20.0,
-      "price": 60489376.0,
-      "volume": 21.64,
-      "amount": -56.37,
-      "pe": 80.1,
-      "market_cap": -11.815343888591,
-      "timestamp": "2025-12-15 10:59:38"
+      "price": 68888467.0,
+      "volume": 35.21,
+      "amount": 591.8,
+      "pe": 8.79,
+      "market_cap": -60.267819229175,
+      "timestamp": "2025-12-15 15:28:34"
     },
     {
       "code": "300997",
       "name": "欢乐家",
       "change_pct": 19.98,
-      "price": 143597415.0,
-      "volume": 5.02,
+      "price": 157268353.0,
+      "volume": 5.2,
       "amount": 864.62,
       "pe": 24.49,
       "market_cap": -87.43242233613,
-      "timestamp": "2025-12-15 10:59:38"
+      "timestamp": "2025-12-15 15:28:34"
     },
     {
-      "code": "300423",
-      "name": "昇辉科技",
-      "change_pct": 17.78,
-      "price": 51418076.0,
-      "volume": 27.04,
-      "amount": 580.84,
-      "pe": 8.79,
-      "market_cap": -60.267819229175,
-      "timestamp": "2025-12-15 10:59:38"
-    },
-    {
-      "code": "300948",
-      "name": "冠中生态",
-      "change_pct": 13.62,
-      "price": -12303334.0,
-      "volume": 11.52,
-      "amount": -334.16,
-      "pe": 19.03,
-      "market_cap": -6.957371180207,
-      "timestamp": "2025-12-15 10:59:38"
+      "code": "688031",
+      "name": "星环科技-U",
+      "change_pct": 17.27,
+      "price": 208009744.0,
+      "volume": 20.22,
+      "amount": -37.5,
+      "pe": 72.54,
+      "market_cap": 27.20823360787,
+      "timestamp": "2025-12-15 15:28:34"
     },
     {
       "code": "688418",
       "name": "震有科技",
-      "change_pct": 13.51,
-      "price": 27215669.0,
-      "volume": 9.65,
-      "amount": -123.47,
+      "change_pct": 15.79,
+      "price": 58374877.0,
+      "volume": 15.17,
+      "amount": -125.94,
       "pe": 36.36,
       "market_cap": -384.142325154095,
-      "timestamp": "2025-12-15 10:59:38"
+      "timestamp": "2025-12-15 15:28:34"
+    },
+    {
+      "code": "301306",
+      "name": "西测测试",
+      "change_pct": 14.94,
+      "price": 104808101.0,
+      "volume": 29.68,
+      "amount": -53.99,
+      "pe": 80.1,
+      "market_cap": -11.815343888591,
+      "timestamp": "2025-12-15 15:28:34"
+    },
+    {
+      "code": "300948",
+      "name": "冠中生态",
+      "change_pct": 14.68,
+      "price": 31571531.0,
+      "volume": 20.89,
+      "amount": -337.29,
+      "pe": 19.03,
+      "market_cap": -6.957371180207,
+      "timestamp": "2025-12-15 15:28:34"
     },
     {
       "code": "688390",
       "name": "固德威",
-      "change_pct": 13.24,
-      "price": 77636191.0,
-      "volume": 5.91,
-      "amount": 132.35,
+      "change_pct": 12.36,
+      "price": 60354186.0,
+      "volume": 9.14,
+      "amount": 131.32,
       "pe": 54.01,
       "market_cap": 837.574979519068,
-      "timestamp": "2025-12-15 10:59:38"
+      "timestamp": "2025-12-15 15:28:34"
     },
     {
-      "code": "300346",
-      "name": "南大光电",
-      "change_pct": 11.52,
-      "price": 261705328.0,
-      "volume": 13.45,
-      "amount": 83.43,
-      "pe": 43.69,
-      "market_cap": 13.244271270899,
-      "timestamp": "2025-12-15 10:59:38"
-    },
-    {
-      "code": "301232",
-      "name": "飞沃科技",
-      "change_pct": 11.52,
-      "price": 3734821.0,
-      "volume": 20.92,
-      "amount": 149.66,
-      "pe": 108.0,
-      "market_cap": 163.264682107703,
-      "timestamp": "2025-12-15 10:59:38"
+      "code": "688270",
+      "name": "臻镭科技",
+      "change_pct": 12.07,
+      "price": 217562480.0,
+      "volume": 16.02,
+      "amount": 167.86,
+      "pe": 94.67,
+      "market_cap": 598.091269516638,
+      "timestamp": "2025-12-15 15:28:34"
     }
   ],
   "sentiment_analysis": null,
   "theme_analysis": [
     {
       "theme_name": "保险",
-      "popularity_score": 0.61,
+      "popularity_score": 0.59,
       "count": 1,
-      "avg_change": 3.59,
+      "avg_change": 3.09,
       "news_count": 0,
       "source_count": 1,
       "leading_stocks": [
-        "4.8"
+        "4.96"
       ],
       "related_news": []
     },
     {
-      "theme_name": "钢铁行业",
-      "popularity_score": 0.56,
+      "theme_name": "商业百货",
+      "popularity_score": 0.58,
       "count": 1,
-      "avg_change": 2.06,
+      "avg_change": 2.66,
       "news_count": 0,
       "source_count": 1,
       "leading_stocks": [
-        "9.95"
-      ],
-      "related_news": []
-    },
-    {
-      "theme_name": "化纤行业",
-      "popularity_score": 0.56,
-      "count": 1,
-      "avg_change": 1.97,
-      "news_count": 0,
-      "source_count": 1,
-      "leading_stocks": [
-        "10.04"
+        "10.02"
       ],
       "related_news": []
     },
@@ -154,7 +142,7 @@
       "theme_name": "食品饮料",
       "popularity_score": 0.56,
       "count": 1,
-      "avg_change": 1.95,
+      "avg_change": 2.05,
       "news_count": 0,
       "source_count": 1,
       "leading_stocks": [
@@ -163,26 +151,38 @@
       "related_news": []
     },
     {
-      "theme_name": "橡胶制品",
-      "popularity_score": 0.55,
+      "theme_name": "化纤行业",
+      "popularity_score": 0.56,
       "count": 1,
-      "avg_change": 1.78,
+      "avg_change": 1.91,
       "news_count": 0,
       "source_count": 1,
       "leading_stocks": [
-        "29.64"
+        "7.21"
       ],
       "related_news": []
     },
     {
-      "theme_name": "电子化学品",
+      "theme_name": "贵金属",
       "popularity_score": 0.55,
       "count": 1,
-      "avg_change": 1.7,
+      "avg_change": 1.71,
       "news_count": 0,
       "source_count": 1,
       "leading_stocks": [
-        "11.52"
+        "4.78"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "钢铁行业",
+      "popularity_score": 0.54,
+      "count": 1,
+      "avg_change": 1.39,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "9.95"
       ],
       "related_news": []
     },
@@ -190,7 +190,7 @@
       "theme_name": "综合行业",
       "popularity_score": 0.54,
       "count": 1,
-      "avg_change": 1.36,
+      "avg_change": 1.21,
       "news_count": 0,
       "source_count": 1,
       "leading_stocks": [
@@ -199,41 +199,41 @@
       "related_news": []
     },
     {
-      "theme_name": "商业百货",
+      "theme_name": "橡胶制品",
       "popularity_score": 0.54,
       "count": 1,
-      "avg_change": 1.35,
+      "avg_change": 1.19,
       "news_count": 0,
       "source_count": 1,
       "leading_stocks": [
-        "10.02"
+        "29.97"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "医药商业",
+      "popularity_score": 0.53,
+      "count": 1,
+      "avg_change": 1.09,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "10.05"
       ],
       "related_news": []
     },
     {
       "theme_name": "酿酒行业",
-      "popularity_score": 0.54,
+      "popularity_score": 0.53,
       "count": 1,
-      "avg_change": 1.3,
+      "avg_change": 0.88,
       "news_count": 0,
       "source_count": 1,
       "leading_stocks": [
         "10.02"
       ],
       "related_news": []
-    },
-    {
-      "theme_name": "煤炭行业",
-      "popularity_score": 0.54,
-      "count": 1,
-      "avg_change": 1.28,
-      "news_count": 0,
-      "source_count": 1,
-      "leading_stocks": [
-        "10.07"
-      ],
-      "related_news": []
     }
   ],
-  "generated_at": "2025-12-15 10:59:56"
+  "generated_at": "2025-12-15 15:28:42"
 }

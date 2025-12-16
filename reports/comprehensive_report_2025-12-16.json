@@ -1,0 +1,239 @@
+{
+  "date": "2025-12-16",
+  "hot_stocks": [
+    {
+      "code": "688790",
+      "name": "N昂瑞-UW",
+      "change_pct": 174.15,
+      "price": 580895137.0,
+      "volume": 49.73,
+      "amount": -270.79,
+      "pe": 221.0,
+      "market_cap": -426.658674892469,
+      "timestamp": "2025-12-16 10:54:34"
+    },
+    {
+      "code": "300552",
+      "name": "万集科技",
+      "change_pct": 20.02,
+      "price": 121696835.0,
+      "volume": 14.62,
+      "amount": -38.62,
+      "pe": 26.51,
+      "market_cap": 51.072961835615,
+      "timestamp": "2025-12-16 10:54:34"
+    },
+    {
+      "code": "300516",
+      "name": "久之洋",
+      "change_pct": 16.41,
+      "price": 22043438.0,
+      "volume": 11.15,
+      "amount": 404.76,
+      "pe": 58.01,
+      "market_cap": 7.931856859444,
+      "timestamp": "2025-12-16 10:54:34"
+    },
+    {
+      "code": "301488",
+      "name": "豪恩汽电",
+      "change_pct": 12.87,
+      "price": 46685174.0,
+      "volume": 23.56,
+      "amount": 154.38,
+      "pe": 135.26,
+      "market_cap": -7.17556822497,
+      "timestamp": "2025-12-16 10:54:34"
+    },
+    {
+      "code": "688323",
+      "name": "瑞华泰",
+      "change_pct": 11.94,
+      "price": 35100532.0,
+      "volume": 8.31,
+      "amount": -48.43,
+      "pe": 19.99,
+      "market_cap": -28.864674362089,
+      "timestamp": "2025-12-16 10:54:34"
+    },
+    {
+      "code": "300542",
+      "name": "新晨科技",
+      "change_pct": 11.62,
+      "price": 29445309.0,
+      "volume": 10.22,
+      "amount": -204.87,
+      "pe": 18.34,
+      "market_cap": -27.865784253292,
+      "timestamp": "2025-12-16 10:54:34"
+    },
+    {
+      "code": "601933",
+      "name": "永辉超市",
+      "change_pct": 10.1,
+      "price": 2480729616.0,
+      "volume": 14.25,
+      "amount": -53.31,
+      "pe": 5.04,
+      "market_cap": -811.600535831256,
+      "timestamp": "2025-12-16 10:54:34"
+    },
+    {
+      "code": "002329",
+      "name": "皇氏集团",
+      "change_pct": 10.1,
+      "price": 21145273.0,
+      "volume": 4.31,
+      "amount": -58.06,
+      "pe": 4.58,
+      "market_cap": -236.015349391018,
+      "timestamp": "2025-12-16 10:54:34"
+    },
+    {
+      "code": "000890",
+      "name": "法尔胜",
+      "change_pct": 10.06,
+      "price": 20855052.0,
+      "volume": 4.2,
+      "amount": -98.26,
+      "pe": 7.11,
+      "market_cap": 44.949870937588,
+      "timestamp": "2025-12-16 10:54:34"
+    },
+    {
+      "code": "000716",
+      "name": "黑芝麻",
+      "change_pct": 10.05,
+      "price": 261206504.0,
+      "volume": 9.78,
+      "amount": 553.13,
+      "pe": 6.08,
+      "market_cap": -83.667270413441,
+      "timestamp": "2025-12-16 10:54:34"
+    }
+  ],
+  "sentiment_analysis": null,
+  "theme_analysis": [
+    {
+      "theme_name": "商业百货",
+      "popularity_score": 0.6,
+      "count": 1,
+      "avg_change": 3.18,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "10.02"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "教育",
+      "popularity_score": 0.53,
+      "count": 1,
+      "avg_change": 0.92,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "9.92"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "食品饮料",
+      "popularity_score": 0.52,
+      "count": 1,
+      "avg_change": 0.62,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "10.1"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "旅游酒店",
+      "popularity_score": 0.51,
+      "count": 1,
+      "avg_change": 0.49,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "6.61"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "汽车服务",
+      "popularity_score": 0.51,
+      "count": 1,
+      "avg_change": 0.25,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "5.87"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "多元金融",
+      "popularity_score": 0.51,
+      "count": 1,
+      "avg_change": 0.18,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "10.03"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "汽车整车",
+      "popularity_score": 0.5,
+      "count": 1,
+      "avg_change": 0.13,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "10.01"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "美容护理",
+      "popularity_score": 0.5,
+      "count": 1,
+      "avg_change": 0.11,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "3.78"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "铁路公路",
+      "popularity_score": 0.5,
+      "count": 1,
+      "avg_change": -0.06,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "9.98"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "银行",
+      "popularity_score": 0.49,
+      "count": 1,
+      "avg_change": -0.45,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "0.77"
+      ],
+      "related_news": []
+    }
+  ],
+  "generated_at": "2025-12-16 10:54:40"
+}

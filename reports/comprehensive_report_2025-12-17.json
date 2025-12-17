@@ -1,0 +1,239 @@
+{
+  "date": "2025-12-17",
+  "hot_stocks": [
+    {
+      "code": "688802",
+      "name": "N沐曦-U",
+      "change_pct": 697.99,
+      "price": 1384436592.0,
+      "volume": 67.89,
+      "amount": -725.37,
+      "pe": 650.0,
+      "market_cap": 55.794349479083,
+      "timestamp": "2025-12-17 10:50:30"
+    },
+    {
+      "code": "301408",
+      "name": "华人健康",
+      "change_pct": 16.28,
+      "price": 220116556.0,
+      "volume": 37.43,
+      "amount": 35.81,
+      "pe": 15.78,
+      "market_cap": 45.211846331455,
+      "timestamp": "2025-12-17 10:50:30"
+    },
+    {
+      "code": "301123",
+      "name": "奕东电子",
+      "change_pct": 15.12,
+      "price": 135992962.0,
+      "volume": 9.92,
+      "amount": 310.65,
+      "pe": 45.8,
+      "market_cap": 68.389954072208,
+      "timestamp": "2025-12-17 10:50:30"
+    },
+    {
+      "code": "300390",
+      "name": "天华新能",
+      "change_pct": 13.81,
+      "price": 173145808.0,
+      "volume": 7.74,
+      "amount": 1012.16,
+      "pe": 47.77,
+      "market_cap": -96.440489357747,
+      "timestamp": "2025-12-17 10:50:30"
+    },
+    {
+      "code": "301205",
+      "name": "联特科技",
+      "change_pct": 13.56,
+      "price": 136203808.0,
+      "volume": 19.14,
+      "amount": 195.89,
+      "pe": 142.01,
+      "market_cap": 31.38557377893,
+      "timestamp": "2025-12-17 10:50:30"
+    },
+    {
+      "code": "688379",
+      "name": "华光新材",
+      "change_pct": 12.88,
+      "price": 3389194.0,
+      "volume": 5.76,
+      "amount": 22.57,
+      "pe": 47.57,
+      "market_cap": 100.791774872882,
+      "timestamp": "2025-12-17 10:50:30"
+    },
+    {
+      "code": "688167",
+      "name": "炬光科技",
+      "change_pct": 12.19,
+      "price": 142190002.0,
+      "volume": 6.39,
+      "amount": 5335.95,
+      "pe": 158.0,
+      "market_cap": 104.337583430862,
+      "timestamp": "2025-12-17 10:50:30"
+    },
+    {
+      "code": "300270",
+      "name": "中威电子",
+      "change_pct": 12.14,
+      "price": 18538360.0,
+      "volume": 13.4,
+      "amount": -58.61,
+      "pe": 10.28,
+      "market_cap": 13.996678570813,
+      "timestamp": "2025-12-17 10:50:30"
+    },
+    {
+      "code": "300990",
+      "name": "同飞股份",
+      "change_pct": 10.96,
+      "price": 22281683.0,
+      "volume": 7.6,
+      "amount": 55.91,
+      "pe": 70.86,
+      "market_cap": 158.10968160245,
+      "timestamp": "2025-12-17 10:50:30"
+    },
+    {
+      "code": "002491",
+      "name": "通鼎互联",
+      "change_pct": 10.09,
+      "price": 155832184.0,
+      "volume": 7.12,
+      "amount": -87.65,
+      "pe": 5.61,
+      "market_cap": -906.658372083354,
+      "timestamp": "2025-12-17 10:50:30"
+    }
+  ],
+  "sentiment_analysis": null,
+  "theme_analysis": [
+    {
+      "theme_name": "能源金属",
+      "popularity_score": 0.63,
+      "count": 1,
+      "avg_change": 4.22,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "13.81"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "医药商业",
+      "popularity_score": 0.55,
+      "count": 1,
+      "avg_change": 1.81,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "10.01"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "旅游酒店",
+      "popularity_score": 0.55,
+      "count": 1,
+      "avg_change": 1.8,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "10.04"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "航空机场",
+      "popularity_score": 0.54,
+      "count": 1,
+      "avg_change": 1.29,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "5.11"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "电池",
+      "popularity_score": 0.54,
+      "count": 1,
+      "avg_change": 1.22,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "10.01"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "化肥行业",
+      "popularity_score": 0.53,
+      "count": 1,
+      "avg_change": 0.89,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "7.76"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "贵金属",
+      "popularity_score": 0.52,
+      "count": 1,
+      "avg_change": 0.81,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "2.96"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "保险",
+      "popularity_score": 0.52,
+      "count": 1,
+      "avg_change": 0.77,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "1.84"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "游戏",
+      "popularity_score": 0.52,
+      "count": 1,
+      "avg_change": 0.76,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "5.86"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "食品饮料",
+      "popularity_score": 0.52,
+      "count": 1,
+      "avg_change": 0.75,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "10.05"
+      ],
+      "related_news": []
+    }
+  ],
+  "generated_at": "2025-12-17 10:50:39"
+}

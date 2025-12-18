@@ -1,0 +1,239 @@
+{
+  "date": "2025-12-18",
+  "hot_stocks": [
+    {
+      "code": "001325",
+      "name": "N元创",
+      "change_pct": 186.75,
+      "price": 179810581.0,
+      "volume": 48.79,
+      "amount": 34.15,
+      "pe": 70.0,
+      "market_cap": 6.269809647879,
+      "timestamp": "2025-12-18 10:51:01"
+    },
+    {
+      "code": "300640",
+      "name": "德艺文创",
+      "change_pct": 20.05,
+      "price": 164563892.0,
+      "volume": 38.08,
+      "amount": 144.98,
+      "pe": 7.67,
+      "market_cap": 26.246153546618,
+      "timestamp": "2025-12-18 10:51:01"
+    },
+    {
+      "code": "300710",
+      "name": "万隆光电",
+      "change_pct": 20.02,
+      "price": 32371967.0,
+      "volume": 4.57,
+      "amount": -223.7,
+      "pe": 30.88,
+      "market_cap": -177.622126437919,
+      "timestamp": "2025-12-18 10:51:01"
+    },
+    {
+      "code": "301408",
+      "name": "华人健康",
+      "change_pct": 20.0,
+      "price": 36379057.0,
+      "volume": 35.45,
+      "amount": 41.81,
+      "pe": 19.7,
+      "market_cap": 45.211846331455,
+      "timestamp": "2025-12-18 10:51:01"
+    },
+    {
+      "code": "300342",
+      "name": "天银机电",
+      "change_pct": 19.98,
+      "price": 347414272.0,
+      "volume": 24.45,
+      "amount": 396.66,
+      "pe": 25.52,
+      "market_cap": -56.096881319513,
+      "timestamp": "2025-12-18 10:51:01"
+    },
+    {
+      "code": "688523",
+      "name": "航天环宇",
+      "change_pct": 14.92,
+      "price": 78458895.0,
+      "volume": 20.49,
+      "amount": 264.85,
+      "pe": 38.6,
+      "market_cap": 0.560796337301,
+      "timestamp": "2025-12-18 10:51:01"
+    },
+    {
+      "code": "688568",
+      "name": "中科星图",
+      "change_pct": 12.64,
+      "price": 188977056.0,
+      "volume": 3.53,
+      "amount": 209.49,
+      "pe": 44.36,
+      "market_cap": 0.541628309066,
+      "timestamp": "2025-12-18 10:51:01"
+    },
+    {
+      "code": "301306",
+      "name": "西测测试",
+      "change_pct": 11.86,
+      "price": 103038409.0,
+      "volume": 17.73,
+      "amount": -69.87,
+      "pe": 100.56,
+      "market_cap": -11.815343888591,
+      "timestamp": "2025-12-18 10:51:01"
+    },
+    {
+      "code": "301079",
+      "name": "邵阳液压",
+      "change_pct": 11.71,
+      "price": 70114234.0,
+      "volume": 25.23,
+      "amount": 1022.05,
+      "pe": 27.77,
+      "market_cap": -85.455460008276,
+      "timestamp": "2025-12-18 10:51:01"
+    },
+    {
+      "code": "301017",
+      "name": "漱玉平民",
+      "change_pct": 11.04,
+      "price": 12221730.0,
+      "volume": 13.16,
+      "amount": 46.49,
+      "pe": 15.3,
+      "market_cap": 927.369990687188,
+      "timestamp": "2025-12-18 10:51:01"
+    }
+  ],
+  "sentiment_analysis": null,
+  "theme_analysis": [
+    {
+      "theme_name": "医药商业",
+      "popularity_score": 0.63,
+      "count": 1,
+      "avg_change": 4.2,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "9.97"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "航天航空",
+      "popularity_score": 0.58,
+      "count": 1,
+      "avg_change": 2.71,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "10.01"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "化纤行业",
+      "popularity_score": 0.57,
+      "count": 1,
+      "avg_change": 2.42,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "5.87"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "商业百货",
+      "popularity_score": 0.56,
+      "count": 1,
+      "avg_change": 2.16,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "10.12"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "家用轻工",
+      "popularity_score": 0.56,
+      "count": 1,
+      "avg_change": 2.12,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "10.04"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "通信设备",
+      "popularity_score": 0.56,
+      "count": 1,
+      "avg_change": 1.92,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "20.02"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "包装材料",
+      "popularity_score": 0.55,
+      "count": 1,
+      "avg_change": 1.82,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "9.96"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "游戏",
+      "popularity_score": 0.55,
+      "count": 1,
+      "avg_change": 1.79,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "3.53"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "珠宝首饰",
+      "popularity_score": 0.55,
+      "count": 1,
+      "avg_change": 1.74,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "10.05"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "医疗服务",
+      "popularity_score": 0.55,
+      "count": 1,
+      "avg_change": 1.62,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "10.05"
+      ],
+      "related_news": []
+    }
+  ],
+  "generated_at": "2025-12-18 10:51:06"
+}

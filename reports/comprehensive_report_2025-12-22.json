@@ -1,0 +1,118 @@
+{
+  "date": "2025-12-22",
+  "hot_stocks": [
+    {
+      "code": "300189",
+      "name": "神农种业",
+      "change_pct": 20.03,
+      "price": 267978152.0,
+      "volume": 39.89,
+      "amount": 968.3,
+      "pe": 5.95,
+      "market_cap": 126.674538355863,
+      "timestamp": "2025-12-22 11:01:41"
+    },
+    {
+      "code": "688125",
+      "name": "安达智能",
+      "change_pct": 20.0,
+      "price": 17700328.0,
+      "volume": 2.03,
+      "amount": -61.88,
+      "pe": 81.19,
+      "market_cap": -933.968726707429,
+      "timestamp": "2025-12-22 11:01:41"
+    },
+    {
+      "code": "301611",
+      "name": "珂玛科技",
+      "change_pct": 20.0,
+      "price": 189861184.0,
+      "volume": 14.18,
+      "amount": 102.0,
+      "pe": 67.09,
+      "market_cap": 8.290127862108,
+      "timestamp": "2025-12-22 11:01:41"
+    },
+    {
+      "code": "300086",
+      "name": "康芝药业",
+      "change_pct": 19.96,
+      "price": 295863095.0,
+      "volume": 23.76,
+      "amount": -46.71,
+      "pe": 11.05,
+      "market_cap": 21.281776584988,
+      "timestamp": "2025-12-22 11:01:41"
+    },
+    {
+      "code": "300506",
+      "name": "*ST名家",
+      "change_pct": 19.94,
+      "price": 599994.0,
+      "volume": 0.05,
+      "amount": -35.72,
+      "pe": 3.79,
+      "market_cap": -231.422870167351,
+      "timestamp": "2025-12-22 11:01:41"
+    },
+    {
+      "code": "300344",
+      "name": "*ST立方",
+      "change_pct": 19.63,
+      "price": 12872591.0,
+      "volume": 15.15,
+      "amount": -9.9,
+      "pe": 1.09,
+      "market_cap": -20.593175327764,
+      "timestamp": "2025-12-22 11:01:41"
+    },
+    {
+      "code": "688627",
+      "name": "精智达",
+      "change_pct": 19.25,
+      "price": -66152768.0,
+      "volume": 6.75,
+      "amount": 421.86,
+      "pe": 214.5,
+      "market_cap": -19.290145578505,
+      "timestamp": "2025-12-22 11:01:41"
+    },
+    {
+      "code": "688679",
+      "name": "通源环境",
+      "change_pct": 19.05,
+      "price": 14790353.0,
+      "volume": 7.64,
+      "amount": -158.79,
+      "pe": 22.92,
+      "market_cap": -345.82144113157,
+      "timestamp": "2025-12-22 11:01:41"
+    },
+    {
+      "code": "300321",
+      "name": "同大股份",
+      "change_pct": 18.81,
+      "price": 19646623.0,
+      "volume": 8.5,
+      "amount": 316.99,
+      "pe": 44.81,
+      "market_cap": -3.803736600683,
+      "timestamp": "2025-12-22 11:01:41"
+    },
+    {
+      "code": "300236",
+      "name": "上海新阳",
+      "change_pct": 17.8,
+      "price": 22244174.0,
+      "volume": 10.03,
+      "amount": 75.15,
+      "pe": 57.3,
+      "market_cap": 62.699469094452,
+      "timestamp": "2025-12-22 11:01:41"
+    }
+  ],
+  "sentiment_analysis": null,
+  "theme_analysis": [],
+  "generated_at": "2025-12-22 11:01:56"
+}

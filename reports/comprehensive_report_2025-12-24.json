@@ -1,0 +1,239 @@
+{
+  "date": "2025-12-24",
+  "hot_stocks": [
+    {
+      "code": "688805",
+      "name": "N健信",
+      "change_pct": 260.6,
+      "price": 497191894.0,
+      "volume": 47.58,
+      "amount": 176.93,
+      "pe": 65.02,
+      "market_cap": 38.541971348692,
+      "timestamp": "2025-12-24 10:53:22"
+    },
+    {
+      "code": "301005",
+      "name": "超捷股份",
+      "change_pct": 20.0,
+      "price": 384183056.0,
+      "volume": 22.09,
+      "amount": 398.29,
+      "pe": 91.75,
+      "market_cap": 11.519009998706,
+      "timestamp": "2025-12-24 10:53:22"
+    },
+    {
+      "code": "300593",
+      "name": "新雷能",
+      "change_pct": 20.0,
+      "price": 281646288.0,
+      "volume": 13.23,
+      "amount": -136.93,
+      "pe": 25.3,
+      "market_cap": 34.706227297474,
+      "timestamp": "2025-12-24 10:53:22"
+    },
+    {
+      "code": "300887",
+      "name": "谱尼测试",
+      "change_pct": 19.95,
+      "price": 107764801.0,
+      "volume": 14.5,
+      "amount": -19.18,
+      "pe": 7.78,
+      "market_cap": 15.066952867888,
+      "timestamp": "2025-12-24 10:53:22"
+    },
+    {
+      "code": "300159",
+      "name": "*ST新研",
+      "change_pct": 17.36,
+      "price": -19520358.0,
+      "volume": 3.81,
+      "amount": -34.58,
+      "pe": 3.27,
+      "market_cap": -35.809528306915,
+      "timestamp": "2025-12-24 10:53:22"
+    },
+    {
+      "code": "300629",
+      "name": "新劲刚",
+      "change_pct": 13.98,
+      "price": 73275501.0,
+      "volume": 15.69,
+      "amount": 361.47,
+      "pe": 18.6,
+      "market_cap": -90.042807111963,
+      "timestamp": "2025-12-24 10:53:22"
+    },
+    {
+      "code": "300136",
+      "name": "信维通信",
+      "change_pct": 13.58,
+      "price": 215890768.0,
+      "volume": 11.39,
+      "amount": 64.25,
+      "pe": 37.13,
+      "market_cap": -8.767237001004,
+      "timestamp": "2025-12-24 10:53:22"
+    },
+    {
+      "code": "688807",
+      "name": "C优迅",
+      "change_pct": 12.87,
+      "price": 94674672.0,
+      "volume": 34.23,
+      "amount": 188.59,
+      "pe": 200.01,
+      "market_cap": 17.106338869648,
+      "timestamp": "2025-12-24 10:53:22"
+    },
+    {
+      "code": "300225",
+      "name": "*ST金泰",
+      "change_pct": 12.56,
+      "price": 7169219.0,
+      "volume": 5.23,
+      "amount": 101.69,
+      "pe": 4.68,
+      "market_cap": -15.095763842834,
+      "timestamp": "2025-12-24 10:53:22"
+    },
+    {
+      "code": "688323",
+      "name": "瑞华泰",
+      "change_pct": 12.03,
+      "price": -21941881.0,
+      "volume": 6.71,
+      "amount": -46.71,
+      "pe": 19.17,
+      "market_cap": -28.864674362089,
+      "timestamp": "2025-12-24 10:53:22"
+    }
+  ],
+  "sentiment_analysis": null,
+  "theme_analysis": [
+    {
+      "theme_name": "电源设备",
+      "popularity_score": 0.63,
+      "count": 1,
+      "avg_change": 4.4,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "10.0"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "航天航空",
+      "popularity_score": 0.59,
+      "count": 1,
+      "avg_change": 2.96,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "9.96"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "玻璃玻纤",
+      "popularity_score": 0.57,
+      "count": 1,
+      "avg_change": 2.41,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "10.05"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "包装材料",
+      "popularity_score": 0.57,
+      "count": 1,
+      "avg_change": 2.39,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "10.07"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "消费电子",
+      "popularity_score": 0.57,
+      "count": 1,
+      "avg_change": 2.19,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "10.01"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "计算机设备",
+      "popularity_score": 0.56,
+      "count": 1,
+      "avg_change": 2.0,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "9.96"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "船舶制造",
+      "popularity_score": 0.56,
+      "count": 1,
+      "avg_change": 1.85,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "4.35"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "专业服务",
+      "popularity_score": 0.55,
+      "count": 1,
+      "avg_change": 1.57,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "9.99"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "塑料制品",
+      "popularity_score": 0.55,
+      "count": 1,
+      "avg_change": 1.54,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "9.99"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "电网设备",
+      "popularity_score": 0.55,
+      "count": 1,
+      "avg_change": 1.5,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "10.02"
+      ],
+      "related_news": []
+    }
+  ],
+  "generated_at": "2025-12-24 10:53:33"
+}

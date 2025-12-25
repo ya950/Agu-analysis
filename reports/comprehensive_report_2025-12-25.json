@@ -2,114 +2,114 @@
   "date": "2025-12-25",
   "hot_stocks": [
     {
-      "code": "301449",
-      "name": "C天溯",
-      "change_pct": 24.62,
-      "price": 85946698.0,
-      "volume": 50.75,
-      "amount": 49.71,
-      "pe": 77.85,
-      "market_cap": 11.618298355941,
-      "timestamp": "2025-12-25 10:56:31"
+      "code": "300503",
+      "name": "昊志机电",
+      "change_pct": 20.01,
+      "price": 231862832.0,
+      "volume": 21.76,
+      "amount": 82.56,
+      "pe": 37.02,
+      "market_cap": 50.402648647469,
+      "timestamp": "2025-12-25 15:25:49"
     },
     {
-      "code": "688270",
-      "name": "臻镭科技",
+      "code": "301005",
+      "name": "超捷股份",
       "change_pct": 20.0,
-      "price": 280944160.0,
-      "volume": 9.86,
-      "amount": 212.05,
-      "pe": 117.08,
-      "market_cap": 579.922581753675,
-      "timestamp": "2025-12-25 10:56:31"
+      "price": 47674112.0,
+      "volume": 22.26,
+      "amount": 477.96,
+      "pe": 118.71,
+      "market_cap": 11.519009998706,
+      "timestamp": "2025-12-25 15:25:49"
+    },
+    {
+      "code": "301469",
+      "name": "恒达新材",
+      "change_pct": 20.0,
+      "price": 31470183.0,
+      "volume": 22.75,
+      "amount": 43.01,
+      "pe": 28.62,
+      "market_cap": 3.247147399643,
+      "timestamp": "2025-12-25 15:25:49"
+    },
+    {
+      "code": "301043",
+      "name": "绿岛风",
+      "change_pct": 20.0,
+      "price": 50367897.0,
+      "volume": 9.15,
+      "amount": 52.04,
+      "pe": 52.33,
+      "market_cap": -23.49384893854,
+      "timestamp": "2025-12-25 15:25:49"
     },
     {
       "code": "300900",
       "name": "广联航空",
       "change_pct": 19.99,
-      "price": 229541952.0,
-      "volume": 23.41,
+      "price": 243847360.0,
+      "volume": 24.02,
       "amount": 400.01,
       "pe": 28.58,
       "market_cap": -66.106339563514,
-      "timestamp": "2025-12-25 10:56:31"
+      "timestamp": "2025-12-25 15:25:49"
     },
     {
-      "code": "301043",
-      "name": "绿岛风",
-      "change_pct": 18.4,
-      "price": 21988476.0,
-      "volume": 6.95,
-      "amount": 51.35,
-      "pe": 52.33,
-      "market_cap": -23.49384893854,
-      "timestamp": "2025-12-25 10:56:31"
-    },
-    {
-      "code": "301005",
-      "name": "超捷股份",
-      "change_pct": 16.33,
-      "price": -82497104.0,
-      "volume": 16.98,
-      "amount": 463.33,
-      "pe": 118.71,
-      "market_cap": 11.519009998706,
-      "timestamp": "2025-12-25 10:56:31"
-    },
-    {
-      "code": "301208",
-      "name": "中亦科技",
-      "change_pct": 15.86,
-      "price": 51758661.0,
-      "volume": 20.9,
-      "amount": 117.23,
-      "pe": 36.29,
-      "market_cap": -40.435580095323,
-      "timestamp": "2025-12-25 10:56:31"
+      "code": "300668",
+      "name": "杰恩设计",
+      "change_pct": 19.98,
+      "price": 22727752.0,
+      "volume": 17.51,
+      "amount": 135.87,
+      "pe": 22.0,
+      "market_cap": 68.772964953909,
+      "timestamp": "2025-12-25 15:25:49"
     },
     {
       "code": "688539",
       "name": "高华科技",
-      "change_pct": 14.8,
-      "price": -27993153.0,
-      "volume": 12.24,
-      "amount": 134.4,
+      "change_pct": 18.9,
+      "price": -9018559.0,
+      "volume": 17.06,
+      "amount": 139.2,
       "pe": 43.9,
       "market_cap": 14.971986032151,
-      "timestamp": "2025-12-25 10:56:31"
+      "timestamp": "2025-12-25 15:25:49"
     },
     {
-      "code": "688416",
-      "name": "恒烁股份",
-      "change_pct": 14.29,
-      "price": 97515904.0,
-      "volume": 17.71,
-      "amount": -39.12,
-      "pe": 54.41,
-      "market_cap": 8.833223550521,
-      "timestamp": "2025-12-25 10:56:31"
+      "code": "301449",
+      "name": "C天溯",
+      "change_pct": 18.83,
+      "price": 74507515.0,
+      "volume": 71.05,
+      "amount": 47.4,
+      "pe": 77.85,
+      "market_cap": 11.618298355941,
+      "timestamp": "2025-12-25 15:25:49"
     },
     {
-      "code": "300503",
-      "name": "昊志机电",
-      "change_pct": 14.26,
-      "price": 112752253.0,
-      "volume": 16.07,
-      "amount": 78.61,
-      "pe": 37.02,
-      "market_cap": 50.402648647469,
-      "timestamp": "2025-12-25 10:56:31"
+      "code": "688270",
+      "name": "臻镭科技",
+      "change_pct": 16.9,
+      "price": 467825008.0,
+      "volume": 16.53,
+      "amount": 206.57,
+      "pe": 117.08,
+      "market_cap": 579.922581753675,
+      "timestamp": "2025-12-25 15:25:49"
     },
     {
-      "code": "301128",
-      "name": "强瑞技术",
-      "change_pct": 12.79,
-      "price": -32540039.0,
-      "volume": 10.28,
-      "amount": 71.94,
-      "pe": 97.0,
-      "market_cap": 46.062726779512,
-      "timestamp": "2025-12-25 10:56:31"
+      "code": "688385",
+      "name": "复旦微电",
+      "change_pct": 16.21,
+      "price": 23859712.0,
+      "volume": 5.76,
+      "amount": 140.27,
+      "pe": 63.9,
+      "market_cap": -22.692057567049,
+      "timestamp": "2025-12-25 15:25:49"
     }
   ],
   "sentiment_analysis": null,
@@ -118,7 +118,7 @@
       "theme_name": "航天航空",
       "popularity_score": 0.62,
       "count": 1,
-      "avg_change": 4.03,
+      "avg_change": 3.93,
       "news_count": 0,
       "source_count": 1,
       "leading_stocks": [
@@ -128,21 +128,9 @@
     },
     {
       "theme_name": "电机",
-      "popularity_score": 0.56,
+      "popularity_score": 0.6,
       "count": 1,
-      "avg_change": 2.05,
-      "news_count": 0,
-      "source_count": 1,
-      "leading_stocks": [
-        "7.83"
-      ],
-      "related_news": []
-    },
-    {
-      "theme_name": "造纸印刷",
-      "popularity_score": 0.56,
-      "count": 1,
-      "avg_change": 1.92,
+      "avg_change": 3.25,
       "news_count": 0,
       "source_count": 1,
       "leading_stocks": [
@@ -151,22 +139,22 @@
       "related_news": []
     },
     {
-      "theme_name": "保险",
-      "popularity_score": 0.55,
+      "theme_name": "造纸印刷",
+      "popularity_score": 0.59,
       "count": 1,
-      "avg_change": 1.73,
+      "avg_change": 3.13,
       "news_count": 0,
       "source_count": 1,
       "leading_stocks": [
-        "2.36"
+        "10.0"
       ],
       "related_news": []
     },
     {
       "theme_name": "包装材料",
-      "popularity_score": 0.55,
+      "popularity_score": 0.57,
       "count": 1,
-      "avg_change": 1.65,
+      "avg_change": 2.23,
       "news_count": 0,
       "source_count": 1,
       "leading_stocks": [
@@ -176,9 +164,9 @@
     },
     {
       "theme_name": "通用设备",
-      "popularity_score": 0.54,
+      "popularity_score": 0.57,
       "count": 1,
-      "avg_change": 1.46,
+      "avg_change": 2.18,
       "news_count": 0,
       "source_count": 1,
       "leading_stocks": [
@@ -187,10 +175,46 @@
       "related_news": []
     },
     {
-      "theme_name": "物流行业",
-      "popularity_score": 0.54,
+      "theme_name": "汽车零部件",
+      "popularity_score": 0.56,
       "count": 1,
-      "avg_change": 1.39,
+      "avg_change": 2.05,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "10.03"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "保险",
+      "popularity_score": 0.56,
+      "count": 1,
+      "avg_change": 1.94,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "2.75"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "船舶制造",
+      "popularity_score": 0.55,
+      "count": 1,
+      "avg_change": 1.67,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "5.0"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "专用设备",
+      "popularity_score": 0.55,
+      "count": 1,
+      "avg_change": 1.62,
       "news_count": 0,
       "source_count": 1,
       "leading_stocks": [
@@ -199,41 +223,17 @@
       "related_news": []
     },
     {
-      "theme_name": "玻璃玻纤",
-      "popularity_score": 0.54,
+      "theme_name": "化纤行业",
+      "popularity_score": 0.55,
       "count": 1,
-      "avg_change": 1.38,
+      "avg_change": 1.56,
       "news_count": 0,
       "source_count": 1,
       "leading_stocks": [
-        "10.01"
-      ],
-      "related_news": []
-    },
-    {
-      "theme_name": "通信设备",
-      "popularity_score": 0.54,
-      "count": 1,
-      "avg_change": 1.38,
-      "news_count": 0,
-      "source_count": 1,
-      "leading_stocks": [
-        "10.02"
-      ],
-      "related_news": []
-    },
-    {
-      "theme_name": "汽车零部件",
-      "popularity_score": 0.54,
-      "count": 1,
-      "avg_change": 1.28,
-      "news_count": 0,
-      "source_count": 1,
-      "leading_stocks": [
-        "10.03"
+        "7.12"
       ],
       "related_news": []
     }
   ],
-  "generated_at": "2025-12-25 10:56:37"
+  "generated_at": "2025-12-25 15:25:57"
 }

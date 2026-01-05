@@ -5,132 +5,132 @@
       "code": "300029",
       "name": "*ST天龙",
       "change_pct": 20.04,
-      "price": 2956959.0,
-      "volume": 0.7,
+      "price": 3221069.0,
+      "volume": 0.72,
       "amount": -55.31,
       "pe": 5.39,
       "market_cap": -187.195472307768,
-      "timestamp": "2026-01-05 11:11:59"
+      "timestamp": "2026-01-05 15:32:33"
+    },
+    {
+      "code": "300986",
+      "name": "志特新材",
+      "change_pct": 20.04,
+      "price": 125658363.0,
+      "volume": 20.96,
+      "amount": 35.18,
+      "pe": 11.8,
+      "market_cap": 98.650687796944,
+      "timestamp": "2026-01-05 15:32:33"
     },
     {
       "code": "688767",
       "name": "博拓生物",
       "change_pct": 20.01,
-      "price": -59207147.0,
-      "volume": 10.32,
+      "price": -51320253.0,
+      "volume": 10.69,
       "amount": 228.09,
       "pe": 40.89,
       "market_cap": -75.044496196117,
-      "timestamp": "2026-01-05 11:11:59"
+      "timestamp": "2026-01-05 15:32:33"
+    },
+    {
+      "code": "688108",
+      "name": "赛诺医疗",
+      "change_pct": 20.01,
+      "price": 138286009.0,
+      "volume": 14.88,
+      "amount": 341.17,
+      "pe": 19.75,
+      "market_cap": 293.460931346759,
+      "timestamp": "2026-01-05 15:32:33"
+    },
+    {
+      "code": "300409",
+      "name": "道氏技术",
+      "change_pct": 20.01,
+      "price": 417775008.0,
+      "volume": 20.17,
+      "amount": 38.11,
+      "pe": 23.32,
+      "market_cap": 182.445256379106,
+      "timestamp": "2026-01-05 15:32:33"
+    },
+    {
+      "code": "688416",
+      "name": "恒烁股份",
+      "change_pct": 20.01,
+      "price": 50265836.0,
+      "volume": 19.8,
+      "amount": -43.21,
+      "pe": 56.01,
+      "market_cap": 8.833223550521,
+      "timestamp": "2026-01-05 15:32:33"
     },
     {
       "code": "301293",
       "name": "三博脑科",
       "change_pct": 20.01,
-      "price": 195418692.0,
-      "volume": 6.39,
+      "price": 213554582.0,
+      "volume": 6.63,
       "amount": 130.76,
       "pe": 70.78,
       "market_cap": -20.013276356879,
-      "timestamp": "2026-01-05 11:11:59"
+      "timestamp": "2026-01-05 15:32:33"
     },
     {
       "code": "688626",
       "name": "翔宇医疗",
       "change_pct": 20.0,
-      "price": 61486865.0,
-      "volume": 3.27,
+      "price": 69594180.0,
+      "volume": 3.41,
       "amount": 198.08,
       "pe": 70.1,
       "market_cap": -40.091016380356,
-      "timestamp": "2026-01-05 11:11:59"
+      "timestamp": "2026-01-05 15:32:33"
     },
     {
       "code": "688580",
       "name": "伟思医疗",
       "change_pct": 20.0,
-      "price": 78979315.0,
-      "volume": 7.07,
+      "price": 83534470.0,
+      "volume": 7.33,
       "amount": 40.84,
       "pe": 51.9,
       "market_cap": 30.680764134929,
-      "timestamp": "2026-01-05 11:11:59"
+      "timestamp": "2026-01-05 15:32:33"
     },
     {
-      "code": "301563",
-      "name": "云汉芯城",
+      "code": "688039",
+      "name": "当虹科技",
       "change_pct": 20.0,
-      "price": 153409663.0,
-      "volume": 35.54,
-      "amount": 110.25,
-      "pe": 155.45,
-      "market_cap": 46.740703933499,
-      "timestamp": "2026-01-05 11:11:59"
-    },
-    {
-      "code": "301363",
-      "name": "美好医疗",
-      "change_pct": 20.0,
-      "price": 54112558.0,
-      "volume": 1.86,
-      "amount": 59.14,
-      "pe": 28.86,
-      "market_cap": -19.254230140776,
-      "timestamp": "2026-01-05 11:11:59"
-    },
-    {
-      "code": "301330",
-      "name": "熵基科技",
-      "change_pct": 20.0,
-      "price": 190373463.0,
-      "volume": 16.66,
-      "amount": 54.6,
-      "pe": 35.03,
-      "market_cap": 6.244910421446,
-      "timestamp": "2026-01-05 11:11:59"
-    },
-    {
-      "code": "301033",
-      "name": "迈普医学",
-      "change_pct": 20.0,
-      "price": 17951116.0,
-      "volume": 5.96,
-      "amount": 53.7,
-      "pe": 68.0,
-      "market_cap": 43.654850725788,
-      "timestamp": "2026-01-05 11:11:59"
-    },
-    {
-      "code": "300887",
-      "name": "谱尼测试",
-      "change_pct": 20.0,
-      "price": 97264513.0,
-      "volume": 17.64,
-      "amount": -23.71,
-      "pe": 9.91,
-      "market_cap": 15.066952867888,
-      "timestamp": "2026-01-05 11:11:59"
+      "price": 99550676.0,
+      "volume": 10.33,
+      "amount": -205.81,
+      "pe": 45.31,
+      "market_cap": 68.836605547297,
+      "timestamp": "2026-01-05 15:32:33"
     }
   ],
   "sentiment_analysis": null,
   "theme_analysis": [
     {
       "theme_name": "保险",
-      "popularity_score": 0.67,
+      "popularity_score": 0.7,
       "count": 1,
-      "avg_change": 5.65,
+      "avg_change": 6.72,
       "news_count": 0,
       "source_count": 1,
       "leading_stocks": [
-        "7.52"
+        "8.87"
       ],
       "related_news": []
     },
     {
       "theme_name": "医疗器械",
-      "popularity_score": 0.66,
+      "popularity_score": 0.69,
       "count": 1,
-      "avg_change": 5.29,
+      "avg_change": 6.26,
       "news_count": 0,
       "source_count": 1,
       "leading_stocks": [
@@ -140,9 +140,9 @@
     },
     {
       "theme_name": "医疗服务",
-      "popularity_score": 0.65,
+      "popularity_score": 0.67,
       "count": 1,
-      "avg_change": 5.1,
+      "avg_change": 5.6,
       "news_count": 0,
       "source_count": 1,
       "leading_stocks": [
@@ -151,10 +151,22 @@
       "related_news": []
     },
     {
-      "theme_name": "半导体",
-      "popularity_score": 0.6,
+      "theme_name": "船舶制造",
+      "popularity_score": 0.63,
       "count": 1,
-      "avg_change": 3.47,
+      "avg_change": 4.33,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "14.07"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "半导体",
+      "popularity_score": 0.63,
+      "count": 1,
+      "avg_change": 4.18,
       "news_count": 0,
       "source_count": 1,
       "leading_stocks": [
@@ -163,34 +175,10 @@
       "related_news": []
     },
     {
-      "theme_name": "贵金属",
-      "popularity_score": 0.6,
-      "count": 1,
-      "avg_change": 3.24,
-      "news_count": 0,
-      "source_count": 1,
-      "leading_stocks": [
-        "9.83"
-      ],
-      "related_news": []
-    },
-    {
-      "theme_name": "电子化学品",
-      "popularity_score": 0.6,
-      "count": 1,
-      "avg_change": 3.2,
-      "news_count": 0,
-      "source_count": 1,
-      "leading_stocks": [
-        "10.9"
-      ],
-      "related_news": []
-    },
-    {
       "theme_name": "游戏",
-      "popularity_score": 0.6,
+      "popularity_score": 0.62,
       "count": 1,
-      "avg_change": 3.2,
+      "avg_change": 3.89,
       "news_count": 0,
       "source_count": 1,
       "leading_stocks": [
@@ -199,41 +187,53 @@
       "related_news": []
     },
     {
-      "theme_name": "生物制品",
-      "popularity_score": 0.59,
+      "theme_name": "贵金属",
+      "popularity_score": 0.62,
       "count": 1,
-      "avg_change": 3.11,
+      "avg_change": 3.87,
       "news_count": 0,
       "source_count": 1,
       "leading_stocks": [
-        "11.69"
+        "9.97"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "电子化学品",
+      "popularity_score": 0.61,
+      "count": 1,
+      "avg_change": 3.7,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "11.7"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "生物制品",
+      "popularity_score": 0.61,
+      "count": 1,
+      "avg_change": 3.7,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "12.02"
       ],
       "related_news": []
     },
     {
       "theme_name": "化学制药",
-      "popularity_score": 0.58,
+      "popularity_score": 0.59,
       "count": 1,
-      "avg_change": 2.74,
+      "avg_change": 3.06,
       "news_count": 0,
       "source_count": 1,
       "leading_stocks": [
         "9.96"
       ],
       "related_news": []
-    },
-    {
-      "theme_name": "装修装饰",
-      "popularity_score": 0.57,
-      "count": 1,
-      "avg_change": 2.17,
-      "news_count": 0,
-      "source_count": 1,
-      "leading_stocks": [
-        "10.0"
-      ],
-      "related_news": []
     }
   ],
-  "generated_at": "2026-01-05 11:12:04"
+  "generated_at": "2026-01-05 15:32:37"
 }

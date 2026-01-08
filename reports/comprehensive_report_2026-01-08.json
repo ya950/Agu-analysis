@@ -2,135 +2,135 @@
   "date": "2026-01-08",
   "hot_stocks": [
     {
+      "code": "300141",
+      "name": "和顺电气",
+      "change_pct": 20.03,
+      "price": 77727685.0,
+      "volume": 24.43,
+      "amount": -178.13,
+      "pe": 13.61,
+      "market_cap": -3399.83756096323,
+      "timestamp": "2026-01-08 15:28:40"
+    },
+    {
+      "code": "301515",
+      "name": "港通医疗",
+      "change_pct": 20.02,
+      "price": 42139379.0,
+      "volume": 18.8,
+      "amount": -187.2,
+      "pe": 20.96,
+      "market_cap": -150.924090588588,
+      "timestamp": "2026-01-08 15:28:40"
+    },
+    {
       "code": "301079",
       "name": "邵阳液压",
       "change_pct": 20.01,
-      "price": 142383832.0,
-      "volume": 18.9,
+      "price": 156396328.0,
+      "volume": 19.75,
       "amount": 1645.37,
       "pe": 47.1,
       "market_cap": -85.455460008276,
-      "timestamp": "2026-01-08 10:58:57"
+      "timestamp": "2026-01-08 15:28:40"
     },
     {
-      "code": "301137",
-      "name": "哈焊华通",
-      "change_pct": 19.99,
-      "price": 180547727.0,
-      "volume": 11.44,
-      "amount": 332.17,
-      "pe": 53.06,
-      "market_cap": 53.898892148515,
-      "timestamp": "2026-01-08 10:58:57"
-    },
-    {
-      "code": "300986",
-      "name": "志特新材",
-      "change_pct": 19.98,
-      "price": 83610517.0,
-      "volume": 7.23,
-      "amount": 60.77,
-      "pe": 21.9,
-      "market_cap": 98.650687796944,
-      "timestamp": "2026-01-08 10:58:57"
+      "code": "300102",
+      "name": "乾照光电",
+      "change_pct": 20.01,
+      "price": 719759696.0,
+      "volume": 24.83,
+      "amount": 244.79,
+      "pe": 25.32,
+      "market_cap": 80.16562419473,
+      "timestamp": "2026-01-08 15:28:40"
     },
     {
       "code": "688759",
       "name": "必贝特-U",
-      "change_pct": 19.49,
-      "price": 2316044.0,
-      "volume": 27.06,
-      "amount": -155.37,
+      "change_pct": 20.0,
+      "price": 13022851.0,
+      "volume": 30.24,
+      "amount": -156.03,
       "pe": 43.92,
       "market_cap": 0.0,
-      "timestamp": "2026-01-08 10:58:57"
-    },
-    {
-      "code": "300753",
-      "name": "爱朋医疗",
-      "change_pct": 16.05,
-      "price": 176087294.0,
-      "volume": 43.75,
-      "amount": -339.32,
-      "pe": 36.05,
-      "market_cap": -401.635816921766,
-      "timestamp": "2026-01-08 10:58:57"
-    },
-    {
-      "code": "301629",
-      "name": "矽电股份",
-      "change_pct": 15.29,
-      "price": -205265.0,
-      "volume": 28.35,
-      "amount": 367.1,
-      "pe": 255.77,
-      "market_cap": -61.29725956341,
-      "timestamp": "2026-01-08 10:58:57"
-    },
-    {
-      "code": "300170",
-      "name": "汉得信息",
-      "change_pct": 14.8,
-      "price": 459617776.0,
-      "volume": 17.11,
-      "amount": 121.2,
-      "pe": 20.25,
-      "market_cap": 6.956187508867,
-      "timestamp": "2026-01-08 10:58:57"
-    },
-    {
-      "code": "300129",
-      "name": "泰胜风能",
-      "change_pct": 14.67,
-      "price": 37903970.0,
-      "volume": 18.7,
-      "amount": 43.28,
-      "pe": 11.33,
-      "market_cap": 45.108303291004,
-      "timestamp": "2026-01-08 10:58:57"
+      "timestamp": "2026-01-08 15:28:40"
     },
     {
       "code": "688552",
       "name": "航天南湖",
-      "change_pct": 14.45,
-      "price": 48698177.0,
-      "volume": 11.15,
-      "amount": 289.6,
+      "change_pct": 20.0,
+      "price": 187618714.0,
+      "volume": 25.09,
+      "amount": 303.64,
       "pe": 37.04,
       "market_cap": 163.913676171363,
-      "timestamp": "2026-01-08 10:58:57"
+      "timestamp": "2026-01-08 15:28:40"
     },
     {
-      "code": "688106",
-      "name": "金宏气体",
-      "change_pct": 13.5,
-      "price": 47512609.0,
-      "volume": 9.66,
-      "amount": 77.05,
-      "pe": 24.01,
-      "market_cap": -44.899621731406,
-      "timestamp": "2026-01-08 10:58:57"
+      "code": "300065",
+      "name": "海兰信",
+      "change_pct": 20.0,
+      "price": 880297728.0,
+      "volume": 25.7,
+      "amount": 305.86,
+      "pe": 18.77,
+      "market_cap": 290.584807044339,
+      "timestamp": "2026-01-08 15:28:40"
+    },
+    {
+      "code": "688066",
+      "name": "航天宏图",
+      "change_pct": 19.99,
+      "price": 304331616.0,
+      "volume": 22.67,
+      "amount": -20.38,
+      "pe": 31.2,
+      "market_cap": -65.231752520542,
+      "timestamp": "2026-01-08 15:28:40"
+    },
+    {
+      "code": "301368",
+      "name": "丰立智能",
+      "change_pct": 19.99,
+      "price": 216703610.0,
+      "volume": 29.89,
+      "amount": 6375.89,
+      "pe": 61.51,
+      "market_cap": -93.441343518612,
+      "timestamp": "2026-01-08 15:28:40"
+    },
+    {
+      "code": "300753",
+      "name": "爱朋医疗",
+      "change_pct": 19.99,
+      "price": 225440483.0,
+      "volume": 53.64,
+      "amount": -350.84,
+      "pe": 36.05,
+      "market_cap": -401.635816921766,
+      "timestamp": "2026-01-08 15:28:40"
     }
   ],
   "sentiment_analysis": null,
   "theme_analysis": [
     {
       "theme_name": "船舶制造",
-      "popularity_score": 0.63,
+      "popularity_score": 0.72,
       "count": 1,
-      "avg_change": 4.44,
+      "avg_change": 7.36,
       "news_count": 0,
       "source_count": 1,
       "leading_stocks": [
-        "11.25"
+        "20.0"
       ],
       "related_news": []
     },
     {
       "theme_name": "航天航空",
-      "popularity_score": 0.61,
+      "popularity_score": 0.65,
       "count": 1,
-      "avg_change": 3.78,
+      "avg_change": 4.9,
       "news_count": 0,
       "source_count": 1,
       "leading_stocks": [
@@ -139,10 +139,46 @@
       "related_news": []
     },
     {
-      "theme_name": "电源设备",
+      "theme_name": "工程咨询服务",
       "popularity_score": 0.58,
       "count": 1,
-      "avg_change": 2.51,
+      "avg_change": 2.64,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "10.01"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "风电设备",
+      "popularity_score": 0.58,
+      "count": 1,
+      "avg_change": 2.55,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "19.98"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "光伏设备",
+      "popularity_score": 0.57,
+      "count": 1,
+      "avg_change": 2.37,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "10.0"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "互联网服务",
+      "popularity_score": 0.57,
+      "count": 1,
+      "avg_change": 2.25,
       "news_count": 0,
       "source_count": 1,
       "leading_stocks": [
@@ -154,7 +190,7 @@
       "theme_name": "水泥建材",
       "popularity_score": 0.57,
       "count": 1,
-      "avg_change": 2.27,
+      "avg_change": 2.17,
       "news_count": 0,
       "source_count": 1,
       "leading_stocks": [
@@ -163,58 +199,22 @@
       "related_news": []
     },
     {
-      "theme_name": "风电设备",
+      "theme_name": "医疗服务",
       "popularity_score": 0.56,
       "count": 1,
-      "avg_change": 2.1,
+      "avg_change": 2.06,
       "news_count": 0,
       "source_count": 1,
       "leading_stocks": [
-        "14.67"
-      ],
-      "related_news": []
-    },
-    {
-      "theme_name": "工程咨询服务",
-      "popularity_score": 0.56,
-      "count": 1,
-      "avg_change": 1.88,
-      "news_count": 0,
-      "source_count": 1,
-      "leading_stocks": [
-        "10.01"
-      ],
-      "related_news": []
-    },
-    {
-      "theme_name": "互联网服务",
-      "popularity_score": 0.55,
-      "count": 1,
-      "avg_change": 1.81,
-      "news_count": 0,
-      "source_count": 1,
-      "leading_stocks": [
-        "9.96"
-      ],
-      "related_news": []
-    },
-    {
-      "theme_name": "通用设备",
-      "popularity_score": 0.55,
-      "count": 1,
-      "avg_change": 1.79,
-      "news_count": 0,
-      "source_count": 1,
-      "leading_stocks": [
-        "10.0"
+        "9.99"
       ],
       "related_news": []
     },
     {
       "theme_name": "通信设备",
-      "popularity_score": 0.55,
+      "popularity_score": 0.56,
       "count": 1,
-      "avg_change": 1.7,
+      "avg_change": 2.04,
       "news_count": 0,
       "source_count": 1,
       "leading_stocks": [
@@ -223,17 +223,17 @@
       "related_news": []
     },
     {
-      "theme_name": "软件开发",
-      "popularity_score": 0.55,
+      "theme_name": "房地产服务",
+      "popularity_score": 0.56,
       "count": 1,
-      "avg_change": 1.6,
+      "avg_change": 1.98,
       "news_count": 0,
       "source_count": 1,
       "leading_stocks": [
-        "9.99"
+        "5.74"
       ],
       "related_news": []
     }
   ],
-  "generated_at": "2026-01-08 10:59:01"
+  "generated_at": "2026-01-08 15:28:45"
 }

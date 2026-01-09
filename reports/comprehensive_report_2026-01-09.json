@@ -1,0 +1,239 @@
+{
+  "date": "2026-01-09",
+  "hot_stocks": [
+    {
+      "code": "300051",
+      "name": "琏升科技",
+      "change_pct": 20.06,
+      "price": 32020919.0,
+      "volume": 18.87,
+      "amount": -26.87,
+      "pe": 7.78,
+      "market_cap": -36.085836741324,
+      "timestamp": "2026-01-09 10:59:54"
+    },
+    {
+      "code": "300986",
+      "name": "志特新材",
+      "change_pct": 20.02,
+      "price": 43633094.0,
+      "volume": 4.44,
+      "amount": 72.93,
+      "pe": 27.1,
+      "market_cap": 98.650687796944,
+      "timestamp": "2026-01-09 10:59:54"
+    },
+    {
+      "code": "688418",
+      "name": "震有科技",
+      "change_pct": 20.0,
+      "price": 135759667.0,
+      "volume": 11.56,
+      "amount": -175.34,
+      "pe": 48.18,
+      "market_cap": -384.142325154095,
+      "timestamp": "2026-01-09 10:59:54"
+    },
+    {
+      "code": "688543",
+      "name": "国科军工",
+      "change_pct": 20.0,
+      "price": 95089355.0,
+      "volume": 17.65,
+      "amount": 83.22,
+      "pe": 64.76,
+      "market_cap": -4.210065803456,
+      "timestamp": "2026-01-09 10:59:54"
+    },
+    {
+      "code": "688387",
+      "name": "信科移动-U",
+      "change_pct": 20.0,
+      "price": 284801488.0,
+      "volume": 7.05,
+      "amount": -246.13,
+      "pe": 14.15,
+      "market_cap": 2.835544687828,
+      "timestamp": "2026-01-09 10:59:54"
+    },
+    {
+      "code": "301079",
+      "name": "邵阳液压",
+      "change_pct": 20.0,
+      "price": -55657152.0,
+      "volume": 42.05,
+      "amount": 1974.44,
+      "pe": 54.97,
+      "market_cap": -85.455460008276,
+      "timestamp": "2026-01-09 10:59:54"
+    },
+    {
+      "code": "301171",
+      "name": "易点天下",
+      "change_pct": 20.0,
+      "price": 508673392.0,
+      "volume": 27.28,
+      "amount": 91.6,
+      "pe": 44.26,
+      "market_cap": 4.409496361435,
+      "timestamp": "2026-01-09 10:59:54"
+    },
+    {
+      "code": "688281",
+      "name": "华秦科技",
+      "change_pct": 19.31,
+      "price": 40817714.0,
+      "volume": 2.75,
+      "amount": 78.18,
+      "pe": 79.0,
+      "market_cap": -21.478954650514,
+      "timestamp": "2026-01-09 10:59:54"
+    },
+    {
+      "code": "688196",
+      "name": "卓越新能",
+      "change_pct": 18.65,
+      "price": -11737250.0,
+      "volume": 3.61,
+      "amount": 42.68,
+      "pe": 66.98,
+      "market_cap": 81.235037437615,
+      "timestamp": "2026-01-09 10:59:54"
+    },
+    {
+      "code": "300553",
+      "name": "集智股份",
+      "change_pct": 18.61,
+      "price": 53890025.0,
+      "volume": 16.3,
+      "amount": 123.94,
+      "pe": 40.26,
+      "market_cap": 133.249519661384,
+      "timestamp": "2026-01-09 10:59:54"
+    }
+  ],
+  "sentiment_analysis": null,
+  "theme_analysis": [
+    {
+      "theme_name": "航天航空",
+      "popularity_score": 0.64,
+      "count": 1,
+      "avg_change": 4.71,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "10.01"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "小金属",
+      "popularity_score": 0.62,
+      "count": 1,
+      "avg_change": 4.11,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "10.01"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "互联网服务",
+      "popularity_score": 0.58,
+      "count": 1,
+      "avg_change": 2.81,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "10.02"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "贵金属",
+      "popularity_score": 0.58,
+      "count": 1,
+      "avg_change": 2.75,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "4.49"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "采掘行业",
+      "popularity_score": 0.58,
+      "count": 1,
+      "avg_change": 2.7,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "7.59"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "通信设备",
+      "popularity_score": 0.57,
+      "count": 1,
+      "avg_change": 2.44,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "10.02"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "文化传媒",
+      "popularity_score": 0.57,
+      "count": 1,
+      "avg_change": 2.42,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "10.01"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "多元金融",
+      "popularity_score": 0.57,
+      "count": 1,
+      "avg_change": 2.3,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "9.99"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "有色金属",
+      "popularity_score": 0.57,
+      "count": 1,
+      "avg_change": 2.23,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "9.64"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "商业百货",
+      "popularity_score": 0.56,
+      "count": 1,
+      "avg_change": 2.09,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "10.0"
+      ],
+      "related_news": []
+    }
+  ],
+  "generated_at": "2026-01-09 11:00:00"
+}

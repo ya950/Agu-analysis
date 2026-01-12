@@ -2,135 +2,135 @@
   "date": "2026-01-12",
   "hot_stocks": [
     {
+      "code": "300071",
+      "name": "福石控股",
+      "change_pct": 20.03,
+      "price": 64186208.0,
+      "volume": 31.97,
+      "amount": -120.24,
+      "pe": 7.4,
+      "market_cap": -79.603109650552,
+      "timestamp": "2026-01-12 15:31:27"
+    },
+    {
+      "code": "300058",
+      "name": "蓝色光标",
+      "change_pct": 20.02,
+      "price": -113699840.0,
+      "volume": 34.96,
+      "amount": 283.74,
+      "pe": 17.71,
+      "market_cap": 58.89884761652,
+      "timestamp": "2026-01-12 15:31:27"
+    },
+    {
+      "code": "300229",
+      "name": "拓尔思",
+      "change_pct": 20.02,
+      "price": 775740336.0,
+      "volume": 20.27,
+      "amount": -108.22,
+      "pe": 22.81,
+      "market_cap": -460.244685160365,
+      "timestamp": "2026-01-12 15:31:27"
+    },
+    {
+      "code": "300435",
+      "name": "中泰股份",
+      "change_pct": 20.02,
+      "price": 4329204.0,
+      "volume": 13.28,
+      "amount": 27.25,
+      "pe": 27.66,
+      "market_cap": 77.068755979122,
+      "timestamp": "2026-01-12 15:31:27"
+    },
+    {
       "code": "688118",
       "name": "普元信息",
       "change_pct": 20.01,
-      "price": 68861143.0,
-      "volume": 15.95,
+      "price": 77425011.0,
+      "volume": 16.76,
       "amount": -54.73,
       "pe": 31.02,
       "market_cap": 35.910234585217,
-      "timestamp": "2026-01-12 11:07:13"
+      "timestamp": "2026-01-12 15:31:27"
+    },
+    {
+      "code": "300045",
+      "name": "华力创通",
+      "change_pct": 20.01,
+      "price": 174927744.0,
+      "volume": 31.36,
+      "amount": 1981.01,
+      "pe": 32.1,
+      "market_cap": 132.603707209505,
+      "timestamp": "2026-01-12 15:31:27"
     },
     {
       "code": "688387",
       "name": "信科移动-U",
       "change_pct": 20.01,
-      "price": 50803472.0,
-      "volume": 4.56,
+      "price": 63922176.0,
+      "volume": 4.92,
       "amount": -295.39,
       "pe": 17.86,
       "market_cap": 2.835544687828,
-      "timestamp": "2026-01-12 11:07:13"
+      "timestamp": "2026-01-12 15:31:27"
     },
     {
       "code": "300987",
       "name": "川网传媒",
       "change_pct": 20.01,
-      "price": 47618840.0,
-      "volume": 17.73,
+      "price": 57284699.0,
+      "volume": 18.12,
       "amount": 324.66,
       "pe": 19.49,
       "market_cap": -16.435627531092,
-      "timestamp": "2026-01-12 11:07:13"
+      "timestamp": "2026-01-12 15:31:27"
     },
     {
-      "code": "301378",
-      "name": "通达海",
+      "code": "300520",
+      "name": "科大国创",
       "change_pct": 20.01,
-      "price": 120353130.0,
-      "volume": 19.36,
-      "amount": -54.43,
-      "pe": 33.0,
-      "market_cap": -3.517765464803,
-      "timestamp": "2026-01-12 11:07:13"
+      "price": 515684736.0,
+      "volume": 30.76,
+      "amount": -88.79,
+      "pe": 39.8,
+      "market_cap": -152.013136640494,
+      "timestamp": "2026-01-12 15:31:27"
     },
     {
-      "code": "300816",
-      "name": "艾可蓝",
-      "change_pct": 20.0,
-      "price": 57705829.0,
-      "volume": 9.69,
-      "amount": 48.59,
-      "pe": 54.07,
-      "market_cap": 43.672425915639,
-      "timestamp": "2026-01-12 11:07:13"
-    },
-    {
-      "code": "301171",
-      "name": "易点天下",
-      "change_pct": 20.0,
-      "price": 79182640.0,
-      "volume": 16.0,
-      "amount": 109.92,
-      "pe": 60.0,
-      "market_cap": 4.409496361435,
-      "timestamp": "2026-01-12 11:07:13"
-    },
-    {
-      "code": "688679",
-      "name": "通源环境",
-      "change_pct": 20.0,
-      "price": 16505794.0,
-      "volume": 3.04,
-      "amount": -195.49,
-      "pe": 31.58,
-      "market_cap": -345.82144113157,
-      "timestamp": "2026-01-12 11:07:13"
-    },
-    {
-      "code": "688365",
-      "name": "光云科技",
-      "change_pct": 20.0,
-      "price": 67403528.0,
-      "volume": 8.79,
-      "amount": -520.1,
-      "pe": 21.3,
-      "market_cap": 73.032314899852,
-      "timestamp": "2026-01-12 11:07:13"
-    },
-    {
-      "code": "688282",
-      "name": "理工导航",
-      "change_pct": 20.0,
-      "price": 8370191.0,
-      "volume": 4.09,
-      "amount": -2909.92,
-      "pe": 80.07,
-      "market_cap": 93.543078616754,
-      "timestamp": "2026-01-12 11:07:13"
-    },
-    {
-      "code": "688258",
-      "name": "卓易信息",
-      "change_pct": 20.0,
-      "price": 160597144.0,
-      "volume": 6.32,
-      "amount": 268.65,
-      "pe": 119.0,
-      "market_cap": 122.022350460842,
-      "timestamp": "2026-01-12 11:07:13"
+      "code": "300170",
+      "name": "汉得信息",
+      "change_pct": 20.01,
+      "price": 837071040.0,
+      "volume": 27.66,
+      "amount": 155.14,
+      "pe": 24.87,
+      "market_cap": 6.956187508867,
+      "timestamp": "2026-01-12 15:31:27"
     }
   ],
   "sentiment_analysis": null,
   "theme_analysis": [
     {
-      "theme_name": "文化传媒",
-      "popularity_score": 0.69,
+      "theme_name": "软件开发",
+      "popularity_score": 0.73,
       "count": 1,
-      "avg_change": 6.37,
+      "avg_change": 7.78,
       "news_count": 0,
       "source_count": 1,
       "leading_stocks": [
-        "9.99"
+        "10.0"
       ],
       "related_news": []
     },
     {
       "theme_name": "互联网服务",
-      "popularity_score": 0.68,
+      "popularity_score": 0.73,
       "count": 1,
-      "avg_change": 6.07,
+      "avg_change": 7.52,
       "news_count": 0,
       "source_count": 1,
       "leading_stocks": [
@@ -139,10 +139,22 @@
       "related_news": []
     },
     {
-      "theme_name": "软件开发",
-      "popularity_score": 0.66,
+      "theme_name": "文化传媒",
+      "popularity_score": 0.72,
       "count": 1,
-      "avg_change": 5.2,
+      "avg_change": 7.37,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "9.99"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "航天航空",
+      "popularity_score": 0.68,
+      "count": 1,
+      "avg_change": 5.97,
       "news_count": 0,
       "source_count": 1,
       "leading_stocks": [
@@ -152,9 +164,9 @@
     },
     {
       "theme_name": "游戏",
-      "popularity_score": 0.65,
+      "popularity_score": 0.67,
       "count": 1,
-      "avg_change": 4.91,
+      "avg_change": 5.54,
       "news_count": 0,
       "source_count": 1,
       "leading_stocks": [
@@ -163,34 +175,10 @@
       "related_news": []
     },
     {
-      "theme_name": "航天航空",
+      "theme_name": "通信设备",
       "popularity_score": 0.65,
       "count": 1,
-      "avg_change": 4.87,
-      "news_count": 0,
-      "source_count": 1,
-      "leading_stocks": [
-        "10.0"
-      ],
-      "related_news": []
-    },
-    {
-      "theme_name": "船舶制造",
-      "popularity_score": 0.63,
-      "count": 1,
-      "avg_change": 4.22,
-      "news_count": 0,
-      "source_count": 1,
-      "leading_stocks": [
-        "14.37"
-      ],
-      "related_news": []
-    },
-    {
-      "theme_name": "通信设备",
-      "popularity_score": 0.62,
-      "count": 1,
-      "avg_change": 3.92,
+      "avg_change": 5.16,
       "news_count": 0,
       "source_count": 1,
       "leading_stocks": [
@@ -200,9 +188,9 @@
     },
     {
       "theme_name": "计算机设备",
-      "popularity_score": 0.61,
+      "popularity_score": 0.64,
       "count": 1,
-      "avg_change": 3.58,
+      "avg_change": 4.77,
       "news_count": 0,
       "source_count": 1,
       "leading_stocks": [
@@ -212,9 +200,9 @@
     },
     {
       "theme_name": "教育",
-      "popularity_score": 0.6,
+      "popularity_score": 0.64,
       "count": 1,
-      "avg_change": 3.42,
+      "avg_change": 4.55,
       "news_count": 0,
       "source_count": 1,
       "leading_stocks": [
@@ -223,10 +211,22 @@
       "related_news": []
     },
     {
-      "theme_name": "通信服务",
-      "popularity_score": 0.6,
+      "theme_name": "船舶制造",
+      "popularity_score": 0.62,
       "count": 1,
-      "avg_change": 3.32,
+      "avg_change": 4.07,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "14.59"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "通信服务",
+      "popularity_score": 0.62,
+      "count": 1,
+      "avg_change": 3.85,
       "news_count": 0,
       "source_count": 1,
       "leading_stocks": [
@@ -235,5 +235,5 @@
       "related_news": []
     }
   ],
-  "generated_at": "2026-01-12 11:07:20"
+  "generated_at": "2026-01-12 15:31:33"
 }

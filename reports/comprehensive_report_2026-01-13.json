@@ -1,0 +1,239 @@
+{
+  "date": "2026-01-13",
+  "hot_stocks": [
+    {
+      "code": "300078",
+      "name": "思创医惠",
+      "change_pct": 20.08,
+      "price": 208111887.0,
+      "volume": 17.77,
+      "amount": -999.99,
+      "pe": 4.72,
+      "market_cap": 98.321053452824,
+      "timestamp": "2026-01-13 10:57:50"
+    },
+    {
+      "code": "301333",
+      "name": "诺思格",
+      "change_pct": 20.01,
+      "price": 65909449.0,
+      "volume": 8.65,
+      "amount": 57.97,
+      "pe": 64.13,
+      "market_cap": 13.207802300765,
+      "timestamp": "2026-01-13 10:57:50"
+    },
+    {
+      "code": "300816",
+      "name": "艾可蓝",
+      "change_pct": 20.0,
+      "price": 19105753.0,
+      "volume": 12.54,
+      "amount": 58.31,
+      "pe": 68.8,
+      "market_cap": 43.672425915639,
+      "timestamp": "2026-01-13 10:57:50"
+    },
+    {
+      "code": "301408",
+      "name": "华人健康",
+      "change_pct": 20.0,
+      "price": 113396428.0,
+      "volume": 34.61,
+      "amount": 52.83,
+      "pe": 23.0,
+      "market_cap": 45.211846331455,
+      "timestamp": "2026-01-13 10:57:50"
+    },
+    {
+      "code": "301257",
+      "name": "普蕊斯",
+      "change_pct": 20.0,
+      "price": 23387002.0,
+      "volume": 2.86,
+      "amount": 48.99,
+      "pe": 61.64,
+      "market_cap": 20.919297454246,
+      "timestamp": "2026-01-13 10:57:50"
+    },
+    {
+      "code": "301230",
+      "name": "泓博医药",
+      "change_pct": 20.0,
+      "price": 63629716.0,
+      "volume": 3.99,
+      "amount": 170.64,
+      "pe": 56.64,
+      "market_cap": 127.961675222664,
+      "timestamp": "2026-01-13 10:57:50"
+    },
+    {
+      "code": "301378",
+      "name": "通达海",
+      "change_pct": 19.99,
+      "price": 28946582.0,
+      "volume": 9.83,
+      "amount": -65.32,
+      "pe": 44.88,
+      "market_cap": -3.517765464803,
+      "timestamp": "2026-01-13 10:57:50"
+    },
+    {
+      "code": "300244",
+      "name": "迪安诊断",
+      "change_pct": 19.99,
+      "price": 26963554.0,
+      "volume": 8.83,
+      "amount": 258.48,
+      "pe": 30.36,
+      "market_cap": -56.666523488369,
+      "timestamp": "2026-01-13 10:57:50"
+    },
+    {
+      "code": "688137",
+      "name": "近岸蛋白",
+      "change_pct": 19.99,
+      "price": 33163977.0,
+      "volume": 11.14,
+      "amount": -94.03,
+      "pe": 42.51,
+      "market_cap": -58.059057628374,
+      "timestamp": "2026-01-13 10:57:50"
+    },
+    {
+      "code": "300246",
+      "name": "宝莱特",
+      "change_pct": 19.98,
+      "price": 96882950.0,
+      "volume": 17.05,
+      "amount": -311.39,
+      "pe": 11.58,
+      "market_cap": 38.845793629417,
+      "timestamp": "2026-01-13 10:57:50"
+    }
+  ],
+  "sentiment_analysis": null,
+  "theme_analysis": [
+    {
+      "theme_name": "医疗服务",
+      "popularity_score": 0.66,
+      "count": 1,
+      "avg_change": 5.45,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "9.94"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "采掘行业",
+      "popularity_score": 0.63,
+      "count": 1,
+      "avg_change": 4.48,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "10.0"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "贵金属",
+      "popularity_score": 0.63,
+      "count": 1,
+      "avg_change": 4.41,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "8.83"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "能源金属",
+      "popularity_score": 0.62,
+      "count": 1,
+      "avg_change": 4.01,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "8.02"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "生物制品",
+      "popularity_score": 0.61,
+      "count": 1,
+      "avg_change": 3.8,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "20.0"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "医药商业",
+      "popularity_score": 0.6,
+      "count": 1,
+      "avg_change": 3.26,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "20.0"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "保险",
+      "popularity_score": 0.58,
+      "count": 1,
+      "avg_change": 2.62,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "4.55"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "化学制药",
+      "popularity_score": 0.57,
+      "count": 1,
+      "avg_change": 2.43,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "30.0"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "教育",
+      "popularity_score": 0.57,
+      "count": 1,
+      "avg_change": 2.28,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "10.03"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "医疗器械",
+      "popularity_score": 0.57,
+      "count": 1,
+      "avg_change": 2.18,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "19.98"
+      ],
+      "related_news": []
+    }
+  ],
+  "generated_at": "2026-01-13 10:57:56"
+}

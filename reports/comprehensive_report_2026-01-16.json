@@ -1,0 +1,239 @@
+{
+  "date": "2026-01-16",
+  "hot_stocks": [
+    {
+      "code": "300952",
+      "name": "恒辉安防",
+      "change_pct": 20.0,
+      "price": 49246315.0,
+      "volume": 5.07,
+      "amount": 78.71,
+      "pe": 45.47,
+      "market_cap": -12.849438943347,
+      "timestamp": "2026-01-16 11:00:45"
+    },
+    {
+      "code": "688376",
+      "name": "美埃科技",
+      "change_pct": 20.0,
+      "price": 62966848.0,
+      "volume": 3.98,
+      "amount": 54.85,
+      "pe": 64.95,
+      "market_cap": -5.166748541976,
+      "timestamp": "2026-01-16 11:00:45"
+    },
+    {
+      "code": "300606",
+      "name": "金太阳",
+      "change_pct": 20.0,
+      "price": 108002685.0,
+      "volume": 18.09,
+      "amount": 153.46,
+      "pe": 26.35,
+      "market_cap": 2.827802522205,
+      "timestamp": "2026-01-16 11:00:45"
+    },
+    {
+      "code": "300215",
+      "name": "电科院",
+      "change_pct": 20.0,
+      "price": 143117780.0,
+      "volume": 14.04,
+      "amount": -197.45,
+      "pe": 6.98,
+      "market_cap": -247.442522692567,
+      "timestamp": "2026-01-16 11:00:45"
+    },
+    {
+      "code": "301529",
+      "name": "福赛科技",
+      "change_pct": 20.0,
+      "price": 61024717.0,
+      "volume": 9.93,
+      "amount": 89.74,
+      "pe": 125.8,
+      "market_cap": 104.980609644477,
+      "timestamp": "2026-01-16 11:00:45"
+    },
+    {
+      "code": "301261",
+      "name": "恒工精密",
+      "change_pct": 20.0,
+      "price": 91454705.0,
+      "volume": 16.63,
+      "amount": 94.63,
+      "pe": 94.29,
+      "market_cap": -18.684721743476,
+      "timestamp": "2026-01-16 11:00:45"
+    },
+    {
+      "code": "688334",
+      "name": "西高院",
+      "change_pct": 19.07,
+      "price": 66529941.0,
+      "volume": 15.96,
+      "amount": 30.02,
+      "pe": 21.8,
+      "market_cap": 21.275453116157,
+      "timestamp": "2026-01-16 11:00:45"
+    },
+    {
+      "code": "688234",
+      "name": "天岳先进",
+      "change_pct": 16.88,
+      "price": 1796832.0,
+      "volume": 3.72,
+      "amount": 35148.77,
+      "pe": 96.3,
+      "market_cap": -99.21702800828,
+      "timestamp": "2026-01-16 11:00:45"
+    },
+    {
+      "code": "300882",
+      "name": "万胜智能",
+      "change_pct": 16.49,
+      "price": 58549781.0,
+      "volume": 13.33,
+      "amount": 35.09,
+      "pe": 25.09,
+      "market_cap": 52.180638638183,
+      "timestamp": "2026-01-16 11:00:45"
+    },
+    {
+      "code": "300903",
+      "name": "科翔股份",
+      "change_pct": 16.22,
+      "price": 73031520.0,
+      "volume": 11.95,
+      "amount": -59.21,
+      "pe": 19.83,
+      "market_cap": 31.578564653655,
+      "timestamp": "2026-01-16 11:00:45"
+    }
+  ],
+  "sentiment_analysis": null,
+  "theme_analysis": [
+    {
+      "theme_name": "电网设备",
+      "popularity_score": 0.58,
+      "count": 1,
+      "avg_change": 2.69,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "10.07"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "半导体",
+      "popularity_score": 0.57,
+      "count": 1,
+      "avg_change": 2.45,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "10.02"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "电机",
+      "popularity_score": 0.56,
+      "count": 1,
+      "avg_change": 1.95,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "10.0"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "工程机械",
+      "popularity_score": 0.56,
+      "count": 1,
+      "avg_change": 1.94,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "9.98"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "橡胶制品",
+      "popularity_score": 0.53,
+      "count": 1,
+      "avg_change": 1.11,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "9.99"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "汽车零部件",
+      "popularity_score": 0.53,
+      "count": 1,
+      "avg_change": 1.08,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "20.0"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "电子元件",
+      "popularity_score": 0.53,
+      "count": 1,
+      "avg_change": 1.0,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "10.01"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "通用设备",
+      "popularity_score": 0.53,
+      "count": 1,
+      "avg_change": 0.96,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "20.0"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "小金属",
+      "popularity_score": 0.53,
+      "count": 1,
+      "avg_change": 0.86,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "5.69"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "消费电子",
+      "popularity_score": 0.52,
+      "count": 1,
+      "avg_change": 0.71,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "10.01"
+      ],
+      "related_news": []
+    }
+  ],
+  "generated_at": "2026-01-16 11:00:52"
+}

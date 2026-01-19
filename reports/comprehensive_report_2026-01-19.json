@@ -5,120 +5,132 @@
       "code": "688308",
       "name": "欧科亿",
       "change_pct": 20.0,
-      "price": 46030325.0,
-      "volume": 4.62,
+      "price": 51873291.0,
+      "volume": 4.81,
       "amount": 92.66,
       "pe": 36.48,
       "market_cap": -43.087660747254,
-      "timestamp": "2026-01-19 11:07:46"
-    },
-    {
-      "code": "301005",
-      "name": "超捷股份",
-      "change_pct": 17.99,
-      "price": 277600160.0,
-      "volume": 11.83,
-      "amount": 789.89,
-      "pe": 189.66,
-      "market_cap": 11.519009998706,
-      "timestamp": "2026-01-19 11:07:46"
-    },
-    {
-      "code": "688610",
-      "name": "埃科光电",
-      "change_pct": 17.32,
-      "price": -18252119.0,
-      "volume": 10.65,
-      "amount": 81.44,
-      "pe": 85.0,
-      "market_cap": 253.125231357443,
-      "timestamp": "2026-01-19 11:07:46"
+      "timestamp": "2026-01-19 15:33:09"
     },
     {
       "code": "300444",
       "name": "双杰电气",
-      "change_pct": 17.17,
-      "price": 528397696.0,
-      "volume": 31.5,
-      "amount": 69.29,
+      "change_pct": 20.0,
+      "price": 579051248.0,
+      "volume": 39.16,
+      "amount": 70.97,
       "pe": 12.33,
       "market_cap": 7.591494378202,
-      "timestamp": "2026-01-19 11:07:46"
+      "timestamp": "2026-01-19 15:33:09"
     },
     {
-      "code": "300215",
-      "name": "电科院",
-      "change_pct": 15.32,
-      "price": -44157034.0,
-      "volume": 26.57,
-      "amount": -227.7,
-      "pe": 8.2,
-      "market_cap": -247.442522692567,
-      "timestamp": "2026-01-19 11:07:46"
-    },
-    {
-      "code": "300871",
-      "name": "回盛生物",
-      "change_pct": 15.25,
-      "price": 48790084.0,
-      "volume": 12.34,
-      "amount": 24.23,
-      "pe": 26.26,
-      "market_cap": 494.278144384143,
-      "timestamp": "2026-01-19 11:07:46"
-    },
-    {
-      "code": "300257",
-      "name": "开山股份",
-      "change_pct": 14.79,
-      "price": -94347224.0,
-      "volume": 3.9,
-      "amount": 45.83,
-      "pe": 17.05,
-      "market_cap": 38.0523232725,
-      "timestamp": "2026-01-19 11:07:46"
-    },
-    {
-      "code": "300863",
-      "name": "卡倍亿",
-      "change_pct": 13.99,
-      "price": -26928994.0,
-      "volume": 5.99,
-      "amount": 57.87,
-      "pe": 49.84,
-      "market_cap": 5.014629346795,
-      "timestamp": "2026-01-19 11:07:46"
+      "code": "300279",
+      "name": "和晶科技",
+      "change_pct": 19.98,
+      "price": 110944417.0,
+      "volume": 21.21,
+      "amount": 53.83,
+      "pe": 8.27,
+      "market_cap": 23.841420297707,
+      "timestamp": "2026-01-19 15:33:09"
     },
     {
       "code": "300658",
       "name": "延江股份",
-      "change_pct": 13.9,
-      "price": -74013327.0,
-      "volume": 26.06,
-      "amount": 99.12,
+      "change_pct": 19.97,
+      "price": -42899248.0,
+      "volume": 34.02,
+      "amount": 104.41,
       "pe": 14.09,
       "market_cap": 27.950253748915,
-      "timestamp": "2026-01-19 11:07:46"
+      "timestamp": "2026-01-19 15:33:09"
     },
     {
-      "code": "301081",
-      "name": "严牌股份",
-      "change_pct": 13.63,
-      "price": 6531254.0,
-      "volume": 6.46,
-      "amount": 146.48,
-      "pe": 10.73,
-      "market_cap": -66.308678524859,
-      "timestamp": "2026-01-19 11:07:46"
+      "code": "300111",
+      "name": "向日葵",
+      "change_pct": 19.9,
+      "price": 47160880.0,
+      "volume": 19.63,
+      "amount": 3606.89,
+      "pe": 3.99,
+      "market_cap": -53.102571845816,
+      "timestamp": "2026-01-19 15:33:09"
+    },
+    {
+      "code": "688610",
+      "name": "埃科光电",
+      "change_pct": 18.54,
+      "price": -33513290.0,
+      "volume": 14.16,
+      "amount": 82.29,
+      "pe": 85.0,
+      "market_cap": 253.125231357443,
+      "timestamp": "2026-01-19 15:33:09"
+    },
+    {
+      "code": "300855",
+      "name": "图南股份",
+      "change_pct": 17.08,
+      "price": 35387064.0,
+      "volume": 9.36,
+      "amount": 94.27,
+      "pe": 33.3,
+      "market_cap": -52.205753218321,
+      "timestamp": "2026-01-19 15:33:09"
+    },
+    {
+      "code": "300215",
+      "name": "电科院",
+      "change_pct": 16.67,
+      "price": -51814541.0,
+      "volume": 32.81,
+      "amount": -230.36,
+      "pe": 8.2,
+      "market_cap": -247.442522692567,
+      "timestamp": "2026-01-19 15:33:09"
+    },
+    {
+      "code": "301005",
+      "name": "超捷股份",
+      "change_pct": 16.15,
+      "price": 267492000.0,
+      "volume": 15.82,
+      "amount": 777.56,
+      "pe": 189.66,
+      "market_cap": 11.519009998706,
+      "timestamp": "2026-01-19 15:33:09"
+    },
+    {
+      "code": "301128",
+      "name": "强瑞技术",
+      "change_pct": 16.0,
+      "price": -84217008.0,
+      "volume": 15.07,
+      "amount": 76.08,
+      "pe": 100.41,
+      "market_cap": 46.062726779512,
+      "timestamp": "2026-01-19 15:33:09"
     }
   ],
   "sentiment_analysis": null,
   "theme_analysis": [
     {
-      "theme_name": "电网设备",
-      "popularity_score": 0.63,
+      "theme_name": "贵金属",
+      "popularity_score": 0.66,
       "count": 1,
-      "avg_change": 4.4,
+      "avg_change": 5.39,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "9.99"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "电网设备",
+      "popularity_score": 0.66,
+      "count": 1,
+      "avg_change": 5.28,
       "news_count": 0,
       "source_count": 1,
       "leading_stocks": [
@@ -127,34 +139,10 @@
       "related_news": []
     },
     {
-      "theme_name": "贵金属",
-      "popularity_score": 0.61,
-      "count": 1,
-      "avg_change": 3.6,
-      "news_count": 0,
-      "source_count": 1,
-      "leading_stocks": [
-        "9.0"
-      ],
-      "related_news": []
-    },
-    {
-      "theme_name": "旅游酒店",
-      "popularity_score": 0.58,
-      "count": 1,
-      "avg_change": 2.81,
-      "news_count": 0,
-      "source_count": 1,
-      "leading_stocks": [
-        "9.99"
-      ],
-      "related_news": []
-    },
-    {
       "theme_name": "航天航空",
-      "popularity_score": 0.58,
+      "popularity_score": 0.62,
       "count": 1,
-      "avg_change": 2.58,
+      "avg_change": 4.03,
       "news_count": 0,
       "source_count": 1,
       "leading_stocks": [
@@ -163,34 +151,10 @@
       "related_news": []
     },
     {
-      "theme_name": "航空机场",
-      "popularity_score": 0.57,
+      "theme_name": "化肥行业",
+      "popularity_score": 0.59,
       "count": 1,
-      "avg_change": 2.22,
-      "news_count": 0,
-      "source_count": 1,
-      "leading_stocks": [
-        "5.54"
-      ],
-      "related_news": []
-    },
-    {
-      "theme_name": "风电设备",
-      "popularity_score": 0.57,
-      "count": 1,
-      "avg_change": 2.22,
-      "news_count": 0,
-      "source_count": 1,
-      "leading_stocks": [
-        "12.35"
-      ],
-      "related_news": []
-    },
-    {
-      "theme_name": "包装材料",
-      "popularity_score": 0.57,
-      "count": 1,
-      "avg_change": 2.2,
+      "avg_change": 3.15,
       "news_count": 0,
       "source_count": 1,
       "leading_stocks": [
@@ -199,10 +163,34 @@
       "related_news": []
     },
     {
-      "theme_name": "农药兽药",
-      "popularity_score": 0.57,
+      "theme_name": "旅游酒店",
+      "popularity_score": 0.59,
       "count": 1,
-      "avg_change": 2.19,
+      "avg_change": 3.05,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "9.99"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "化纤行业",
+      "popularity_score": 0.59,
+      "count": 1,
+      "avg_change": 2.99,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "10.06"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "农药兽药",
+      "popularity_score": 0.58,
+      "count": 1,
+      "avg_change": 2.75,
       "news_count": 0,
       "source_count": 1,
       "leading_stocks": [
@@ -211,29 +199,41 @@
       "related_news": []
     },
     {
-      "theme_name": "化纤行业",
-      "popularity_score": 0.57,
+      "theme_name": "航空机场",
+      "popularity_score": 0.58,
       "count": 1,
-      "avg_change": 2.18,
+      "avg_change": 2.58,
       "news_count": 0,
       "source_count": 1,
       "leading_stocks": [
-        "8.44"
+        "6.06"
       ],
       "related_news": []
     },
     {
-      "theme_name": "电机",
-      "popularity_score": 0.56,
+      "theme_name": "电源设备",
+      "popularity_score": 0.57,
       "count": 1,
-      "avg_change": 2.07,
+      "avg_change": 2.48,
       "news_count": 0,
       "source_count": 1,
       "leading_stocks": [
-        "8.74"
+        "11.07"
+      ],
+      "related_news": []
+    },
+    {
+      "theme_name": "风电设备",
+      "popularity_score": 0.57,
+      "count": 1,
+      "avg_change": 2.29,
+      "news_count": 0,
+      "source_count": 1,
+      "leading_stocks": [
+        "12.63"
       ],
       "related_news": []
     }
   ],
-  "generated_at": "2026-01-19 11:07:54"
+  "generated_at": "2026-01-19 15:33:16"
 }
